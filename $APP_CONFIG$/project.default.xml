@@ -1,0 +1,19 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="$USER_HOME$" />
+        <property name="last_opened_file_path" value="$USER_HOME$/projects/GithubBlog" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      </component>
+      <component name="accountSettings">
+        <option name="activeRegion" value="us-east-1" />
+        <option name="recentlyUsedRegions">
+          <list>
+            <option value="us-east-1" />
+          </list>
+        </option>
+      </component>
+    </defaultProject>
+  </component>
+</application>

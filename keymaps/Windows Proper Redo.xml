@@ -1,0 +1,17 @@
+<keymap version="1" name="Windows Proper Redo" parent="$default">
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+</keymap>
