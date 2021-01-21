@@ -14,4 +14,7 @@
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
 </keymap>
