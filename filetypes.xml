@@ -12,6 +12,7 @@
       <removed_mapping pattern="5장 책임과 메시지,md" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="5장 책임과 메시지.md" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="AlarmAddDetailRemark" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="gradlew" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="객체 지도" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
