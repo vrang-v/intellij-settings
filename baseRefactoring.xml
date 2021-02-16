@@ -6,7 +6,6 @@
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="INLINE_METHOD_THIS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
-    <option name="INTRODUCE_LOCAL_CREATE_VAR_TYPE" value="true" />
     <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
   </component>
 </application>

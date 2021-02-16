@@ -2,4 +2,144 @@
   <template name="sout" value="System.out.println($END$);" description="Prints a string to System.out" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
+  <template name="newi" value="$INTERFACE$ $NAME$ = new $IMPL_CLASS$( );&#10;$END$&#10;" description="Create object with interface" toReformat="true" toShortenFQNames="true">
+    <variable name="INTERFACE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="camelCase(INTERFACE)" defaultValue="" alwaysStopAt="false" />
+    <variable name="IMPL_CLASS" expression="subtypes(INTERFACE)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@org.junit.jupiter.api.Test&#10;void test( )&#10;{&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    // then&#10;}" description="Insert Jnit5 test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="testd" value="@org.junit.jupiter.api.Test&#10;@org.junit.jupiter.api.DisplayName(&quot;$DESCRIPTION$&quot;)&#10;void test( )&#10;{&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    // then&#10;}" description="Insert Jnit5 test with DisplayName" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="asrteq" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isEqualTo($EXPECTED$);" description="Insert 'isEqualTo' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="asrt" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$)$END$;" description="Insert assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="asrth" value="org.junit.jupiter.api.Assertions.assertThrows($THROWABLE$.class, ( ) -&gt; {&#10;    $END$&#10;});" description="Insert 'assertThrows' assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="THROWABLE" expression="subtypes(&quot;Exception&quot;)" defaultValue="&quot;RuntimeException&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="getmp" value="@org.springframework.web.bind.annotation.GetMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$PATH$&quot;;&#10;}" description="Create get mapping template" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="camelCase(PATH)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="singlt" value="// TODO! Remove all constructors except private default constructor&#10;private static $TYPE$ instance;&#10;&#10;private $TYPE$( ) { /* private constructor for singleton pattern */ }&#10;&#10;public static $TYPE$ getInstance( )&#10;{&#10;    if (Objects.isNull(instance)) {&#10;        instance = new $TYPE$( );&#10;    }&#10;    return instance;&#10;}&#10;" description="Convert class to singleton pattern" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="singlth" value="// TODO! Remove all constructors except private default constructor&#10;private $TYPE$( ) { /* private constructor for singleton pattern */ }&#10;&#10;public static $TYPE$ getInstance( )&#10;{&#10;    return InstanceHolder.INSTANCE;&#10;}&#10;&#10;private static class InstanceHolder&#10;{&#10;    private static final $TYPE$ INSTANCE = new $TYPE$( );&#10;}&#10;" description="Convert class to singleton holder pattern" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="foo" value="$VAR$" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="newf" value="public $TYPE$ $NAME$ = new $TYPE$( );$END$" description="Create public instance field" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="suggestVariableName(TYPE)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="newfp" value="private $TYPE$ $NAME$ = new $TYPE$( );$END$" description="Create private instance field" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="suggestVariableName(TYPE)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="newv" value="var $NAME$ = new $TYPE$( );&#10;$END$" description="Create object declared as var(Java 10)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="suggestVariableName(TYPE)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="bean" value="@org.springframework.context.annotation.Bean&#10;public $TYPE$ $METHOD_NAME$( )&#10;{&#10;    return new $TYPE$( );&#10;}" description="Make spring bean" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="camelCase(TYPE)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="newo" value="$TYPE$ $NAME$ = new $TYPE$( );&#10;$END$" description="Create object" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="camelCase(TYPE)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="asrtneq" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNotEqualTo($EXPECTED$);" description="Insert 'isNotEqualTo' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="asrtnul" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNull( );" description="Insert 'isNull' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="asrtnulx" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNotNull( );" description="Insert 'isNotNull' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="prearg" value="com.google.common.base.Preconditions.checkArgument($OBJ$);" description="Argument precondition statement(Guava)" toReformat="true" toShortenFQNames="true">
+    <variable name="OBJ" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="prenul" value="com.google.common.base.Preconditions.checkNotNull($OBJ$);" description="Notnull precondition statement(Guava)" toReformat="true" toShortenFQNames="true">
+    <variable name="OBJ" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="// TODO! '$DATE$' $END$" description="Add TODO comment" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
