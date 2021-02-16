@@ -1,0 +1,68 @@
+<templateSet group="Gradle">
+  <template name="lombok" value="// Lombok&#10;compile                 'org.projectlombok:lombok:$VERSION$'&#10;testCompile             'org.projectlombok:lombok:$VERSION$'&#10;annotationProcessor     'org.projectlombok:lombok:$VERSION$'&#10;testAnnotationProcessor 'org.projectlombok:lombok:$VERSION$'$END$" description="Add Lombok dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="guava" value="// Guava&#10;implementation 'com.google.guava:guava:$VERSION$'$END$" description="Add Guava dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="reactor" value="// Reactor Core&#10;implementation 'io.projectreactor:reactor-core:$VERSION$'$END$&#10;" description="Add Reactor-core dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="rxjava3" value="// RxJava3&#10;implementation 'io.reactivex.rxjava3:rxjava:$VERSION$'$END$" description="Add RxJava3 dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="rxjava2" value="// RxJava2&#10;implementation 'io.reactivex.rxjava2:rxjava:$VERSION$'$END$" description="Add RxJava2 dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="junit4" value="// JUnit4&#10;testImplementation 'junit:junit-dep:$VERSION$'$END$&#10;" description="Add JUnit4 dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="junit5" value="// JUnit5&#10;testImplementation 'org.junit.jupiter:junit-jupiter-api:$VERSION$'$END$" description="Add JUnit5 dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="mockito" value="// Mockito Core&#10;testImplementation 'org.mockito:mockito-core:$VERSION$'$END$&#10;" description="Add Mockito-core dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="mariadb" value="// Maria DB&#10;implementation 'org.mariadb.jdbc:mariadb-java-client:$VERSION$'$END$" description="Add MariaDB dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="springboot-mongodb" value="// MongoDB&#10;implementation 'org.springframework.boot:spring-boot-starter-data-mongodb:$VERSION$'$END$" description="Add Spring boot MongoDB dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="mysql" value="// MySQL&#10;implementation 'mysql:mysql-connector-java:$VERSION$'$END$&#10;" description="Add MySQL dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>
