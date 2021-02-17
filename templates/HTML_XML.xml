@@ -1,0 +1,8 @@
+<templateSet group="HTML/XML">
+  <template name="tmlf" value="xmlns:th=&quot;http://www.thymeleaf.org&quot;" description="Insert Thymeleaf to namespace" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="false" />
+    </context>
+  </template>
+</templateSet>
