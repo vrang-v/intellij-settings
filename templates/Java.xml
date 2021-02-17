@@ -60,7 +60,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="foo" value="$VAR$" toReformat="false" toShortenFQNames="true">
+  <template name="foo" value="$VAR$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
