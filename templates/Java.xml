@@ -41,9 +41,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="getmp" value="@org.springframework.web.bind.annotation.GetMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$PATH$&quot;;&#10;}" description="Create HTTP GET request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="getmp" value="@org.springframework.web.bind.annotation.GetMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$VIEW$&quot;;&#10;}" description="Create HTTP GET request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="METHOD_NAME" expression="camelCase(PATH)" defaultValue="" alwaysStopAt="false" />
+    <variable name="METHOD_NAME" expression="camelCase(PATH)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VIEW" expression="camelCase(PATH)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
@@ -143,6 +144,13 @@
     </context>
   </template>
   <template name="getmph" value="@org.springframework.web.bind.annotation.GetMapping(&quot;/&quot;)&#10;public String home( )&#10;{&#10;    return &quot;index&quot;;&#10;}" description="Create HTTP GET home request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="getmps" value="@org.springframework.web.bind.annotation.GetMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$PATH$&quot;;&#10;}" description="Create HTTP GET simple request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="camelCase(PATH)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
