@@ -65,4 +65,15 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="springboot-jdbc" value="// JDBC&#10;implementation 'org.springframework.boot:spring-boot-starter-jdbc:$VERSION$'$END$" description="Add Spring boot JDBC dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="h2db" value="// H2&#10;runtimeOnly 'com.h2database:h2'$END$" description="Add H2 dependency" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
