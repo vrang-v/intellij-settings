@@ -71,7 +71,7 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="h2db" value="// H2&#10;runtimeOnly 'com.h2database:h2'$END$" description="Add H2 dependency" toReformat="true" toShortenFQNames="true">
+  <template name="h2db" value="// H2&#10;runtimeOnly 'com.h2database:h2'$END$" description="Add H2 dependency" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
@@ -83,6 +83,12 @@
     </context>
   </template>
   <template name="springboot-webflux" value="// WebFlux&#10;implementation 'org.springframework.boot:spring-boot-starter-webflux:$VERSION$'$END$" description="Add Spring boot WebFlux dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="kafka" value="// Kafka&#10;implementation 'org.apache.kafka:kafka-clients:$VERSION$'$END$&#10;" description="Add Kafka dependency" toReformat="false" toShortenFQNames="true">
     <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_EXPRESSION" value="true" />
