@@ -8,4 +8,12 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.java.implicit.types" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="java.implicit.types" />
+  </component>
 </application>
