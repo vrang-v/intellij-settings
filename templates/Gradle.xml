@@ -76,4 +76,16 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="springboot-jpa" value="// JPA&#10;implementation 'org.springframework.boot:spring-boot-starter-data-jpa:$VERSION$'$END$" description="Add Spring boot JPA dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="springboot-webflux" value="// WebFlux&#10;implementation 'org.springframework.boot:spring-boot-starter-webflux:$VERSION$'$END$" description="Add Spring boot WebFlux dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>

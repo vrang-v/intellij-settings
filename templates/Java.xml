@@ -49,13 +49,13 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="singlt" value="// TODO! Remove all constructors except private default constructor&#10;private static $TYPE$ instance;&#10;&#10;private $TYPE$( ) { /* private constructor for singleton pattern */ }&#10;&#10;public static $TYPE$ getInstance( )&#10;{&#10;    if (Objects.isNull(instance)) {&#10;        instance = new $TYPE$( );&#10;    }&#10;    return instance;&#10;}&#10;" description="Convert class to singleton pattern" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="singlt" value="// TODO! Remove all constructors except private default constructor&#10;private static $TYPE$ instance;&#10;&#10;private $TYPE$( ) { /* private constructor for singleton pattern */ }&#10;&#10;public static $TYPE$ getInstance( )&#10;{&#10;    if (Objects.isNull(instance)) {&#10;        instance = new $TYPE$( );&#10;    }&#10;    return instance;&#10;}" description="Convert class to singleton pattern" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="singlth" value="// TODO! Remove all constructors except private default constructor&#10;private $TYPE$( ) { /* private constructor for singleton pattern */ }&#10;&#10;public static $TYPE$ getInstance( )&#10;{&#10;    return InstanceHolder.INSTANCE;&#10;}&#10;&#10;private static class InstanceHolder&#10;{&#10;    private static final $TYPE$ INSTANCE = new $TYPE$( );&#10;}&#10;" description="Convert class to singleton holder pattern" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="singlth" value="// TODO! Remove all constructors except private default constructor&#10;private $TYPE$( ) { /* private constructor for singleton pattern */ }&#10;&#10;public static $TYPE$ getInstance( )&#10;{&#10;    return InstanceHolder.INSTANCE;&#10;}&#10;&#10;private static class InstanceHolder&#10;{&#10;    private static final $TYPE$ INSTANCE = new $TYPE$( );&#10;}" description="Convert class to singleton holder pattern" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
