@@ -70,6 +70,9 @@
   <yaml>
     <option name="ALIGN_VALUES_PROPERTIES" value="1" />
   </yaml>
+  <codeStyleSettings language="EditorConfig">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="Groovy">
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
