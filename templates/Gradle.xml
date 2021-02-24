@@ -94,4 +94,10 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="springboot-web" value="// Web&#10;implementation 'org.springframework.boot:spring-boot-starter-web:$VERSION$'$END$&#10;" description="Add Spring boot Web dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
