@@ -100,4 +100,10 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="springboot-thymeleaf" value="// Thymeleaf&#10;implementation 'org.springframework.boot:spring-boot-starter-thymeleaf:$VERSION$'$END$" description="Add Spring boot Thymeleaf dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
