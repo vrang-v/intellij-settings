@@ -94,4 +94,21 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="springboot-web" value="// Web&#10;implementation 'org.springframework.boot:spring-boot-starter-web:$VERSION$'$END$&#10;" description="Add Spring boot Web dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="springboot-thymeleaf" value="// Thymeleaf&#10;implementation 'org.springframework.boot:spring-boot-starter-thymeleaf:$VERSION$'$END$" description="Add Spring boot Thymeleaf dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="springboot-plugin" value="// Spring boot plugin&#10;id 'org.springframework.boot'        version '2.3.9.RELEASE'&#10;id 'io.spring.dependency-management' version '1.0.11.RELEASE'&#10;" description="Add Spring boot Plugin" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
