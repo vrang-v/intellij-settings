@@ -155,4 +155,9 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="cmtfld" value="/* -------------------- field -------------------- */&#10;$END$&#10;/* ----------------------------------------------- */" description="field section comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
