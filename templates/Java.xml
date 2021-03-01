@@ -163,6 +163,7 @@
   <template name="lmd" value="-&gt; {&#10;    $END$&#10;}" description="lamda expression" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CONSUMER" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
 </templateSet>
