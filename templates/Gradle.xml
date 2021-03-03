@@ -88,7 +88,7 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="kafka" value="// Kafka&#10;implementation 'org.apache.kafka:kafka-clients:$VERSION$'$END$&#10;" description="Add Kafka dependency" toReformat="false" toShortenFQNames="true">
+  <template name="kafka" value="// Kafka&#10;implementation 'org.apache.kafka:kafka_2.13:$VERSION$'$END$&#10;&#10;" description="Add Kafka dependency" toReformat="false" toShortenFQNames="true">
     <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_EXPRESSION" value="true" />
@@ -107,6 +107,12 @@
     </context>
   </template>
   <template name="springboot-plugin" value="// Spring boot plugin&#10;id 'org.springframework.boot'        version '2.3.9.RELEASE'&#10;id 'io.spring.dependency-management' version '1.0.11.RELEASE'&#10;" description="Add Spring boot Plugin" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="kafka-clients" value="// Kafka clients&#10;implementation 'org.apache.kafka:kafka-client:$VERSION$'$END$&#10;" description="Add Kafka clients dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
