@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="test" type="JAVA" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -13,6 +12,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
+      <removed_mapping ext="test" approved="true" type="JAVA" />
       <removed_mapping pattern="2장 이상한 나라의 객체" approved="true" type="Markdown" />
       <removed_mapping pattern="4장 역할, 책임, 협력.md" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="5장 책임과 메시지,md" approved="true" type="AUTO_DETECTED" />
