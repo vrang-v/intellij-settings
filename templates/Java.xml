@@ -22,7 +22,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="asrteq" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isEqualTo($EXPECTED$);" description="Insert 'isEqualTo' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="asrteq" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isEqualTo($EXPECTED$);" description="Insert 'isEqualTo' assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPECTED" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -103,20 +103,20 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="asrtneq" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNotEqualTo($EXPECTED$);" description="Insert 'isNotEqualTo' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="asrtneq" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNotEqualTo($EXPECTED$);" description="Insert 'isNotEqualTo' assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPECTED" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="asrtnul" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNull( );" description="Insert 'isNull' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="asrtnul" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNull( );" description="Insert 'isNull' assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="asrtnulx" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNotNull( );" description="Insert 'isNotNull' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="asrtnulx" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNotNull( );" description="Insert 'isNotNull' assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
@@ -165,6 +165,13 @@
       <option name="JAVA_CONSUMER" value="true" />
       <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="asrtsm" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isSameAs($EXPECTED$);" description="Insert 'isSameAs' assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
