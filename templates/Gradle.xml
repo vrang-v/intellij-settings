@@ -123,4 +123,10 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="springboot-validation" value="// Validation&#10;implementation 'org.springframework.boot:spring-boot-starter-validation:$VERSION$'$END$" description="Add Spring boot Validation dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
