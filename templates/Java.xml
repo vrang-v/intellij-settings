@@ -81,7 +81,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="newv" value="var $NAME$ = new $TYPE$( );&#10;$END$" description="Create object declared as var(Java 10)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="newv" value="var $NAME$ = new $TYPE$( );$END$" description="Create object declared as var(Java 10)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="suggestVariableName(TYPE)" defaultValue="" alwaysStopAt="false" />
     <context>
