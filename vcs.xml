@@ -6,9 +6,13 @@
           <option name="url" value="https://github.com/vvsos1/where-alarm-you.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-projects/spring-boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Mingi\IntelliJ_workspace" />
+    <option name="cloneParentDir" value="C:\Users\pc\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
