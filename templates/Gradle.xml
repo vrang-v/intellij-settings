@@ -135,4 +135,10 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="mapstruct" value="// Map Struct&#10;implementation 'org.mapstruct:mapstruct:$VERSION$'$END$" description="Add Map Struct dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
