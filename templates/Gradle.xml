@@ -135,7 +135,7 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="mapstruct" value="// Map Struct&#10;implementation 'org.mapstruct:mapstruct:$VERSION$'$END$" description="Add Map Struct dependency" toReformat="false" toShortenFQNames="true">
+  <template name="mapstruct" value="// Map Struct&#10;// Caution! MapStruct AnnotationProcessor must be declared before Lombok AnnotationProcessor&#10;implementation      'org.mapstruct:mapstruct:$VERSION$'&#10;annotationProcessor 'org.mapstruct:mapstruct-processor:$VERSION$'$END$" description="Add Map Struct dependency" toReformat="false" toShortenFQNames="true">
     <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_EXPRESSION" value="true" />
