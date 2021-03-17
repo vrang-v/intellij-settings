@@ -61,12 +61,6 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="foo" value="$VAR$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
   <template name="newf" value="public $TYPE$ $NAME$ = new $TYPE$( );$END$" description="Create public instance field" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="suggestVariableName(TYPE)" defaultValue="" alwaysStopAt="false" />
