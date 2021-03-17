@@ -41,7 +41,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="getmp" value="@org.springframework.web.bind.annotation.GetMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$VIEW$&quot;;&#10;}" description="HTTP GET request mapping" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="getmp" value="@org.springframework.web.bind.annotation.GetMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$VIEW$&quot;;&#10;}" description="HTTP GET request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
@@ -157,7 +157,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="rqmp" value="@org.springframework.web.bind.annotation.RequestMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$VIEW$&quot;;&#10;}" description="HTTP REQUEST request mapping" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="rqmp" value="@org.springframework.web.bind.annotation.RequestMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$VIEW$&quot;;&#10;}" description="HTTP request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
@@ -165,7 +165,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="putmp" value="@org.springframework.web.bind.annotation.PutMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$RESULT$&quot;;&#10;}" description="HTTP PUT request mapping" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="putmp" value="@org.springframework.web.bind.annotation.PutMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$RESULT$&quot;;&#10;}" description="HTTP PUT request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
@@ -173,7 +173,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="dltmp" value="@org.springframework.web.bind.annotation.DeleteMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$RESULT$&quot;;&#10;}" description="HTTP DELETE request mapping" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="dltmp" value="@org.springframework.web.bind.annotation.DeleteMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$RESULT$&quot;;&#10;}" description="HTTP DELETE request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
@@ -181,7 +181,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="pstmp" value="@org.springframework.web.bind.annotation.PostMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$RESULT$&quot;;&#10;}" description="HTTP POST request mapping" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="pstmp" value="@org.springframework.web.bind.annotation.PostMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$RESULT$&quot;;&#10;}" description="HTTP POST request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
