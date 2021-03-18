@@ -2,7 +2,7 @@
   <template name="sout" value="System.out.println($END$);" description="Prints a string to System.out" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
-  <template name="newi" value="$INTERFACE$ $NAME$ = new $IMPL_CLASS$( );&#10;$END$&#10;" description="Create object with interface" toReformat="true" toShortenFQNames="true">
+  <template name="newi" value="$INTERFACE$ $NAME$ = new $IMPL_CLASS$( );&#10;$END$" description="Create object with interface" toReformat="true" toShortenFQNames="true">
     <variable name="INTERFACE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="camelCase(INTERFACE)" defaultValue="" alwaysStopAt="false" />
     <variable name="IMPL_CLASS" expression="subtypes(INTERFACE)" defaultValue="" alwaysStopAt="true" />
@@ -22,7 +22,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="asrteq" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isEqualTo($EXPECTED$);" description="Insert 'isEqualTo' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="asrteq" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isEqualTo($EXPECTED$);" description="Insert 'isEqualTo' assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPECTED" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -41,10 +41,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="getmp" value="@org.springframework.web.bind.annotation.GetMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$VIEW$&quot;;&#10;}" description="Create HTTP GET request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="getmp" value="@org.springframework.web.bind.annotation.GetMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$VIEW$&quot;;&#10;}" description="HTTP GET request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="METHOD_NAME" expression="camelCase(PATH)" defaultValue="" alwaysStopAt="true" />
-    <variable name="VIEW" expression="camelCase(PATH)" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
@@ -55,16 +55,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="singlth" value="// TODO! Remove all constructors except private default constructor&#10;private $TYPE$( ) { /* private constructor for singleton pattern */ }&#10;&#10;public static $TYPE$ getInstance( )&#10;{&#10;    return InstanceHolder.INSTANCE;&#10;}&#10;&#10;private static class InstanceHolder&#10;{&#10;    private static final $TYPE$ INSTANCE = new $TYPE$( );&#10;}" description="Convert class to singleton holder pattern" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="singlth" value="// TODO! Remove all constructors except private default constructor&#10;private $TYPE$( ) { /* private constructor for singleton pattern */ }&#10;&#10;public static $TYPE$ getInstance( )&#10;{&#10;    return InstanceHolder.instance;&#10;}&#10;&#10;private static class InstanceHolder&#10;{&#10;    private static final $TYPE$ instance = new $TYPE$( );&#10;}" description="Convert class to singleton holder pattern" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="foo" value="$VAR$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
     </context>
   </template>
   <template name="newf" value="public $TYPE$ $NAME$ = new $TYPE$( );$END$" description="Create public instance field" toReformat="true" toShortenFQNames="true" useStaticImport="true">
@@ -81,7 +75,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="newv" value="var $NAME$ = new $TYPE$( );&#10;$END$" description="Create object declared as var(Java 10)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="newv" value="var $NAME$ = new $TYPE$( );$END$" description="Create object declared as var(Java 10)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="suggestVariableName(TYPE)" defaultValue="" alwaysStopAt="false" />
     <context>
@@ -103,20 +97,20 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="asrtneq" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNotEqualTo($EXPECTED$);" description="Insert 'isNotEqualTo' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="asrtneq" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNotEqualTo($EXPECTED$);" description="Insert 'isNotEqualTo' assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPECTED" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="asrtnul" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNull( );" description="Insert 'isNull' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="asrtnul" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNull( );" description="Insert 'isNull' assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="asrtnulx" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNotNull( );" description="Insert 'isNotNull' assertion" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="asrtnulx" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isNotNull( );" description="Insert 'isNotNull' assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
@@ -143,18 +137,6 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="getmph" value="@org.springframework.web.bind.annotation.GetMapping(&quot;/&quot;)&#10;public String home( )&#10;{&#10;    return &quot;index&quot;;&#10;}" description="Create HTTP GET home request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="getmps" value="@org.springframework.web.bind.annotation.GetMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$PATH$&quot;;&#10;}" description="Create HTTP GET simple request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="METHOD_NAME" expression="camelCase(PATH)" defaultValue="" alwaysStopAt="false" />
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
   <template name="cmtfld" value="/* -------------------- field -------------------- */&#10;$END$&#10;/* ----------------------------------------------- */" description="field section comment" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
@@ -163,7 +145,77 @@
   <template name="lmd" value="-&gt; {&#10;    $END$&#10;}" description="lamda expression" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CONSUMER" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="asrtsm" value="org.assertj.core.api.Assertions.assertThat($ACTUAL$).isSameAs($EXPECTED$);" description="Insert 'isSameAs' assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ACTUAL" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rqmp" value="@org.springframework.web.bind.annotation.RequestMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$VIEW$&quot;;&#10;}" description="HTTP request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="putmp" value="@org.springframework.web.bind.annotation.PutMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$RESULT$&quot;;&#10;}" description="HTTP PUT request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="dltmp" value="@org.springframework.web.bind.annotation.DeleteMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$RESULT$&quot;;&#10;}" description="HTTP DELETE request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pstmp" value="@org.springframework.web.bind.annotation.PostMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$RESULT$&quot;;&#10;}" description="HTTP POST request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="patmp" value="@org.springframework.web.bind.annotation.PatchMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$RESULT$&quot;;&#10;}" description="HTTP PATCH request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="lginv" value="log.info(&quot;$EXPR_COPY$ = {}&quot;, $EXPR$);" description="log info message with a value" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lgerv" value="log.error(&quot;$EXPR_COPY$ = {}&quot;, $EXPR$);" description="log error message with a value" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lgwav" value="log.warn(&quot;$EXPR_COPY$ = {}&quot;, $EXPR$);" description="log warning message with a value" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
