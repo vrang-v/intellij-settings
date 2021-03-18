@@ -189,4 +189,33 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="patmp" value="@org.springframework.web.bind.annotation.PatchMapping(&quot;/$PATH$&quot;)&#10;public String $METHOD_NAME$( )&#10;{&#10;    return &quot;$RESULT$&quot;;&#10;}" description="HTTP PATCH request" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="lginv" value="log.info(&quot;$EXPR_COPY$ = {}&quot;, $EXPR$);" description="log info message with a value" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lgerv" value="log.error(&quot;$EXPR_COPY$ = {}&quot;, $EXPR$);" description="log error message with a value" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lgwav" value="log.warn(&quot;$EXPR_COPY$ = {}&quot;, $EXPR$);" description="log warning message with a value" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
