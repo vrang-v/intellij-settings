@@ -88,7 +88,54 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="kafka" value="// Kafka&#10;implementation 'org.apache.kafka:kafka-clients:$VERSION$'$END$&#10;" description="Add Kafka dependency" toReformat="false" toShortenFQNames="true">
+  <template name="kafka" value="// Kafka&#10;implementation 'org.apache.kafka:kafka_2.13:$VERSION$'$END$&#10;&#10;" description="Add Kafka dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="springboot-web" value="// Web&#10;implementation 'org.springframework.boot:spring-boot-starter-web:$VERSION$'$END$&#10;" description="Add Spring boot Web dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="springboot-thymeleaf" value="// Thymeleaf&#10;implementation 'org.springframework.boot:spring-boot-starter-thymeleaf:$VERSION$'$END$" description="Add Spring boot Thymeleaf dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="springboot-plugin" value="// Spring boot plugin&#10;id 'org.springframework.boot'        version '2.3.9.RELEASE'&#10;id 'io.spring.dependency-management' version '1.0.11.RELEASE'&#10;" description="Add Spring boot Plugin" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="kafka-clients" value="// Kafka clients&#10;implementation 'org.apache.kafka:kafka-client:$VERSION$'$END$&#10;" description="Add Kafka clients dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="springboot-devtools" value="// DevTools&#10;implementation 'org.springframework.boot:spring-boot-devtools:$VERSION$'$END$&#10;" description="Add Spring boot DevTools dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="springboot-validation" value="// Validation&#10;implementation 'org.springframework.boot:spring-boot-starter-validation:$VERSION$'$END$" description="Add Spring boot Validation dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="modelmapper" value="// Model Mapper&#10;implementation 'org.modelmappe:modelmapper:$VERSION$'$END$" description="Add Model Mapper dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="mapstruct" value="// Map Struct&#10;// Caution! MapStruct AnnotationProcessor must be declared after Lombok AnnotationProcessor&#10;implementation      'org.mapstruct:mapstruct:$VERSION$'&#10;annotationProcessor 'org.mapstruct:mapstruct-processor:$VERSION$'$END$" description="Add Map Struct dependency" toReformat="false" toShortenFQNames="true">
     <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_EXPRESSION" value="true" />
