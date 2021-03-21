@@ -26,6 +26,9 @@
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
