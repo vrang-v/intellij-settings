@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
