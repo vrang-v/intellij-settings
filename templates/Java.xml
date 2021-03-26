@@ -218,4 +218,26 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="entity" value="@lombok.Getter @lombok.experimental.FieldDefaults(level = lombok.AccessLevel.PRIVATE)&#10;@lombok.NoArgsConstructor(access = lombok.AccessLevel.PROTECTED)&#10;@javax.persistence.Entity" description="JPA Entity" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="entityb" value="@lombok.Getter @lombok.experimental.FieldDefaults(level = lombok.AccessLevel.PRIVATE)&#10;@lombok.Builder @lombok.AllArgsConstructor(access = lombok.AccessLevel.PRIVATE)&#10;@lombok.NoArgsConstructor(access = lombok.AccessLevel.PROTECTED)&#10;@javax.persistence.Entity" description="JPA Entity with Builder" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="Id" value="@javax.persistence.Id @javax.persistence.GeneratedValue&#10;@javax.persistence.Column(name = &quot;$CLASS$_id&quot;)&#10;Long id;" description="Entity id" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS" expression="camelCase(className())" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="Iden" value="@javax.persistence.Id @javax.persistence.GeneratedValue(strategy = javax.persistence.GenerationType.IDENTITY)&#10;@javax.persistence.Column(name = &quot;$CLASS$_id&quot;)&#10;Long id;" description="Entity identity id" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS" expression="camelCase(className())" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
