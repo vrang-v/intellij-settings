@@ -7,5 +7,6 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="go.run.processes.with.pty" value="false" />
     <entry key="async.project.view.collapse.tree.path.recursively" value="true" />
+    <entry key="compiler.automake.allow.when.app.running" value="true" />
   </component>
 </application>
