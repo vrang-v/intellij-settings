@@ -3,6 +3,7 @@
     <option id="js.only.show.names.for.tagged" value="false" />
     <option id="js.only.show.names.for.pipes" value="false" />
     <disabledLanguages>
+      <language id="JAVA" />
       <language id="JavaScript" />
     </disabledLanguages>
   </component>
