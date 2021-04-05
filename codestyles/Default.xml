@@ -120,6 +120,7 @@
     <option name="ALIGN_CONSECUTIVE_VARIABLE_DECLARATIONS" value="true" />
     <option name="ALIGN_CONSECUTIVE_ASSIGNMENTS" value="true" />
     <option name="ALIGN_SUBSEQUENT_SIMPLE_METHODS" value="true" />
+    <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
     <option name="SPACE_WITHIN_EMPTY_METHOD_CALL_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_EMPTY_METHOD_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
