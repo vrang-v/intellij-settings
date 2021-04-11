@@ -147,4 +147,10 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="querydsl" value="// Querydsl&#10;implementation 'com.querydsl:querydsl-jpa:$VERSION$'$END$" description="Add Querydsl dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
