@@ -117,49 +117,9 @@
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="FlutterBazelRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Flutter (Bazel)" pluginName="Flutter" pluginId="io.flutter" />
-                    </value>
-                  </entry>
-                  <entry key="FlutterBazelTestConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Flutter Test (Bazel)" pluginName="Flutter" pluginId="io.flutter" />
-                    </value>
-                  </entry>
-                  <entry key="FlutterRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Flutter" pluginName="Flutter" pluginId="io.flutter" />
-                    </value>
-                  </entry>
-                  <entry key="FlutterTestConfigType">
-                    <value>
-                      <FeaturePluginData displayName="Flutter Test" pluginName="Flutter" pluginId="io.flutter" />
-                    </value>
-                  </entry>
                   <entry key="GlassfishConfiguration">
                     <value>
                       <FeaturePluginData displayName="GlassFish Server" pluginName="GlassFish" pluginId="GlassFish" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="GoAppEngineRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Go App Engine" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
-                    </value>
-                  </entry>
-                  <entry key="GoApplicationRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Go Build" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
-                    </value>
-                  </entry>
-                  <entry key="GoRemoteDebugConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Go Remote" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
-                    </value>
-                  </entry>
-                  <entry key="GoTestRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Go Test" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -382,16 +342,6 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="aws.ecs.cloud-debug">
-                    <value>
-                      <FeaturePluginData displayName="AWS ECS Service Cloud Debug (Beta)" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
-                    </value>
-                  </entry>
-                  <entry key="aws.lambda">
-                    <value>
-                      <FeaturePluginData displayName="AWS Lambda" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
-                    </value>
-                  </entry>
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
@@ -537,11 +487,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="apk">
-                    <value>
-                      <FeaturePluginData displayName="Android application" pluginName="Android" pluginId="org.jetbrains.android" />
-                    </value>
-                  </entry>
                   <entry key="ear">
                     <value>
                       <FeaturePluginData displayName="Java EE Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
