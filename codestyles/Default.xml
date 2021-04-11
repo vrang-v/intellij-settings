@@ -39,7 +39,6 @@
   </JSON>
   <JavaCodeStyleSettings>
     <option name="SPACE_BEFORE_OPENING_ANGLE_BRACKET_IN_TYPE_PARAMETER" value="true" />
-    <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="ALIGN_MULTILINE_TEXT_BLOCKS" value="true" />
     <option name="SPACE_INSIDE_ONE_LINE_ENUM_BRACES" value="true" />
