@@ -5,14 +5,14 @@
     <option name="darkTitleBar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSize" value="13" />
     <option name="tabFontSize" value="17" />
-    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="79cb60" />
     <option name="highlightColor" value="96e593" />
-    <option name="selectedTheme" value="GITHUB" />
+    <option name="selectedTheme" value="LIGHT_CUSTOM" />
     <option name="userId" value="295a198b:1756cd06d88:-8000" />
     <option name="version" value="5.5.0" />
   </component>
