@@ -141,4 +141,16 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="hibernate-entitymanager" value="// Hibernate EntityManager&#10;implementation 'org.hibernate:hibernate-entitymanager:$VERSION$'$END$" description="Add Hibernate EntityManager dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="querydsl" value="// Querydsl&#10;implementation          'com.querydsl:querydsl-jpa:$VERSION$'&#10;annotationProcessor     'com.querydsl:querydsl-apt:$VERSION$:jpa'&#10;testImplementation      'com.querydsl:querydsl-jpa:$VERSION$'&#10;testAnnotationProcessor 'com.querydsl:querydsl-apt:$VERSION$:jpa'$END$&#10;" description="Add Querydsl dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>

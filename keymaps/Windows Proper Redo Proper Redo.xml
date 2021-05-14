@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
@@ -25,6 +28,15 @@
   </action>
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="alt numpad5" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="alt numpad8" />
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt f" />
