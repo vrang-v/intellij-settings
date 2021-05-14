@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
@@ -12,8 +13,8 @@
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="79cb60" />
     <option name="highlightColor" value="96e593" />
-    <option name="selectedTheme" value="LIGHT_CUSTOM" />
+    <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="295a198b:1756cd06d88:-8000" />
-    <option name="version" value="6.1.1" />
+    <option name="version" value="6.4.1" />
   </component>
 </application>
