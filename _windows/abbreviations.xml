@@ -1,8 +1,0 @@
-<application>
-  <component name="AbbreviationManager">
-    <abbreviations>
-      <action id="ToggleFullScreen" />
-      <action id="NewClass" />
-    </abbreviations>
-  </component>
-</application>
