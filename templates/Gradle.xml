@@ -153,4 +153,10 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="jjwt" value="// JJWT&#10;implementation 'io.jsonwebtoken:jjwt-api:$VERSION$'&#10;runtimeOnly    'io.jsonwebtoken:jjwt-impl:$VERSION$'&#10;runtimeOnly    'io.jsonwebtoken:jjwt-orgjson:$VERSION$'$END$" description="Add JWT dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
