@@ -1,0 +1,12 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/activity_fullscreen.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/activity_fullscreen2.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/item_recyclerview.xml" value="0.21784420289855072" />
+      </map>
+    </option>
+  </component>
+</application>
