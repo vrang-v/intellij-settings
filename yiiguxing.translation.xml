@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="vet" />
+      <item value="번역" />
+      <item value="s" />
+      <item value="안녕하세요" />
+      <item value="한그" />
+      <item value="한글" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1627369680361" />
+  </component>
+  <component name="Settings">
+    <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
+    <option name="primaryFontFamily" value="AppleSDGothicNeoM00" />
+  </component>
+</application>
