@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="오늘 나의 참여한 투표 응답을 가져온다" />
+      <item value="오늘 내가 참여한 투표 응답을 가져온다" />
+      <item value="오늘 내가 참여한 투표 " />
+      <item value="오늘 내가 참여한 투표" />
+      <item value="오늘 내가 참여한 " />
       <item value="오늘 참여했던 투표를 가져온다" />
       <item value="오늘 참여한 투표를 가져온다" />
       <item value="오늘 참여한 투표" />
