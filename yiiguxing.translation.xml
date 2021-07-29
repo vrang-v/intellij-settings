@@ -1,9 +1,32 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="date instant" />
+      <item value="instant" />
+      <item value="instatn" />
+      <item value="instatnt" />
+      <item value="find votes participated on date" />
+      <item value="find voters participated on date" />
+      <item value="find votes participated in date" />
+      <item value="find votes participated in da" />
+      <item value="find votes participated in a day" />
+      <item value="find votes par" />
+      <item value="날에 참여한 투표 찾기" />
+      <item value="이 날에 참여한 투표 찾기" />
+      <item value="ㅇ 날에 참여한 투표 찾기" />
+      <item value="그 날에 참여한 투표 찾기" />
+      <item value="그 날에 투표한 " />
+      <item value="그 날에 투표" />
+      <item value="그 날에 투표하" />
+      <item value="그 날에 투" />
+      <item value="그 날에 " />
+      <item value="특정 일에 참가한 투표 찾기" />
+      <item value="특정 일에 참가한 투표 " />
+      <item value="특정 일에 참가한 투표 ㅇ" />
+      <item value="특정 일에 " />
       <item value="오늘 나의 참여한 투표 응답을 가져온다" />
       <item value="오늘 내가 참여한 투표 응답을 가져온다" />
       <item value="오늘 내가 참여한 투표 " />
