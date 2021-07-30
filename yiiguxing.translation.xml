@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="문구" />
       <item value="안내 문구" />
       <item value="pending" />
       <item value="중복된 닉네임인지 체크한다" />
@@ -53,7 +54,6 @@
       <item value="s" />
       <item value="안녕하세요" />
       <item value="한그" />
-      <item value="한글" />
     </histories>
   </component>
   <component name="Cache">
