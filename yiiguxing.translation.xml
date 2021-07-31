@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="불러오다" />
+      <item value="꺼내기" />
+      <item value="꺼내오기" />
+      <item value="RJso" />
       <item value="기타" />
       <item value="접근자" />
       <item value="accesor" />
@@ -50,10 +54,6 @@
       <item value="특정 일에 참가한 투표 찾기" />
       <item value="특정 일에 참가한 투표 " />
       <item value="특정 일에 참가한 투표 ㅇ" />
-      <item value="특정 일에 " />
-      <item value="오늘 나의 참여한 투표 응답을 가져온다" />
-      <item value="오늘 내가 참여한 투표 응답을 가져온다" />
-      <item value="오늘 내가 참여한 투표 " />
     </histories>
   </component>
   <component name="Cache">
