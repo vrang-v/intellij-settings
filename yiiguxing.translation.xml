@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="OnConflict strategy constant to ignore the conflict.&#10;An Insert DAO method that returns the inserted rows ids will return -1 for rows that are not inserted since this strategy will ignore the row if there is a conflict." />
+      <item value="OnConflict strategy constant to replace the old data and continue the transaction.&#10;An Insert DAO method that returns the inserted rows ids will never return -1 since this strategy will always insert a row even if there is a conflict." />
+      <item value="                .wait(1L)&#10;" />
       <item value="실패면 예외를 던진다" />
       <item value="성공이 아니면 예외를 던진다" />
       <item value="ㅅ" />
@@ -51,9 +54,6 @@
       <item value="date instant" />
       <item value="instant" />
       <item value="instatn" />
-      <item value="instatnt" />
-      <item value="find votes participated on date" />
-      <item value="find voters participated on date" />
     </histories>
   </component>
   <component name="Cache">
