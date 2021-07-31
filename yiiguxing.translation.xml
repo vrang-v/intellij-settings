@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="preferences" />
+      <item value="preference" />
       <item value="불러오다" />
       <item value="꺼내기" />
       <item value="꺼내오기" />
@@ -52,8 +54,6 @@
       <item value="그 날에 투" />
       <item value="그 날에 " />
       <item value="특정 일에 참가한 투표 찾기" />
-      <item value="특정 일에 참가한 투표 " />
-      <item value="특정 일에 참가한 투표 ㅇ" />
     </histories>
   </component>
   <component name="Cache">
