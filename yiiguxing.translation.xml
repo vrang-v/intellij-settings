@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="실패면 예외를 던진다" />
+      <item value="성공이 아니면 예외를 던진다" />
+      <item value="ㅅ" />
+      <item value="4xx 에러면 에러를 던진다" />
+      <item value="4xx 에러면 " />
+      <item value="4xxㅔ" />
+      <item value="4ㅌㅌ" />
+      <item value="에" />
+      <item value="에ㄹ" />
+      <item value="4xx에러를 던진ㄷ" />
+      <item value="4xx에러를 던진다" />
+      <item value="4xx에러를 " />
+      <item value="4xx에러" />
+      <item value="4xx" />
       <item value="preferences" />
       <item value="preference" />
       <item value="불러오다" />
@@ -40,20 +54,6 @@
       <item value="instatnt" />
       <item value="find votes participated on date" />
       <item value="find voters participated on date" />
-      <item value="find votes participated in date" />
-      <item value="find votes participated in da" />
-      <item value="find votes participated in a day" />
-      <item value="find votes par" />
-      <item value="날에 참여한 투표 찾기" />
-      <item value="이 날에 참여한 투표 찾기" />
-      <item value="ㅇ 날에 참여한 투표 찾기" />
-      <item value="그 날에 참여한 투표 찾기" />
-      <item value="그 날에 투표한 " />
-      <item value="그 날에 투표" />
-      <item value="그 날에 투표하" />
-      <item value="그 날에 투" />
-      <item value="그 날에 " />
-      <item value="특정 일에 참가한 투표 찾기" />
     </histories>
   </component>
   <component name="Cache">
