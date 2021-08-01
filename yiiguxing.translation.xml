@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="삭제되기 전에" />
       <item value="Could not write JSON: class java.lang.String cannot be cast to class java.lang.Enum" />
       <item value="The Maybe class represents a deferred computation and emission of a single value, no value at all or an exception." />
       <item value="OnConflict strategy constant to ignore the conflict.&#10;An Insert DAO method that returns the inserted rows ids will return -1 for rows that are not inserted since this strategy will ignore the row if there is a conflict." />
@@ -53,7 +54,6 @@
       <item value="중복 체크" />
       <item value="중복된 닉네임" />
       <item value="참가일" />
-      <item value="date instant" />
     </histories>
   </component>
   <component name="Cache">
