@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="selection count" />
+      <item value="selections count" />
       <item value="삭제되기 전에" />
       <item value="Could not write JSON: class java.lang.String cannot be cast to class java.lang.Enum" />
       <item value="The Maybe class represents a deferred computation and emission of a single value, no value at all or an exception." />
@@ -52,8 +54,6 @@
       <item value="중복된 닉네임인" />
       <item value="중복된 " />
       <item value="중복 체크" />
-      <item value="중복된 닉네임" />
-      <item value="참가일" />
     </histories>
   </component>
   <component name="Cache">
