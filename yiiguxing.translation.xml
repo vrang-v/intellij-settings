@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Returns an Observable that is based on applying a specified function to the item emitted by the current Single, where that function returns an ObservableSource." />
+      <item value="증가 선택 수" />
+      <item value="선택 수" />
       <item value="selection count" />
       <item value="selections count" />
       <item value="삭제되기 전에" />
@@ -51,9 +54,6 @@
       <item value="중복된 닉네임을 " />
       <item value="중복된 닉네임인가 체크한다" />
       <item value="중복된 닉네임인가 화" />
-      <item value="중복된 닉네임인" />
-      <item value="중복된 " />
-      <item value="중복 체크" />
     </histories>
   </component>
   <component name="Cache">
