@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="concat" />
+      <item value="원본" />
+      <item value="dnjs" />
+      <item value="dnjsa" />
       <item value="defer" />
       <item value="dege" />
       <item value="deger" />
@@ -50,10 +54,6 @@
       <item value="setle" />
       <item value="setl" />
       <item value="set" />
-      <item value="le" />
-      <item value="Private fields only used as local variables in methods should become local variables" />
-      <item value="안내 문구" />
-      <item value="문구" />
     </histories>
   </component>
   <component name="Cache">
