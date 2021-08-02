@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="defer" />
+      <item value="dege" />
+      <item value="deger" />
       <item value="backpressure" />
       <item value="backpressuree" />
       <item value="Returns an Observable which will subscribe to this Completable and once that is completed then will subscribe to the next ObservableSource. An error event from this Completable will be propagated to the downstream observer and will result in skipping the subscription to the next ObservableSource." />
@@ -51,9 +54,6 @@
       <item value="Private fields only used as local variables in methods should become local variables" />
       <item value="안내 문구" />
       <item value="문구" />
-      <item value="pending" />
-      <item value="중복된 닉네임인지 체크한다" />
-      <item value="중복된 닉네임을 체크한다" />
     </histories>
   </component>
   <component name="Cache">
