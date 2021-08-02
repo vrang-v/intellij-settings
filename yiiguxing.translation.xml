@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="backpressure" />
+      <item value="backpressuree" />
       <item value="Returns an Observable which will subscribe to this Completable and once that is completed then will subscribe to the next ObservableSource. An error event from this Completable will be propagated to the downstream observer and will result in skipping the subscription to the next ObservableSource." />
       <item value="Returns an Observable that is based on applying a specified function to the item emitted by the current Single, where that function returns an ObservableSource." />
       <item value="증가 선택 수" />
@@ -52,8 +54,6 @@
       <item value="pending" />
       <item value="중복된 닉네임인지 체크한다" />
       <item value="중복된 닉네임을 체크한다" />
-      <item value="중복된 닉네임을 " />
-      <item value="중복된 닉네임인가 체크한다" />
     </histories>
   </component>
   <component name="Cache">
