@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="참여안함" />
+      <item value="참여하지 않은" />
+      <item value="참여 여부" />
+      <item value="참여한 " />
       <item value="refresh" />
       <item value="Maps each element of the current Observable into CompletableSources, subscribes to them and waits until the upstream and all CompletableSources complete." />
       <item value="concat" />
@@ -50,10 +54,6 @@
       <item value="기타" />
       <item value="접근자" />
       <item value="accesor" />
-      <item value="lenient" />
-      <item value="lenietn" />
-      <item value="setlenient" />
-      <item value="setle" />
     </histories>
   </component>
   <component name="Cache">
