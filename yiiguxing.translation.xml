@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="참여여부로 투표를 검색" />
+      <item value="참여여부로 " />
+      <item value="참여" />
       <item value="참여한 투표들" />
       <item value="참여한 투표" />
       <item value="participated is true" />
@@ -16,7 +19,6 @@
       <item value="참여했나ㅇ" />
       <item value="참여했나요" />
       <item value="참여했" />
-      <item value="참여" />
       <item value="참여 " />
       <item value="참여안함" />
       <item value="참여하지 않은" />
@@ -52,8 +54,6 @@
       <item value="4xx 에러면 " />
       <item value="4xxㅔ" />
       <item value="4ㅌㅌ" />
-      <item value="에" />
-      <item value="에ㄹ" />
     </histories>
   </component>
   <component name="Cache">
