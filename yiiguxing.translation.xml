@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="participated is true" />
+      <item value="participated" />
+      <item value="partici" />
+      <item value="만약 참여했다면 " />
+      <item value="participating" />
+      <item value="participation is true" />
+      <item value="참여했나" />
+      <item value="참여했나ㅇ" />
+      <item value="참여했나요" />
+      <item value="참여했" />
+      <item value="참여" />
+      <item value="참여 " />
       <item value="참여안함" />
       <item value="참여하지 않은" />
       <item value="참여 여부" />
@@ -42,18 +54,6 @@
       <item value="에ㄹ" />
       <item value="4xx에러를 던진ㄷ" />
       <item value="4xx에러를 던진다" />
-      <item value="4xx에러를 " />
-      <item value="4xx에러" />
-      <item value="4xx" />
-      <item value="preferences" />
-      <item value="preference" />
-      <item value="불러오다" />
-      <item value="꺼내기" />
-      <item value="꺼내오기" />
-      <item value="RJso" />
-      <item value="기타" />
-      <item value="접근자" />
-      <item value="accesor" />
     </histories>
   </component>
   <component name="Cache">
