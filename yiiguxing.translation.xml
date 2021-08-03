@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="결합" />
+      <item value="r" />
       <item value="Type-safe alternative to basePackages for specifying the packages in which to select controllers to be advised by the @RestControllerAdvice annotated class.&#10;Consider creating a special no-op marker class or interface in each package that serves no purpose other than being referenced by this attribute." />
       <item value="Array of classes.&#10;Controllers that are assignable to at least one of the given types will be advised by the @RestControllerAdvice annotated class." />
       <item value="선도ㅈ" />
@@ -52,8 +54,6 @@
       <item value="OnConflict strategy constant to replace the old data and continue the transaction.&#10;An Insert DAO method that returns the inserted rows ids will never return -1 since this strategy will always insert a row even if there is a conflict." />
       <item value="                .wait(1L)&#10;" />
       <item value="실패면 예외를 던진다" />
-      <item value="성공이 아니면 예외를 던진다" />
-      <item value="ㅅ" />
     </histories>
   </component>
   <component name="Cache">
