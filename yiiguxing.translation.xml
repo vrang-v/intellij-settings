@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="참여한 투표들" />
+      <item value="참여한 투표" />
       <item value="participated is true" />
       <item value="participated" />
       <item value="partici" />
@@ -52,8 +54,6 @@
       <item value="4ㅌㅌ" />
       <item value="에" />
       <item value="에ㄹ" />
-      <item value="4xx에러를 던진ㄷ" />
-      <item value="4xx에러를 던진다" />
     </histories>
   </component>
   <component name="Cache">
