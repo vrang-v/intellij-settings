@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Maps each element of the current Observable into CompletableSources, subscribes to them and waits until the upstream and all CompletableSources complete." />
       <item value="concat" />
       <item value="원본" />
       <item value="dnjs" />
@@ -53,7 +54,6 @@
       <item value="setlenient" />
       <item value="setle" />
       <item value="setl" />
-      <item value="set" />
     </histories>
   </component>
   <component name="Cache">
