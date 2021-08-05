@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="attributes" />
+      <item value="attribute" />
       <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request. We're not using cookies because they won't work well in mobile clients." />
       <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the/oauth2/authorize request. We're not using cookies because they won't work well in mobile clients." />
       <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    #- We're not using cookies because they won't work well in mobile clients." />
@@ -52,8 +54,6 @@
       <item value="deger" />
       <item value="backpressure" />
       <item value="backpressuree" />
-      <item value="Returns an Observable which will subscribe to this Completable and once that is completed then will subscribe to the next ObservableSource. An error event from this Completable will be propagated to the downstream observer and will result in skipping the subscription to the next ObservableSource." />
-      <item value="Returns an Observable that is based on applying a specified function to the item emitted by the current Single, where that function returns an ObservableSource." />
     </histories>
   </component>
   <component name="Cache">
