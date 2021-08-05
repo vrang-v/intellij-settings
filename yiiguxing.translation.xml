@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="eprecated&#10;This algorithm is now obsolete." />
       <item value="account principal" />
       <item value="principal accoun" />
       <item value="principal account" />
@@ -53,7 +54,6 @@
       <item value="참여하지 않은" />
       <item value="참여 여부" />
       <item value="참여한 " />
-      <item value="refresh" />
     </histories>
   </component>
   <component name="Cache">
