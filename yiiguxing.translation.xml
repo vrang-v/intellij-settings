@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="oauth2" />
+      <item value="Standard and custom (non-standard) parameter names defined in the OAuth Parameters Registry and used by the authorization endpoint and token endpoint." />
+      <item value="cookie expiration seconds" />
+      <item value="cookie expire seconds" />
       <item value="쿠키 만료 시간" />
       <item value="쿠키 만료" />
       <item value="attributes" />
@@ -50,10 +54,6 @@
       <item value="concat" />
       <item value="원본" />
       <item value="dnjs" />
-      <item value="dnjsa" />
-      <item value="defer" />
-      <item value="dege" />
-      <item value="deger" />
     </histories>
   </component>
   <component name="Cache">
