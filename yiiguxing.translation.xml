@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Override this method to expose the AuthenticationManager from configure(AuthenticationManagerBuilder) to be exposed as a Bean. For example:&#10;&#9;   @Bean(name name=&quot;myAuthenticationManager&quot;)&#10;&#9;   @Override&#10;&#9;   public AuthenticationManager authenticationManagerBean() throws Exception {&#10;&#9;       return super.authenticationManagerBean();&#10;&#9;   }" />
+      <item value="Gets the AuthenticationManager to use. The default strategy is if configure(AuthenticationManagerBuilder) method is overridden to use the AuthenticationManagerBuilder that was passed in. Otherwise, autowire the AuthenticationManager by type." />
       <item value="결합" />
       <item value="r" />
       <item value="Type-safe alternative to basePackages for specifying the packages in which to select controllers to be advised by the @RestControllerAdvice annotated class.&#10;Consider creating a special no-op marker class or interface in each package that serves no purpose other than being referenced by this attribute." />
@@ -52,8 +54,6 @@
       <item value="The Maybe class represents a deferred computation and emission of a single value, no value at all or an exception." />
       <item value="OnConflict strategy constant to ignore the conflict.&#10;An Insert DAO method that returns the inserted rows ids will return -1 for rows that are not inserted since this strategy will ignore the row if there is a conflict." />
       <item value="OnConflict strategy constant to replace the old data and continue the transaction.&#10;An Insert DAO method that returns the inserted rows ids will never return -1 since this strategy will always insert a row even if there is a conflict." />
-      <item value="                .wait(1L)&#10;" />
-      <item value="실패면 예외를 던진다" />
     </histories>
   </component>
   <component name="Cache">
