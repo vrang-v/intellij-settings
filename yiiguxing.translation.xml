@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="account principal" />
+      <item value="principal accoun" />
+      <item value="principal account" />
+      <item value="principal" />
+      <item value="prin" />
       <item value="oauth2" />
       <item value="Standard and custom (non-standard) parameter names defined in the OAuth Parameters Registry and used by the authorization endpoint and token endpoint." />
       <item value="cookie expiration seconds" />
@@ -19,7 +24,6 @@
       <item value="After successfully authenticating with the OAuth2 Provider,&#10;     we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
       <item value="After successfully authenticating with the OAuth2 Provider,&#10;    # we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
       <item value="After successfully authenticating with the OAuth2 Provider,&#10;    # we'll be generating an auth token for the user and sending the token to the&#10;    # redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
-      <item value="principal" />
       <item value="Create a new builder with a CREATED status and a location header set to the given URI." />
       <item value="Override this method to expose the AuthenticationManager from configure(AuthenticationManagerBuilder) to be exposed as a Bean. For example:&#10;&#9;   @Bean(name name=&quot;myAuthenticationManager&quot;)&#10;&#9;   @Override&#10;&#9;   public AuthenticationManager authenticationManagerBean() throws Exception {&#10;&#9;       return super.authenticationManagerBean();&#10;&#9;   }" />
       <item value="Gets the AuthenticationManager to use. The default strategy is if configure(AuthenticationManagerBuilder) method is overridden to use the AuthenticationManagerBuilder that was passed in. Otherwise, autowire the AuthenticationManager by type." />
@@ -50,10 +54,6 @@
       <item value="참여 여부" />
       <item value="참여한 " />
       <item value="refresh" />
-      <item value="Maps each element of the current Observable into CompletableSources, subscribes to them and waits until the upstream and all CompletableSources complete." />
-      <item value="concat" />
-      <item value="원본" />
-      <item value="dnjs" />
     </histories>
   </component>
   <component name="Cache">
