@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request. We're not using cookies because they won't work well in mobile clients." />
+      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the/oauth2/authorize request. We're not using cookies because they won't work well in mobile clients." />
+      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    #- We're not using cookies because they won't work well in mobile clients." />
+      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
+      <item value="After successfully authenticating with the OAuth2 Provider,&#10;     we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
+      <item value="After successfully authenticating with the OAuth2 Provider,&#10;    # we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
+      <item value="After successfully authenticating with the OAuth2 Provider,&#10;    # we'll be generating an auth token for the user and sending the token to the&#10;    # redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
+      <item value="principal" />
       <item value="Create a new builder with a CREATED status and a location header set to the given URI." />
       <item value="Override this method to expose the AuthenticationManager from configure(AuthenticationManagerBuilder) to be exposed as a Bean. For example:&#10;&#9;   @Bean(name name=&quot;myAuthenticationManager&quot;)&#10;&#9;   @Override&#10;&#9;   public AuthenticationManager authenticationManagerBean() throws Exception {&#10;&#9;       return super.authenticationManagerBean();&#10;&#9;   }" />
       <item value="Gets the AuthenticationManager to use. The default strategy is if configure(AuthenticationManagerBuilder) method is overridden to use the AuthenticationManagerBuilder that was passed in. Otherwise, autowire the AuthenticationManager by type." />
@@ -46,14 +54,6 @@
       <item value="backpressuree" />
       <item value="Returns an Observable which will subscribe to this Completable and once that is completed then will subscribe to the next ObservableSource. An error event from this Completable will be propagated to the downstream observer and will result in skipping the subscription to the next ObservableSource." />
       <item value="Returns an Observable that is based on applying a specified function to the item emitted by the current Single, where that function returns an ObservableSource." />
-      <item value="증가 선택 수" />
-      <item value="선택 수" />
-      <item value="selection count" />
-      <item value="selections count" />
-      <item value="삭제되기 전에" />
-      <item value="Could not write JSON: class java.lang.String cannot be cast to class java.lang.Enum" />
-      <item value="The Maybe class represents a deferred computation and emission of a single value, no value at all or an exception." />
-      <item value="OnConflict strategy constant to ignore the conflict.&#10;An Insert DAO method that returns the inserted rows ids will return -1 for rows that are not inserted since this strategy will ignore the row if there is a conflict." />
     </histories>
   </component>
   <component name="Cache">
