@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="쿠키 만료 시간" />
+      <item value="쿠키 만료" />
       <item value="attributes" />
       <item value="attribute" />
       <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request. We're not using cookies because they won't work well in mobile clients." />
@@ -52,8 +54,6 @@
       <item value="defer" />
       <item value="dege" />
       <item value="deger" />
-      <item value="backpressure" />
-      <item value="backpressuree" />
     </histories>
   </component>
   <component name="Cache">
