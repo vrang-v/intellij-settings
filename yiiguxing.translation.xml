@@ -1,9 +1,22 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="한글명" />
+      <item value="전일 종가" />
+      <item value="company" />
+      <item value="ticker" />
+      <item value="중립" />
+      <item value="유지" />
+      <item value="중도" />
+      <item value="중간" />
+      <item value="중" />
+      <item value="증가율" />
+      <item value="변화율" />
+      <item value="상승률" />
+      <item value="tkdtm" />
       <item value="eprecated&#10;This algorithm is now obsolete." />
       <item value="account principal" />
       <item value="principal accoun" />
@@ -41,23 +54,10 @@
       <item value="참여한 투표" />
       <item value="participated is true" />
       <item value="participated" />
-      <item value="partici" />
-      <item value="만약 참여했다면 " />
-      <item value="participating" />
-      <item value="participation is true" />
-      <item value="참여했나" />
-      <item value="참여했나ㅇ" />
-      <item value="참여했나요" />
-      <item value="참여했" />
-      <item value="참여 " />
-      <item value="참여안함" />
-      <item value="참여하지 않은" />
-      <item value="참여 여부" />
-      <item value="참여한 " />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627810115574" />
+    <option name="lastTrimTime" value="1628242148040" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
