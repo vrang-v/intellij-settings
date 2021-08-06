@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="증가율" />
       <item value="변화율" />
       <item value="상승률" />
       <item value="tkdtm" />
@@ -53,7 +54,6 @@
       <item value="참여했나요" />
       <item value="참여했" />
       <item value="참여 " />
-      <item value="참여안함" />
     </histories>
   </component>
   <component name="Cache">
