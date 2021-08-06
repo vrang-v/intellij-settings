@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="hibernate" />
       <item value="한글명" />
       <item value="전일 종가" />
       <item value="company" />
@@ -53,7 +54,6 @@
       <item value="참여한 투표들" />
       <item value="참여한 투표" />
       <item value="participated is true" />
-      <item value="participated" />
     </histories>
   </component>
   <component name="Cache">
