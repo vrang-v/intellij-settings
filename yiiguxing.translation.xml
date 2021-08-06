@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="한글명" />
+      <item value="전일 종가" />
+      <item value="company" />
+      <item value="ticker" />
       <item value="중립" />
       <item value="유지" />
       <item value="중도" />
@@ -50,10 +54,6 @@
       <item value="참여한 투표" />
       <item value="participated is true" />
       <item value="participated" />
-      <item value="partici" />
-      <item value="만약 참여했다면 " />
-      <item value="participating" />
-      <item value="participation is true" />
     </histories>
   </component>
   <component name="Cache">
