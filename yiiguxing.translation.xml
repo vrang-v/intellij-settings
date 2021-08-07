@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="실시간 변동" />
+      <item value="가격 변동" />
       <item value="Constructs and returns a ValueAnimator that animates between int values. A single value implies that that value is the one being animated to. However, this is not typically useful in a ValueAnimator object because there is no way for the object to determine the starting value for the animation (unlike ObjectAnimator, which can derive that value from the target object and property being animated). Therefore, there should typically be two or more values." />
       <item value="참여하지 않았음" />
       <item value="not participate" />
@@ -52,8 +54,6 @@
       <item value="중도" />
       <item value="중간" />
       <item value="중" />
-      <item value="증가율" />
-      <item value="변화율" />
     </histories>
   </component>
   <component name="Cache">
