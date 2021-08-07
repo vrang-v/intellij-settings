@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="fluctate" />
+      <item value="시가총액" />
       <item value="support" />
       <item value="wl" />
       <item value="hibernate" />
@@ -52,8 +54,6 @@
       <item value="선도자" />
       <item value="참여여부로 투표를 검색" />
       <item value="참여여부로 " />
-      <item value="참여" />
-      <item value="참여한 투표들" />
     </histories>
   </component>
   <component name="Cache">
