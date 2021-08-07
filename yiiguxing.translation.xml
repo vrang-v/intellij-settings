@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="is participated?" />
+      <item value="is participateed?" />
+      <item value="is participate?" />
+      <item value="참여했는가?" />
+      <item value="fluctuate rate" />
+      <item value="flucuta" />
       <item value="이더라움" />
       <item value="dlejf" />
       <item value="실시간 정보로 갱신한다" />
@@ -48,12 +54,6 @@
       <item value="attributes" />
       <item value="attribute" />
       <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request. We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the/oauth2/authorize request. We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    #- We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider,&#10;     we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider,&#10;    # we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider,&#10;    # we'll be generating an auth token for the user and sending the token to the&#10;    # redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
     </histories>
   </component>
   <component name="Cache">
