@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="애니메이션을 적용" />
+      <item value="interpolator" />
+      <item value="in" />
       <item value="실시간 변동" />
       <item value="가격 변동" />
       <item value="Constructs and returns a ValueAnimator that animates between int values. A single value implies that that value is the one being animated to. However, this is not typically useful in a ValueAnimator object because there is no way for the object to determine the starting value for the animation (unlike ObjectAnimator, which can derive that value from the target object and property being animated). Therefore, there should typically be two or more values." />
@@ -51,9 +54,6 @@
       <item value="ticker" />
       <item value="중립" />
       <item value="유지" />
-      <item value="중도" />
-      <item value="중간" />
-      <item value="중" />
     </histories>
   </component>
   <component name="Cache">
