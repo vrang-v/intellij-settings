@@ -4,7 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="retrieve" />
+      <item value="retri" />
+      <item value="실시간 시세 갱신" />
+      <item value="관심종목" />
       <item value="fluctate" />
+      <item value="거래 금액" />
+      <item value="거래량" />
+      <item value="일일 정보" />
       <item value="시가총액" />
       <item value="support" />
       <item value="wl" />
@@ -47,13 +54,6 @@
       <item value="Override this method to expose the AuthenticationManager from configure(AuthenticationManagerBuilder) to be exposed as a Bean. For example:&#10;&#9;   @Bean(name name=&quot;myAuthenticationManager&quot;)&#10;&#9;   @Override&#10;&#9;   public AuthenticationManager authenticationManagerBean() throws Exception {&#10;&#9;       return super.authenticationManagerBean();&#10;&#9;   }" />
       <item value="Gets the AuthenticationManager to use. The default strategy is if configure(AuthenticationManagerBuilder) method is overridden to use the AuthenticationManagerBuilder that was passed in. Otherwise, autowire the AuthenticationManager by type." />
       <item value="결합" />
-      <item value="r" />
-      <item value="Type-safe alternative to basePackages for specifying the packages in which to select controllers to be advised by the @RestControllerAdvice annotated class.&#10;Consider creating a special no-op marker class or interface in each package that serves no purpose other than being referenced by this attribute." />
-      <item value="Array of classes.&#10;Controllers that are assignable to at least one of the given types will be advised by the @RestControllerAdvice annotated class." />
-      <item value="선도ㅈ" />
-      <item value="선도자" />
-      <item value="참여여부로 투표를 검색" />
-      <item value="참여여부로 " />
     </histories>
   </component>
   <component name="Cache">
