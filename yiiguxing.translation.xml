@@ -1,9 +1,25 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="참여하지 않았음" />
+      <item value="not participate" />
+      <item value="not " />
+      <item value="unparticipate" />
+      <item value="participate" />
+      <item value="particip" />
+      <item value="participa" />
+      <item value="participante" />
+      <item value="participantd" />
+      <item value="participant" />
+      <item value="unparticipant" />
+      <item value="unpartici" />
+      <item value="불참하였음" />
+      <item value="불참" />
+      <item value="참여하지 않음" />
+      <item value="참여하지않음" />
       <item value="is participated?" />
       <item value="is participateed?" />
       <item value="is participate?" />
@@ -38,22 +54,6 @@
       <item value="증가율" />
       <item value="변화율" />
       <item value="상승률" />
-      <item value="tkdtm" />
-      <item value="eprecated&#10;This algorithm is now obsolete." />
-      <item value="account principal" />
-      <item value="principal accoun" />
-      <item value="principal account" />
-      <item value="principal" />
-      <item value="prin" />
-      <item value="oauth2" />
-      <item value="Standard and custom (non-standard) parameter names defined in the OAuth Parameters Registry and used by the authorization endpoint and token endpoint." />
-      <item value="cookie expiration seconds" />
-      <item value="cookie expire seconds" />
-      <item value="쿠키 만료 시간" />
-      <item value="쿠키 만료" />
-      <item value="attributes" />
-      <item value="attribute" />
-      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request. We're not using cookies because they won't work well in mobile clients." />
     </histories>
   </component>
   <component name="Cache">
