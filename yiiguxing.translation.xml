@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="properties" />
+      <item value="prope" />
+      <item value="이벤트 발행" />
       <item value="애니메이션을 적용" />
       <item value="interpolator" />
       <item value="in" />
@@ -51,9 +54,6 @@
       <item value="한글명" />
       <item value="전일 종가" />
       <item value="company" />
-      <item value="ticker" />
-      <item value="중립" />
-      <item value="유지" />
     </histories>
   </component>
   <component name="Cache">
