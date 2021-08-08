@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Reference to a Transition XML resource defining the desired Transition&#10;             used to move shared elements transferred into the Window's initial content Scene.&#10;             Corresponds to {@link android.view.Window#setSharedElementEnterTransition(&#10;             android.transition.Transition)}. --&gt;" />
+      <item value="explode" />
       <item value="properties" />
       <item value="prope" />
       <item value="이벤트 발행" />
@@ -52,8 +54,6 @@
       <item value="wl" />
       <item value="hibernate" />
       <item value="한글명" />
-      <item value="전일 종가" />
-      <item value="company" />
     </histories>
   </component>
   <component name="Cache">
