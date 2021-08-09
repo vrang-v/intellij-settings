@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="거래량" />
+      <item value="저가" />
+      <item value="고가" />
+      <item value="시가, 종가" />
+      <item value="시가 " />
+      <item value="시가" />
+      <item value="data time" />
       <item value="axis" />
       <item value="gridlines" />
       <item value="grid" />
@@ -47,13 +54,6 @@
       <item value="flucuta" />
       <item value="이더라움" />
       <item value="dlejf" />
-      <item value="실시간 정보로 갱신한다" />
-      <item value="실시간 정보를 반영한다" />
-      <item value="retrieve" />
-      <item value="retri" />
-      <item value="실시간 시세 갱신" />
-      <item value="관심종목" />
-      <item value="fluctate" />
     </histories>
   </component>
   <component name="Cache">
