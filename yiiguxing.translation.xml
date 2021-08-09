@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="오직 가이드라인으로만 사용" />
+      <item value="ㅇ직 " />
       <item value="Transitions a TextView from one font size to another. This does not do any animation of TextView content and if the text changes, this transition will not run.&#10;The animation works by capturing a bitmap of the text at the start and end states. It then scales the start bitmap until it reaches a threshold and switches to the scaled end bitmap for the remainder of the animation. This keeps the jump in bitmaps in the middle of the animation, where it is less noticeable than at the beginning or end of the animation. This transition does not work well with cropped text. TextResize also does not work with changes in TextView gravity." />
       <item value="Reference to a Transition XML resource defining the desired Transition&#10;             used to move shared elements transferred into the Window's initial content Scene.&#10;             Corresponds to {@link android.view.Window#setSharedElementEnterTransition(&#10;             android.transition.Transition)}. --&gt;" />
       <item value="explode" />
@@ -52,8 +54,6 @@
       <item value="일일 정보" />
       <item value="시가총액" />
       <item value="support" />
-      <item value="wl" />
-      <item value="hibernate" />
     </histories>
   </component>
   <component name="Cache">
