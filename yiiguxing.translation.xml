@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="candlestick" />
       <item value="거래소 이름" />
       <item value="거래소" />
       <item value="거래량" />
@@ -53,7 +54,6 @@
       <item value="is participate?" />
       <item value="참여했는가?" />
       <item value="fluctuate rate" />
-      <item value="flucuta" />
     </histories>
   </component>
   <component name="Cache">
