@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="axis" />
+      <item value="gridlines" />
+      <item value="grid" />
+      <item value="두께" />
+      <item value="두꼐" />
       <item value="오직 가이드라인으로만 사용" />
       <item value="ㅇ직 " />
       <item value="Transitions a TextView from one font size to another. This does not do any animation of TextView content and if the text changes, this transition will not run.&#10;The animation works by capturing a bitmap of the text at the start and end states. It then scales the start bitmap until it reaches a threshold and switches to the scaled end bitmap for the remainder of the animation. This keeps the jump in bitmaps in the middle of the animation, where it is less noticeable than at the beginning or end of the animation. This transition does not work well with cropped text. TextResize also does not work with changes in TextView gravity." />
@@ -49,11 +54,6 @@
       <item value="실시간 시세 갱신" />
       <item value="관심종목" />
       <item value="fluctate" />
-      <item value="거래 금액" />
-      <item value="거래량" />
-      <item value="일일 정보" />
-      <item value="시가총액" />
-      <item value="support" />
     </histories>
   </component>
   <component name="Cache">
