@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="거래소 이름" />
+      <item value="거래소" />
       <item value="거래량" />
       <item value="저가" />
       <item value="고가" />
@@ -52,8 +54,6 @@
       <item value="참여했는가?" />
       <item value="fluctuate rate" />
       <item value="flucuta" />
-      <item value="이더라움" />
-      <item value="dlejf" />
     </histories>
   </component>
   <component name="Cache">
