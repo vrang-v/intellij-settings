@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Connection prematurely closed BEFORE response" />
       <item value="부하테스트" />
       <item value="부하" />
       <item value="매일 투표를 생성한다" />
@@ -53,7 +54,6 @@
       <item value="불참하였음" />
       <item value="불참" />
       <item value="참여하지 않음" />
-      <item value="참여하지않음" />
     </histories>
   </component>
   <component name="Cache">
