@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="부하테스트" />
+      <item value="부하" />
       <item value="매일 투표를 생성한다" />
       <item value="매일 " />
       <item value="투표 생성 스케쥴" />
@@ -52,8 +54,6 @@
       <item value="불참" />
       <item value="참여하지 않음" />
       <item value="참여하지않음" />
-      <item value="is participated?" />
-      <item value="is participateed?" />
     </histories>
   </component>
   <component name="Cache">
