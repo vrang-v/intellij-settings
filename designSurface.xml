@@ -5,6 +5,7 @@
         <entry key="..\:/Users/Mingi/Desktop/compose-samples/jetpackdemo/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/AndroidApp/where-alarm-you/app/src/main/res/layout/activity_login.xml" value="0.246875" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/AndroidApp/where-alarm-you/app/src/main/res/layout/activity_sign_up.xml" value="0.246875" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable-v24/round_corner_black.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable/round_corner.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable/round_corner_bar_blue.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable/round_corner_bar_red.xml" value="0.27447916666666666" />
@@ -30,7 +31,7 @@
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/login_activity.xml" value="0.2463768115942029" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/main_activity.xml" value="0.2418478260869565" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/sign_up_activity.xml" value="0.2463768115942029" />
-        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/vote_info_activity.xml" value="0.4" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/vote_info_activity.xml" value="0.264" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/vote_item.xml" value="0.4" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/vote_item_constraint.xml" value="0.2463768115942029" />
       </map>

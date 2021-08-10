@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="점선" />
       <item value="unttach" />
       <item value="attach" />
       <item value="언테ㅊ" />
@@ -53,7 +54,6 @@
       <item value="cron" />
       <item value="Connection prematurely closed BEFORE response" />
       <item value="부하테스트" />
-      <item value="부하" />
     </histories>
   </component>
   <component name="Cache">
