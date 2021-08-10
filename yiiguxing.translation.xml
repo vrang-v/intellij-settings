@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="1칸" />
+      <item value="1" />
+      <item value="fluctuate" />
+      <item value="변화량" />
+      <item value="변화" />
+      <item value="변동" />
+      <item value="변동량" />
       <item value="ease out quart" />
       <item value="ease out quard" />
       <item value="quad" />
@@ -47,13 +54,6 @@
       <item value="시가 " />
       <item value="시가" />
       <item value="data time" />
-      <item value="axis" />
-      <item value="gridlines" />
-      <item value="grid" />
-      <item value="두께" />
-      <item value="두꼐" />
-      <item value="오직 가이드라인으로만 사용" />
-      <item value="ㅇ직 " />
     </histories>
   </component>
   <component name="Cache">
