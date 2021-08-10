@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Boxing is the process of putting a primitive value into an analogous object, such as creating an Integer to hold an int value. Unboxing is the process of retrieving the primitive value from such an object.&#10;Since the original value is unchanged during boxing and unboxing, there’s no point in doing either when not needed. This also applies to autoboxing and auto-unboxing (when Java implicitly handles the primitive/object transition for you)." />
       <item value="가격" />
       <item value="시" />
       <item value="cron" />
@@ -53,7 +54,6 @@
       <item value="participantd" />
       <item value="participant" />
       <item value="unparticipant" />
-      <item value="unpartici" />
     </histories>
   </component>
   <component name="Cache">
