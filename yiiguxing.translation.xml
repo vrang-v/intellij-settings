@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="실행" />
+      <item value="짝수 판별기" />
       <item value="config chart" />
       <item value="configuration chart" />
       <item value="ㅊ" />
@@ -52,8 +54,6 @@
       <item value="properties" />
       <item value="prope" />
       <item value="이벤트 발행" />
-      <item value="애니메이션을 적용" />
-      <item value="interpolator" />
     </histories>
   </component>
   <component name="Cache">
