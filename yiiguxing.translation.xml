@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="가격" />
+      <item value="시" />
+      <item value="cron" />
       <item value="Connection prematurely closed BEFORE response" />
       <item value="부하테스트" />
       <item value="부하" />
@@ -51,9 +54,6 @@
       <item value="participant" />
       <item value="unparticipant" />
       <item value="unpartici" />
-      <item value="불참하였음" />
-      <item value="불참" />
-      <item value="참여하지 않음" />
     </histories>
   </component>
   <component name="Cache">
