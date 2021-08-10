@@ -4,6 +4,21 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="config chart" />
+      <item value="configuration chart" />
+      <item value="ㅊ" />
+      <item value="차트 설정 설정" />
+      <item value="차트 설정" />
+      <item value="null이 아닌 것만 관찰한다" />
+      <item value="load data" />
+      <item value="load dat" />
+      <item value="loading" />
+      <item value="load" />
+      <item value="road" />
+      <item value="loa" />
+      <item value="load view" />
+      <item value="load " />
+      <item value="기억할 수 있는" />
       <item value="Boxing is the process of putting a primitive value into an analogous object, such as creating an Integer to hold an int value. Unboxing is the process of retrieving the primitive value from such an object.&#10;Since the original value is unchanged during boxing and unboxing, there’s no point in doing either when not needed. This also applies to autoboxing and auto-unboxing (when Java implicitly handles the primitive/object transition for you)." />
       <item value="가격" />
       <item value="시" />
@@ -39,21 +54,6 @@
       <item value="이벤트 발행" />
       <item value="애니메이션을 적용" />
       <item value="interpolator" />
-      <item value="in" />
-      <item value="실시간 변동" />
-      <item value="가격 변동" />
-      <item value="Constructs and returns a ValueAnimator that animates between int values. A single value implies that that value is the one being animated to. However, this is not typically useful in a ValueAnimator object because there is no way for the object to determine the starting value for the animation (unlike ObjectAnimator, which can derive that value from the target object and property being animated). Therefore, there should typically be two or more values." />
-      <item value="참여하지 않았음" />
-      <item value="not participate" />
-      <item value="not " />
-      <item value="unparticipate" />
-      <item value="participate" />
-      <item value="particip" />
-      <item value="participa" />
-      <item value="participante" />
-      <item value="participantd" />
-      <item value="participant" />
-      <item value="unparticipant" />
     </histories>
   </component>
   <component name="Cache">
