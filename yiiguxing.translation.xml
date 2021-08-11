@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Create a join with the given target Use fetchJoin() to add the fetchJoin parameter to this join" />
+      <item value="var _vote = new QVote(&quot;sub&quot;);&#10;        var voteParticipated = selectFrom(_vote)&#10;                .distinct( )&#10;                .leftJoin(_vote.ballots, ballot)&#10;                .where(ballot.account.id.eq(search.getAccountId( )));" />
       <item value="점선" />
       <item value="unttach" />
       <item value="attach" />
@@ -52,12 +54,10 @@
       <item value="가격" />
       <item value="시" />
       <item value="cron" />
-      <item value="Connection prematurely closed BEFORE response" />
-      <item value="부하테스트" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628242148040" />
+    <option name="lastTrimTime" value="1628680548548" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
