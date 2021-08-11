@@ -6,6 +6,9 @@
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/AndroidApp/where-alarm-you/app/src/main/res/layout/activity_login.xml" value="0.246875" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/AndroidApp/where-alarm-you/app/src/main/res/layout/activity_sign_up.xml" value="0.246875" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable-v24/round_corner_black.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable-v24/round_corner_grey.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable-v24/round_corner_pink.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable-v24/round_corner_yellow.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable/char_interval_btn.xml" value="0.2734375" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable/chart_interval_text_color.xml" value="0.2734375" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable/round_corner.xml" value="0.27447916666666666" />
@@ -18,6 +21,7 @@
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable/round_corner_button_selector.xml" value="0.24305555555555555" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable/round_corner_pink.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable/round_corner_red.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/drawable/round_corner_yellow.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout-v26/vote_info_activity.xml" value="0.2463768115942029" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout-v26/vote_item.xml" value="0.2463768115942029" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/activity_entry_point.xml" value="0.2418478260869565" />
