@@ -4,6 +4,31 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="chrono unit" />
+      <item value="chrono" />
+      <item value="업데이트를 해야한다" />
+      <item value="업데이트를 해야한" />
+      <item value="업데이트를 " />
+      <item value="갱신을 해야한ㄷ" />
+      <item value="갱신을 해야한다" />
+      <item value="갱신을 해야ㅎ" />
+      <item value="갱신을 해야" />
+      <item value="갱신을 해야하나" />
+      <item value="갱신을 해야하나요?" />
+      <item value="갱신을 해야하나요&gt;" />
+      <item value="갱신을 해야하나요" />
+      <item value="갱신이 필요한가요?" />
+      <item value="갱신이 필요한가요" />
+      <item value="갱신이 필요한가" />
+      <item value="암호화폐" />
+      <item value="dkagh" />
+      <item value="참가한 투표들" />
+      <item value="참가한 투표" />
+      <item value="참여했던 투표들" />
+      <item value="참여했던 투표" />
+      <item value="participated votes" />
+      <item value="참여한 투표들" />
+      <item value="참여한 투표" />
       <item value="Create a join with the given target Use fetchJoin() to add the fetchJoin parameter to this join" />
       <item value="var _vote = new QVote(&quot;sub&quot;);&#10;        var voteParticipated = selectFrom(_vote)&#10;                .distinct( )&#10;                .leftJoin(_vote.ballots, ballot)&#10;                .where(ballot.account.id.eq(search.getAccountId( )));" />
       <item value="점선" />
@@ -29,31 +54,6 @@
       <item value="변동량" />
       <item value="ease out quart" />
       <item value="ease out quard" />
-      <item value="quad" />
-      <item value="ease in elastic" />
-      <item value="legend" />
-      <item value="legent" />
-      <item value="실행" />
-      <item value="짝수 판별기" />
-      <item value="config chart" />
-      <item value="configuration chart" />
-      <item value="ㅊ" />
-      <item value="차트 설정 설정" />
-      <item value="차트 설정" />
-      <item value="null이 아닌 것만 관찰한다" />
-      <item value="load data" />
-      <item value="load dat" />
-      <item value="loading" />
-      <item value="load" />
-      <item value="road" />
-      <item value="loa" />
-      <item value="load view" />
-      <item value="load " />
-      <item value="기억할 수 있는" />
-      <item value="Boxing is the process of putting a primitive value into an analogous object, such as creating an Integer to hold an int value. Unboxing is the process of retrieving the primitive value from such an object.&#10;Since the original value is unchanged during boxing and unboxing, there’s no point in doing either when not needed. This also applies to autoboxing and auto-unboxing (when Java implicitly handles the primitive/object transition for you)." />
-      <item value="가격" />
-      <item value="시" />
-      <item value="cron" />
     </histories>
   </component>
   <component name="Cache">
