@@ -1,63 +1,63 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
-      <item value="한글명" />
-      <item value="전일 종가" />
-      <item value="company" />
-      <item value="ticker" />
-      <item value="중립" />
-      <item value="유지" />
-      <item value="중도" />
-      <item value="중간" />
-      <item value="중" />
-      <item value="증가율" />
-      <item value="변화율" />
-      <item value="상승률" />
-      <item value="tkdtm" />
-      <item value="eprecated&#10;This algorithm is now obsolete." />
-      <item value="account principal" />
-      <item value="principal accoun" />
-      <item value="principal account" />
-      <item value="principal" />
-      <item value="prin" />
-      <item value="oauth2" />
-      <item value="Standard and custom (non-standard) parameter names defined in the OAuth Parameters Registry and used by the authorization endpoint and token endpoint." />
-      <item value="cookie expiration seconds" />
-      <item value="cookie expire seconds" />
-      <item value="쿠키 만료 시간" />
-      <item value="쿠키 만료" />
-      <item value="attributes" />
-      <item value="attribute" />
-      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request. We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the/oauth2/authorize request. We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    #- We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider, we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider,&#10;     we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider,&#10;    # we'll be generating an auth token for the user and sending the token to the redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
-      <item value="After successfully authenticating with the OAuth2 Provider,&#10;    # we'll be generating an auth token for the user and sending the token to the&#10;    # redirectUri mentioned by the frontend client in the /oauth2/authorize request.&#10;    # We're not using cookies because they won't work well in mobile clients." />
-      <item value="Create a new builder with a CREATED status and a location header set to the given URI." />
-      <item value="Override this method to expose the AuthenticationManager from configure(AuthenticationManagerBuilder) to be exposed as a Bean. For example:&#10;&#9;   @Bean(name name=&quot;myAuthenticationManager&quot;)&#10;&#9;   @Override&#10;&#9;   public AuthenticationManager authenticationManagerBean() throws Exception {&#10;&#9;       return super.authenticationManagerBean();&#10;&#9;   }" />
-      <item value="Gets the AuthenticationManager to use. The default strategy is if configure(AuthenticationManagerBuilder) method is overridden to use the AuthenticationManagerBuilder that was passed in. Otherwise, autowire the AuthenticationManager by type." />
-      <item value="결합" />
-      <item value="r" />
-      <item value="Type-safe alternative to basePackages for specifying the packages in which to select controllers to be advised by the @RestControllerAdvice annotated class.&#10;Consider creating a special no-op marker class or interface in each package that serves no purpose other than being referenced by this attribute." />
-      <item value="Array of classes.&#10;Controllers that are assignable to at least one of the given types will be advised by the @RestControllerAdvice annotated class." />
-      <item value="선도ㅈ" />
-      <item value="선도자" />
-      <item value="참여여부로 투표를 검색" />
-      <item value="참여여부로 " />
-      <item value="참여" />
+      <item value="chrono unit" />
+      <item value="chrono" />
+      <item value="업데이트를 해야한다" />
+      <item value="업데이트를 해야한" />
+      <item value="업데이트를 " />
+      <item value="갱신을 해야한ㄷ" />
+      <item value="갱신을 해야한다" />
+      <item value="갱신을 해야ㅎ" />
+      <item value="갱신을 해야" />
+      <item value="갱신을 해야하나" />
+      <item value="갱신을 해야하나요?" />
+      <item value="갱신을 해야하나요&gt;" />
+      <item value="갱신을 해야하나요" />
+      <item value="갱신이 필요한가요?" />
+      <item value="갱신이 필요한가요" />
+      <item value="갱신이 필요한가" />
+      <item value="암호화폐" />
+      <item value="dkagh" />
+      <item value="참가한 투표들" />
+      <item value="참가한 투표" />
+      <item value="참여했던 투표들" />
+      <item value="참여했던 투표" />
+      <item value="participated votes" />
       <item value="참여한 투표들" />
       <item value="참여한 투표" />
-      <item value="participated is true" />
-      <item value="participated" />
+      <item value="Create a join with the given target Use fetchJoin() to add the fetchJoin parameter to this join" />
+      <item value="var _vote = new QVote(&quot;sub&quot;);&#10;        var voteParticipated = selectFrom(_vote)&#10;                .distinct( )&#10;                .leftJoin(_vote.ballots, ballot)&#10;                .where(ballot.account.id.eq(search.getAccountId( )));" />
+      <item value="점선" />
+      <item value="unttach" />
+      <item value="attach" />
+      <item value="언테ㅊ" />
+      <item value="언테치" />
+      <item value="untach" />
+      <item value="untac" />
+      <item value="untacch" />
+      <item value="unta" />
+      <item value="터치를 떼다" />
+      <item value="터치를 뗴다" />
+      <item value="떼다" />
+      <item value="뗴다" />
+      <item value="뗴더" />
+      <item value="1칸" />
+      <item value="1" />
+      <item value="fluctuate" />
+      <item value="변화량" />
+      <item value="변화" />
+      <item value="변동" />
+      <item value="변동량" />
+      <item value="ease out quart" />
+      <item value="ease out quard" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628242148040" />
+    <option name="lastTrimTime" value="1628680548548" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
