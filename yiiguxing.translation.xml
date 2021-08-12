@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="가장 마지막에 끝나는 투표를 로드한다" />
+      <item value="가장 마지막에 끝나는 투표를 불러온다" />
+      <item value="가장 마지막에 끝나는 투표를 찾는다" />
+      <item value="가장 마지막에 끝나는" />
+      <item value="가장 마지막에 끝나는 " />
+      <item value="t" />
       <item value="Private fields only used as local variables in methods should become local variables" />
       <item value="검색어" />
       <item value="intent" />
@@ -48,13 +54,13 @@
       <item value="떼다" />
       <item value="뗴다" />
       <item value="뗴더" />
-      <item value="1칸" />
-      <item value="1" />
-      <item value="fluctuate" />
-      <item value="변화량" />
-      <item value="변화" />
-      <item value="변동" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="KOREAN" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1628680548548" />
