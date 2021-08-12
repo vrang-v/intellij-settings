@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Private fields only used as local variables in methods should become local variables" />
+      <item value="검색어" />
+      <item value="intent" />
       <item value="chrono unit" />
       <item value="chrono" />
       <item value="업데이트를 해야한다" />
@@ -51,9 +54,6 @@
       <item value="변화량" />
       <item value="변화" />
       <item value="변동" />
-      <item value="변동량" />
-      <item value="ease out quart" />
-      <item value="ease out quard" />
     </histories>
   </component>
   <component name="Cache">

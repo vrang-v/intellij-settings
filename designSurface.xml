@@ -30,12 +30,16 @@
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/activity_login.xml" value="0.21784420289855072" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/activity_main.xml" value="0.12006079027355623" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/activity_naver_login.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/activity_search.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/activity_sign_up.xml" value="0.21784420289855072" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/activity_vote_info.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/content_search.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/fragment_first.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/item_recyclerview.xml" value="0.536" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/list_item.xml" value="0.2418478260869565" />
-        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/login_activity.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/login_activity.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/main_activity.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/search_item.xml" value="0.25729166666666664" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/sign_up_activity.xml" value="0.2463768115942029" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/vote_info_activity.xml" value="0.264" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/vote_item.xml" value="0.4" />
