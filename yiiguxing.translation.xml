@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="관찰용 데이터 변경" />
       <item value="mutable" />
       <item value="가장 마지막에 끝나는 투표를 로드한다" />
       <item value="가장 마지막에 끝나는 투표를 불러온다" />
@@ -53,7 +54,6 @@
       <item value="터치를 떼다" />
       <item value="터치를 뗴다" />
       <item value="떼다" />
-      <item value="뗴다" />
     </histories>
     <option name="languageScores">
       <map>
