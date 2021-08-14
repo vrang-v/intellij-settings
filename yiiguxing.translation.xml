@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="좌표" />
       <item value="dispose" />
       <item value="관찰용 데이터 변경" />
       <item value="mutable" />
@@ -53,7 +54,6 @@
       <item value="untacch" />
       <item value="unta" />
       <item value="터치를 떼다" />
-      <item value="터치를 뗴다" />
     </histories>
     <option name="languageScores">
       <map>
