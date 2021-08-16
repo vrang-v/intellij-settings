@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="참여 여부" />
+      <item value="보여준다" />
+      <item value="visible Vote Screen" />
+      <item value="visible VoteScreen" />
+      <item value="visibleVoteScreen" />
+      <item value="투표창" />
+      <item value="투표창 " />
+      <item value="마지막 투표 참여 여부" />
       <item value="or로 조합하다" />
       <item value="or로 " />
       <item value="or로 연결하다" />
@@ -46,19 +54,11 @@
       <item value="참가한 투표" />
       <item value="참여했던 투표들" />
       <item value="참여했던 투표" />
-      <item value="participated votes" />
-      <item value="참여한 투표들" />
-      <item value="참여한 투표" />
-      <item value="Create a join with the given target Use fetchJoin() to add the fetchJoin parameter to this join" />
-      <item value="var _vote = new QVote(&quot;sub&quot;);&#10;        var voteParticipated = selectFrom(_vote)&#10;                .distinct( )&#10;                .leftJoin(_vote.ballots, ballot)&#10;                .where(ballot.account.id.eq(search.getAccountId( )));" />
-      <item value="점선" />
-      <item value="unttach" />
-      <item value="attach" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
-        <entry key="KOREAN" value="7" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="KOREAN" value="9" />
       </map>
     </option>
   </component>
