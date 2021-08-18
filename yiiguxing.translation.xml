@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="enrollment start at 3" />
+      <item value="start enrollment at 3" />
+      <item value="예약이 3시에 시작한" />
+      <item value="예약이 3시에 시작한다" />
+      <item value="3시에 시작한다" />
       <item value="참여 여부" />
       <item value="보여준다" />
       <item value="visible Vote Screen" />
@@ -49,21 +54,16 @@
       <item value="갱신이 필요한가요" />
       <item value="갱신이 필요한가" />
       <item value="암호화폐" />
-      <item value="dkagh" />
-      <item value="참가한 투표들" />
-      <item value="참가한 투표" />
-      <item value="참여했던 투표들" />
-      <item value="참여했던 투표" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
-        <entry key="KOREAN" value="9" />
+        <entry key="ENGLISH" value="13" />
+        <entry key="KOREAN" value="16" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628680548548" />
+    <option name="lastTrimTime" value="1629281596217" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
