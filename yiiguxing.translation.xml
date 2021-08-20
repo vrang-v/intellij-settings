@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="오프라인" />
+      <item value="offline" />
+      <item value="둘다 0 아님" />
+      <item value="둘다 0" />
       <item value="예상되는 " />
       <item value="Note: If the object is typed to String upfront, prefer hasLength(String) or hasText(String) instead." />
       <item value="생성한 후에" />
@@ -50,15 +54,11 @@
       <item value="가장 마지막에 끝나는" />
       <item value="가장 마지막에 끝나는 " />
       <item value="t" />
-      <item value="Private fields only used as local variables in methods should become local variables" />
-      <item value="검색어" />
-      <item value="intent" />
-      <item value="chrono unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="15" />
-        <entry key="KOREAN" value="25" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="KOREAN" value="26" />
       </map>
     </option>
   </component>
