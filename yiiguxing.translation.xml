@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="timestamp" />
+      <item value="The annotated element must not be null and must contain at least one non-whitespace character." />
       <item value="enrollment start at 3" />
       <item value="start enrollment at 3" />
       <item value="예약이 3시에 시작한" />
@@ -52,13 +54,11 @@
       <item value="갱신을 해야하나요" />
       <item value="갱신이 필요한가요?" />
       <item value="갱신이 필요한가요" />
-      <item value="갱신이 필요한가" />
-      <item value="암호화폐" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="13" />
-        <entry key="KOREAN" value="16" />
+        <entry key="KOREAN" value="18" />
       </map>
     </option>
   </component>
