@@ -129,7 +129,7 @@
       <option name="GROOVY_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="modelmapper" value="// Model Mapper&#10;implementation 'org.modelmappe:modelmapper:$VERSION$'$END$" description="Add Model Mapper dependency" toReformat="false" toShortenFQNames="true">
+  <template name="modelmapper" value="// Model Mapper&#10;implementation 'org.modelmapper:modelmapper:$VERSION$'$END$" description="Add Model Mapper dependency" toReformat="false" toShortenFQNames="true">
     <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_EXPRESSION" value="true" />
