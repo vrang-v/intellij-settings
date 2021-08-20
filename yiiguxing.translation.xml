@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="생성한 후에" />
+      <item value="post construct" />
+      <item value="post con" />
+      <item value="사후 작업" />
+      <item value="draft" />
       <item value="Public constant media type for application/json;charset=UTF-8.&#10;Deprecated&#10;as of 5.2 in favor of APPLICATION_JSON since major browsers like Chrome now comply with the specification  and interpret correctly UTF-8 special characters without requiring a charset=UTF-8 parameter." />
       <item value="If a declared media type contains a parameter (e.g. &quot;charset=UTF-8&quot;, &quot;type=feed&quot;, &quot;type=entry&quot;) and if a compatible media type from the request has that parameter too, then the parameter values must match. Otherwise if the media type from the request does not contain the parameter, it is assumed the client accepts any value." />
       <item value="이벤트 종료 시간은 이벤트 시작 시간보다 뒤여야 합니다." />
@@ -49,16 +54,11 @@
       <item value="chrono unit" />
       <item value="chrono" />
       <item value="업데이트를 해야한다" />
-      <item value="업데이트를 해야한" />
-      <item value="업데이트를 " />
-      <item value="갱신을 해야한ㄷ" />
-      <item value="갱신을 해야한다" />
-      <item value="갱신을 해야ㅎ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="13" />
-        <entry key="KOREAN" value="20" />
+        <entry key="ENGLISH" value="14" />
+        <entry key="KOREAN" value="23" />
       </map>
     </option>
   </component>
