@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="relaxed" />
+      <item value="rela" />
       <item value="snippet" />
       <item value="fetch data" />
       <item value="fetch" />
@@ -52,13 +54,11 @@
       <item value="or로 묶다" />
       <item value="or로 조립하다" />
       <item value="조합하다" />
-      <item value="공급가액" />
-      <item value="좌표" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="18" />
-        <entry key="KOREAN" value="31" />
+        <entry key="KOREAN" value="32" />
       </map>
     </option>
   </component>
