@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="snippet" />
       <item value="fetch data" />
       <item value="fetch" />
       <item value="입금" />
@@ -53,12 +54,11 @@
       <item value="조합하다" />
       <item value="공급가액" />
       <item value="좌표" />
-      <item value="dispose" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="18" />
-        <entry key="KOREAN" value="30" />
+        <entry key="KOREAN" value="31" />
       </map>
     </option>
   </component>
