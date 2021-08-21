@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="존재하지 않는 id" />
       <item value="relaxed" />
       <item value="rela" />
       <item value="snippet" />
@@ -53,7 +54,6 @@
       <item value="or로 연결하다" />
       <item value="or로 묶다" />
       <item value="or로 조립하다" />
-      <item value="조합하다" />
     </histories>
     <option name="languageScores">
       <map>
