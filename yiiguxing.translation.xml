@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="entity" />
       <item value="역 매핑" />
       <item value="역" />
       <item value="유효하지 않은 이름" />
@@ -53,12 +54,11 @@
       <item value="투표창" />
       <item value="투표창 " />
       <item value="마지막 투표 참여 여부" />
-      <item value="or로 조합하다" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="19" />
-        <entry key="KOREAN" value="33" />
+        <entry key="KOREAN" value="34" />
       </map>
     </option>
   </component>
