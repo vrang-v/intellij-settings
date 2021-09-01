@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="삭제할 노드 번호" />
+      <item value="노드개수" />
+      <item value="노드의 개수" />
+      <item value="트리 순회하다" />
+      <item value="트리 순회" />
       <item value="유효하지 않은 이름" />
       <item value="유효하지 않은 " />
       <item value="존재하지 않는 id" />
@@ -49,11 +54,6 @@
       <item value="visible VoteScreen" />
       <item value="visibleVoteScreen" />
       <item value="투표창" />
-      <item value="투표창 " />
-      <item value="마지막 투표 참여 여부" />
-      <item value="or로 조합하다" />
-      <item value="or로 " />
-      <item value="or로 연결하다" />
     </histories>
     <option name="languageScores">
       <map>
