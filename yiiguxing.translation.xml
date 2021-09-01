@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="각 행의 꺼져있는 램프 수" />
+      <item value="각 열의 꺼져있는 램프 수" />
+      <item value="각 해의 꺼" />
+      <item value="각 열의 꺼진 램프 수" />
+      <item value="꺼진 램프 수" />
       <item value="속도" />
       <item value="반복" />
       <item value="반복횟수" />
@@ -49,11 +54,6 @@
       <item value="이벤트 종료 시간은 이벤트 시작 시간보다 뒤여야 합니다." />
       <item value="등록 마감 시간은 등록 시작 시간보다 뒤여야 합니다." />
       <item value="기본 가격이 최대 가격을 초과할 수 없습니다." />
-      <item value="비즈니스 로직 에러" />
-      <item value="논리적 오류" />
-      <item value="timestamp" />
-      <item value="The annotated element must not be null and must contain at least one non-whitespace character." />
-      <item value="enrollment start at 3" />
     </histories>
     <option name="languageScores">
       <map>
