@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="출발지" />
+      <item value="방문 예정지" />
+      <item value="방문 예정" />
+      <item value="방문 ㅇ" />
+      <item value="방문지" />
       <item value="삭제할 노드 번호" />
       <item value="노드개수" />
       <item value="노드의 개수" />
@@ -49,11 +54,6 @@
       <item value="예약이 3시에 시작한다" />
       <item value="3시에 시작한다" />
       <item value="참여 여부" />
-      <item value="보여준다" />
-      <item value="visible Vote Screen" />
-      <item value="visible VoteScreen" />
-      <item value="visibleVoteScreen" />
-      <item value="투표창" />
     </histories>
     <option name="languageScores">
       <map>
