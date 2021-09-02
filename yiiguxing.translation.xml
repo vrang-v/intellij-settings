@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Restricting the number of break and continue statements in a loop is done in the interest of good structured programming.&#10;Only one break or one continue statement is acceptable in a loop, since it facilitates optimal coding. If there is more than one, the code should be refactored to increase readability." />
       <item value="최소 거리" />
       <item value="최" />
       <item value="다익스트라" />
@@ -53,7 +54,6 @@
       <item value="생성한 후에" />
       <item value="post construct" />
       <item value="post con" />
-      <item value="사후 작업" />
     </histories>
     <option name="languageScores">
       <map>
