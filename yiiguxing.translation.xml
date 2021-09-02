@@ -4,13 +4,17 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="traverser" />
+      <item value="traverse" />
+      <item value=" 방문자" />
+      <item value="출발지" />
+      <item value="트리 탐색" />
       <item value="미로" />
       <item value="좌표평면" />
       <item value="행렬" />
       <item value="좌표" />
       <item value="저" />
       <item value="좊" />
-      <item value="출발지" />
       <item value="방문 예정지" />
       <item value="방문 예정" />
       <item value="방문 ㅇ" />
@@ -50,10 +54,6 @@
       <item value="이벤트 종료 시간은 이벤트 시작 시간보다 뒤여야 합니다." />
       <item value="등록 마감 시간은 등록 시작 시간보다 뒤여야 합니다." />
       <item value="기본 가격이 최대 가격을 초과할 수 없습니다." />
-      <item value="비즈니스 로직 에러" />
-      <item value="논리적 오류" />
-      <item value="timestamp" />
-      <item value="The annotated element must not be null and must contain at least one non-whitespace character." />
     </histories>
     <option name="languageScores">
       <map>
