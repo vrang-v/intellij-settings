@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="목적지" />
+      <item value="이웃들" />
+      <item value="이웃" />
+      <item value="연결" />
+      <item value="반복 횟수" />
+      <item value="반복 회수" />
       <item value="조합" />
       <item value="횟수" />
       <item value="회수" />
@@ -48,12 +54,6 @@
       <item value="예상되는 " />
       <item value="Note: If the object is typed to String upfront, prefer hasLength(String) or hasText(String) instead." />
       <item value="생성한 후에" />
-      <item value="post construct" />
-      <item value="post con" />
-      <item value="사후 작업" />
-      <item value="draft" />
-      <item value="Public constant media type for application/json;charset=UTF-8.&#10;Deprecated&#10;as of 5.2 in favor of APPLICATION_JSON since major browsers like Chrome now comply with the specification  and interpret correctly UTF-8 special characters without requiring a charset=UTF-8 parameter." />
-      <item value="If a declared media type contains a parameter (e.g. &quot;charset=UTF-8&quot;, &quot;type=feed&quot;, &quot;type=entry&quot;) and if a compatible media type from the request has that parameter too, then the parameter values must match. Otherwise if the media type from the request does not contain the parameter, it is assumed the client accepts any value." />
     </histories>
     <option name="languageScores">
       <map>
