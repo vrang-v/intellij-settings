@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="최소 거리" />
+      <item value="최" />
+      <item value="다익스트라" />
+      <item value="간선 추가" />
+      <item value="road" />
+      <item value="ro" />
       <item value="traverser" />
       <item value="traverse" />
       <item value=" 방문자" />
@@ -48,12 +54,6 @@
       <item value="post construct" />
       <item value="post con" />
       <item value="사후 작업" />
-      <item value="draft" />
-      <item value="Public constant media type for application/json;charset=UTF-8.&#10;Deprecated&#10;as of 5.2 in favor of APPLICATION_JSON since major browsers like Chrome now comply with the specification  and interpret correctly UTF-8 special characters without requiring a charset=UTF-8 parameter." />
-      <item value="If a declared media type contains a parameter (e.g. &quot;charset=UTF-8&quot;, &quot;type=feed&quot;, &quot;type=entry&quot;) and if a compatible media type from the request has that parameter too, then the parameter values must match. Otherwise if the media type from the request does not contain the parameter, it is assumed the client accepts any value." />
-      <item value="이벤트 종료 시간은 이벤트 시작 시간보다 뒤여야 합니다." />
-      <item value="등록 마감 시간은 등록 시작 시간보다 뒤여야 합니다." />
-      <item value="기본 가격이 최대 가격을 초과할 수 없습니다." />
     </histories>
     <option name="languageScores">
       <map>
