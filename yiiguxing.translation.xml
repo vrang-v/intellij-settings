@@ -4,33 +4,41 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
-      <item value="Restricting the number of break and continue statements in a loop is done in the interest of good structured programming.&#10;Only one break or one continue statement is acceptable in a loop, since it facilitates optimal coding. If there is more than one, the code should be refactored to increase readability." />
-      <item value="최소 거리" />
-      <item value="최" />
-      <item value="다익스트라" />
-      <item value="간선 추가" />
-      <item value="road" />
-      <item value="ro" />
-      <item value="traverser" />
-      <item value="traverse" />
-      <item value=" 방문자" />
-      <item value="출발지" />
-      <item value="트리 탐색" />
-      <item value="미로" />
-      <item value="좌표평면" />
-      <item value="행렬" />
-      <item value="좌표" />
-      <item value="저" />
-      <item value="좊" />
-      <item value="방문 예정지" />
-      <item value="방문 예정" />
-      <item value="방문 ㅇ" />
-      <item value="방문지" />
-      <item value="삭제할 노드 번호" />
-      <item value="노드개수" />
-      <item value="노드의 개수" />
-      <item value="트리 순회하다" />
-      <item value="트리 순회" />
+      <item value="제곱" />
+      <item value="꼬리" />
+      <item value="선" />
+      <item value="선미" />
+      <item value="선두" />
+      <item value="제곱수" />
+      <item value="목적지" />
+      <item value="이웃들" />
+      <item value="이웃" />
+      <item value="연결" />
+      <item value="반복 횟수" />
+      <item value="반복 회수" />
+      <item value="조합" />
+      <item value="횟수" />
+      <item value="회수" />
+      <item value="각 행의 꺼져있는 램프 수" />
+      <item value="각 열의 꺼져있는 램프 수" />
+      <item value="각 해의 꺼" />
+      <item value="각 열의 꺼진 램프 수" />
+      <item value="꺼진 램프 수" />
+      <item value="속도" />
+      <item value="반복" />
+      <item value="반복횟수" />
+      <item value="중복 아님" />
+      <item value="미중복" />
+      <item value="미" />
+      <item value="인증 실패" />
+      <item value="유효하지 않은 인증 " />
+      <item value="리스트의 모든 것이 매치한다" />
+      <item value="리스트의 모든 것이 매치" />
+      <item value="존재하지 않는 리소스 ID 예외" />
+      <item value="존재하는 id 인가?" />
+      <item value="entity" />
+      <item value="역 매핑" />
+      <item value="역" />
       <item value="유효하지 않은 이름" />
       <item value="유효하지 않은 " />
       <item value="존재하지 않는 id" />
@@ -46,19 +54,11 @@
       <item value="withdraw" />
       <item value="deposit" />
       <item value="오프라인" />
-      <item value="offline" />
-      <item value="둘다 0 아님" />
-      <item value="둘다 0" />
-      <item value="예상되는 " />
-      <item value="Note: If the object is typed to String upfront, prefer hasLength(String) or hasText(String) instead." />
-      <item value="생성한 후에" />
-      <item value="post construct" />
-      <item value="post con" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="18" />
-        <entry key="KOREAN" value="32" />
+        <entry key="ENGLISH" value="21" />
+        <entry key="KOREAN" value="36" />
       </map>
     </option>
   </component>

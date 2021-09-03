@@ -4,7 +4,7 @@
     <property name="created">2020-10-28T10:26:39</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-08-31T00:07:06</property>
+    <property name="modified">2021-09-01T16:26:19</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -315,6 +315,7 @@
       <value>
         <option name="FOREGROUND" value="5cc5" />
         <option name="EFFECT_COLOR" value="5cc5" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
