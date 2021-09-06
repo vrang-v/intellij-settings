@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="방문했던 곳들" />
       <item value="indegree" />
       <item value="건물" />
       <item value="제곱" />
@@ -53,7 +54,6 @@
       <item value="deposit money" />
       <item value=" money" />
       <item value="withdraw money" />
-      <item value="withdraw" />
     </histories>
     <option name="languageScores">
       <map>
