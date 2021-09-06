@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="존재하지 않는 리소스 예외" />
+      <item value="존재하지 않는 리소스" />
+      <item value="유효하지 않는 요청" />
+      <item value="유효하지 않는 " />
+      <item value="유효" />
       <item value="삭제하기 전에" />
       <item value="삭제되기 전에" />
       <item value="존재하지 않는" />
@@ -49,16 +54,11 @@
       <item value="relaxed" />
       <item value="rela" />
       <item value="snippet" />
-      <item value="fetch data" />
-      <item value="fetch" />
-      <item value="입금" />
-      <item value="deposit money" />
-      <item value=" money" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="21" />
-        <entry key="KOREAN" value="36" />
+        <entry key="ENGLISH" value="22" />
+        <entry key="KOREAN" value="37" />
       </map>
     </option>
   </component>
