@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="위상 정렬" />
+      <item value="In Java 8 Streams were introduced to support chaining of operations over collections in a functional style. The most common way to save a result of such chains is to save them to some collection (usually List). To do so there is a terminal method collect that can be used with a library of Collectors. The key problem is that .collect(Collectors.toList()) actually returns a mutable kind of List while in the majority of cases unmodifiable lists are preferred. In Java 10 a new collector appeared to return an unmodifiable list: toUnmodifiableList(). This does the trick but results in verbose code. Since Java 16 there is now a better variant to produce an unmodifiable list directly from a stream: Stream.toList().&#10;This rule raises an issue when &quot;collect&quot; is used to create a list from a stream." />
       <item value="방문했던 곳들" />
       <item value="indegree" />
       <item value="건물" />
@@ -52,8 +54,6 @@
       <item value="fetch" />
       <item value="입금" />
       <item value="deposit money" />
-      <item value=" money" />
-      <item value="withdraw money" />
     </histories>
     <option name="languageScores">
       <map>
