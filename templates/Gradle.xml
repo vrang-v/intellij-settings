@@ -1,5 +1,5 @@
 <templateSet group="Gradle">
-  <template name="lombok" value="// Lombok&#10;compile                 'org.projectlombok:lombok:$VERSION$'&#10;testCompile             'org.projectlombok:lombok:$VERSION$'&#10;annotationProcessor     'org.projectlombok:lombok:$VERSION$'&#10;testAnnotationProcessor 'org.projectlombok:lombok:$VERSION$'$END$" description="Add Lombok dependency" toReformat="false" toShortenFQNames="true">
+  <template name="lombok" value="// Lombok&#10;compileOnly                 'org.projectlombok:lombok:$VERSION$'&#10;testCompileOnly             'org.projectlombok:lombok:$VERSION$'&#10;annotationProcessor         'org.projectlombok:lombok:$VERSION$'&#10;testAnnotationProcessor     'org.projectlombok:lombok:$VERSION$'$END$" description="Add Lombok dependency" toReformat="false" toShortenFQNames="true">
     <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_EXPRESSION" value="true" />
