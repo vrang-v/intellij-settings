@@ -4,6 +4,22 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="투표 인원" />
+      <item value="가격 변동" />
+      <item value="ascending" />
+      <item value="asce" />
+      <item value="정렬 방향" />
+      <item value="정렬 옵션" />
+      <item value="기주" />
+      <item value="기준" />
+      <item value="정렬 기준 문자여" />
+      <item value="정렬 기준 문자열" />
+      <item value="정렬 기준 " />
+      <item value="정렬 기준 이름" />
+      <item value="정렬 기준" />
+      <item value="정렭" />
+      <item value="wjdf" />
+      <item value="정렬" />
       <item value="It is highly recommended not to use wildcard types as return types. Because the type inference rules are fairly complex it is unlikely the user of that API will know how to use it correctly.&#10;Let’s take the example of method returning a &quot;List&lt;? extends Animal&gt;&quot;. Is it possible on this list to add a Dog, a Cat, …​ we simply don’t know. And neither does the compiler, which is why it will not allow such a direct use. The use of wildcard types should be limited to method parameters.&#10;This rule raises an issue when a method returns a wildcard type." />
       <item value="참가자 수를 구해라" />
       <item value="participant count" />
@@ -38,27 +54,11 @@
       <item value="각 행의 꺼져있는 램프 수" />
       <item value="각 열의 꺼져있는 램프 수" />
       <item value="각 해의 꺼" />
-      <item value="각 열의 꺼진 램프 수" />
-      <item value="꺼진 램프 수" />
-      <item value="속도" />
-      <item value="반복" />
-      <item value="반복횟수" />
-      <item value="중복 아님" />
-      <item value="미중복" />
-      <item value="미" />
-      <item value="인증 실패" />
-      <item value="유효하지 않은 인증 " />
-      <item value="리스트의 모든 것이 매치한다" />
-      <item value="리스트의 모든 것이 매치" />
-      <item value="존재하지 않는 리소스 ID 예외" />
-      <item value="존재하는 id 인가?" />
-      <item value="entity" />
-      <item value="역 매핑" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="23" />
-        <entry key="KOREAN" value="40" />
+        <entry key="ENGLISH" value="25" />
+        <entry key="KOREAN" value="43" />
       </map>
     </option>
   </component>
