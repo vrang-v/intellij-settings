@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="작성자" />
+      <item value="wkrtj" />
+      <item value="내용" />
+      <item value="게시물" />
       <item value="진행 중이" />
       <item value="진행 중인" />
       <item value="유효한" />
@@ -50,15 +54,11 @@
       <item value="이웃" />
       <item value="연결" />
       <item value="반복 횟수" />
-      <item value="반복 회수" />
-      <item value="조합" />
-      <item value="횟수" />
-      <item value="회수" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="25" />
-        <entry key="KOREAN" value="43" />
+        <entry key="ENGLISH" value="26" />
+        <entry key="KOREAN" value="44" />
       </map>
     </option>
   </component>
