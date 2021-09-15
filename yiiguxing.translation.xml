@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="임시 삭제" />
       <item value="유효한" />
       <item value="유" />
       <item value="valid" />
@@ -53,7 +54,6 @@
       <item value="participant count" />
       <item value="participants count" />
       <item value="참가했던 모든 것을 찾는다" />
-      <item value="참여했던 모든 것을 찾는다" />
     </histories>
     <option name="languageScores">
       <map>
