@@ -47,6 +47,7 @@
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/baseline_search_20.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/baseline_search_24.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/btn_google_login.xml" value="0.3807291666666667" />
+        <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/chart_interval_btn.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/comment_confirm_btn.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/divider.xml" value="0.3807291666666667" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/ic_arrow_left_solid.xml" value="0.38177083333333334" />
@@ -57,6 +58,7 @@
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/ic_heart_regular.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/ic_heart_solid.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/ic_home_solid.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/ic_star_solid.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/ic_user_regular.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/outline_arrow_back_24.xml" value="0.38177083333333334" />
@@ -67,7 +69,13 @@
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/outline_star_24.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/outline_visibility_24.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/round_corner.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/round_corner_bar_blue.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/round_corner_bar_red.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/round_corner_black.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/round_corner_blue.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/round_corner_button_blue.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/round_corner_button_red.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable/round_corner_yel.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout-v26/activity_google_login.xml" value="0.3645833333333333" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout-v26/vote_item.xml" value="0.365625" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/account_fragment.xml" value="0.365625" />
