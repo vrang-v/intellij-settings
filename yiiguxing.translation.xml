@@ -1,69 +1,69 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
-      <item value="위상 정렬" />
-      <item value="In Java 8 Streams were introduced to support chaining of operations over collections in a functional style. The most common way to save a result of such chains is to save them to some collection (usually List). To do so there is a terminal method collect that can be used with a library of Collectors. The key problem is that .collect(Collectors.toList()) actually returns a mutable kind of List while in the majority of cases unmodifiable lists are preferred. In Java 10 a new collector appeared to return an unmodifiable list: toUnmodifiableList(). This does the trick but results in verbose code. Since Java 16 there is now a better variant to produce an unmodifiable list directly from a stream: Stream.toList().&#10;This rule raises an issue when &quot;collect&quot; is used to create a list from a stream." />
-      <item value="방문했던 곳들" />
-      <item value="indegree" />
-      <item value="건물" />
-      <item value="제곱" />
-      <item value="꼬리" />
-      <item value="선" />
-      <item value="선미" />
-      <item value="선두" />
-      <item value="제곱수" />
-      <item value="목적지" />
-      <item value="이웃들" />
-      <item value="이웃" />
-      <item value="연결" />
-      <item value="반복 횟수" />
-      <item value="반복 회수" />
-      <item value="조합" />
-      <item value="횟수" />
-      <item value="회수" />
-      <item value="각 행의 꺼져있는 램프 수" />
-      <item value="각 열의 꺼져있는 램프 수" />
-      <item value="각 해의 꺼" />
-      <item value="각 열의 꺼진 램프 수" />
-      <item value="꺼진 램프 수" />
-      <item value="속도" />
-      <item value="반복" />
-      <item value="반복횟수" />
-      <item value="중복 아님" />
-      <item value="미중복" />
-      <item value="미" />
-      <item value="인증 실패" />
-      <item value="유효하지 않은 인증 " />
-      <item value="리스트의 모든 것이 매치한다" />
-      <item value="리스트의 모든 것이 매치" />
-      <item value="존재하지 않는 리소스 ID 예외" />
-      <item value="존재하는 id 인가?" />
-      <item value="entity" />
-      <item value="역 매핑" />
-      <item value="역" />
-      <item value="유효하지 않은 이름" />
-      <item value="유효하지 않은 " />
-      <item value="존재하지 않는 id" />
-      <item value="relaxed" />
-      <item value="rela" />
-      <item value="snippet" />
-      <item value="fetch data" />
-      <item value="fetch" />
-      <item value="입금" />
-      <item value="deposit money" />
+      <item value="nested" />
+      <item value="권한이 없습니다" />
+      <item value="구" />
+      <item value="임시 삭제" />
+      <item value="유효한" />
+      <item value="유" />
+      <item value="valid" />
+      <item value="트렌ㄷ" />
+      <item value="트렌드" />
+      <item value="토론" />
+      <item value="토론방 " />
+      <item value="토론방" />
+      <item value="retrieval" />
+      <item value="retrie" />
+      <item value="비밀번호 찾기 액티비티" />
+      <item value="보안된 " />
+      <item value="보안이 적용도" />
+      <item value="보안이 적용된" />
+      <item value="보안" />
+      <item value="secured vote" />
+      <item value="secured" />
+      <item value="스타를 줬는가" />
+      <item value="스타를 눌렀는가" />
+      <item value="PostP" />
+      <item value="Post" />
+      <item value="미리보기" />
+      <item value="작성자" />
+      <item value="wkrtj" />
+      <item value="내용" />
+      <item value="게시물" />
+      <item value="진행 중이" />
+      <item value="진행 중인" />
+      <item value="투표 인원" />
+      <item value="가격 변동" />
+      <item value="ascending" />
+      <item value="asce" />
+      <item value="정렬 방향" />
+      <item value="정렬 옵션" />
+      <item value="기주" />
+      <item value="기준" />
+      <item value="정렬 기준 문자여" />
+      <item value="정렬 기준 문자열" />
+      <item value="정렬 기준 " />
+      <item value="정렬 기준 이름" />
+      <item value="정렬 기준" />
+      <item value="정렭" />
+      <item value="wjdf" />
+      <item value="정렬" />
+      <item value="It is highly recommended not to use wildcard types as return types. Because the type inference rules are fairly complex it is unlikely the user of that API will know how to use it correctly.&#10;Let’s take the example of method returning a &quot;List&lt;? extends Animal&gt;&quot;. Is it possible on this list to add a Dog, a Cat, …​ we simply don’t know. And neither does the compiler, which is why it will not allow such a direct use. The use of wildcard types should be limited to method parameters.&#10;This rule raises an issue when a method returns a wildcard type." />
+      <item value="참가자 수를 구해라" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="21" />
-        <entry key="KOREAN" value="36" />
+        <entry key="ENGLISH" value="29" />
+        <entry key="KOREAN" value="51" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630906435525" />
+    <option name="lastTrimTime" value="1631868582417" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
