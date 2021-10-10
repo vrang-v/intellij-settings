@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="tasklet" />
+      <item value="taske" />
       <item value="ㄷ" />
       <item value="되" />
       <item value="가장 많이 조회된 " />
@@ -52,13 +54,11 @@
       <item value="정렬 기준 " />
       <item value="정렬 기준 이름" />
       <item value="정렬 기준" />
-      <item value="정렭" />
-      <item value="wjdf" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="30" />
-        <entry key="KOREAN" value="52" />
+        <entry key="KOREAN" value="53" />
       </map>
     </option>
   </component>
