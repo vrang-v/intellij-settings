@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="enableable" />
+      <item value="enab" />
+      <item value="활성화 가능한 버튼" />
+      <item value="활성화 간으한" />
       <item value="contribution" />
       <item value="tasklet" />
       <item value="taske" />
@@ -50,20 +54,16 @@
       <item value="정렬 옵션" />
       <item value="기주" />
       <item value="기준" />
-      <item value="정렬 기준 문자여" />
-      <item value="정렬 기준 문자열" />
-      <item value="정렬 기준 " />
-      <item value="정렬 기준 이름" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="30" />
-        <entry key="KOREAN" value="54" />
+        <entry key="KOREAN" value="55" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633853213339" />
+    <option name="lastTrimTime" value="1634374805762" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
