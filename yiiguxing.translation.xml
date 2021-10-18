@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="contribution" />
+      <item value="tasklet" />
+      <item value="taske" />
+      <item value="ㄷ" />
+      <item value="되" />
+      <item value="가장 많이 조회된 " />
       <item value="nested" />
       <item value="권한이 없습니다" />
       <item value="구" />
@@ -48,22 +54,16 @@
       <item value="정렬 기준 문자열" />
       <item value="정렬 기준 " />
       <item value="정렬 기준 이름" />
-      <item value="정렬 기준" />
-      <item value="정렭" />
-      <item value="wjdf" />
-      <item value="정렬" />
-      <item value="It is highly recommended not to use wildcard types as return types. Because the type inference rules are fairly complex it is unlikely the user of that API will know how to use it correctly.&#10;Let’s take the example of method returning a &quot;List&lt;? extends Animal&gt;&quot;. Is it possible on this list to add a Dog, a Cat, …​ we simply don’t know. And neither does the compiler, which is why it will not allow such a direct use. The use of wildcard types should be limited to method parameters.&#10;This rule raises an issue when a method returns a wildcard type." />
-      <item value="참가자 수를 구해라" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="29" />
-        <entry key="KOREAN" value="51" />
+        <entry key="ENGLISH" value="30" />
+        <entry key="KOREAN" value="54" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631868582417" />
+    <option name="lastTrimTime" value="1633853213339" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
