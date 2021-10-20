@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="마감" />
+      <item value="인원 초과" />
       <item value="enableable" />
       <item value="enab" />
       <item value="활성화 가능한 버튼" />
@@ -52,8 +54,6 @@
       <item value="asce" />
       <item value="정렬 방향" />
       <item value="정렬 옵션" />
-      <item value="기주" />
-      <item value="기준" />
     </histories>
     <option name="languageScores">
       <map>
