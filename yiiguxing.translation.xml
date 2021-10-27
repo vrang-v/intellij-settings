@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="동시성 문제" />
       <item value="경과시간" />
       <item value="실행시간" />
       <item value="sneaky" />
@@ -53,7 +54,6 @@
       <item value="wkrtj" />
       <item value="내용" />
       <item value="게시물" />
-      <item value="진행 중이" />
     </histories>
     <option name="languageScores">
       <map>
