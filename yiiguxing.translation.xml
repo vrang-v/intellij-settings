@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="소요된 시간" />
+      <item value="소요 시간 " />
+      <item value="소요 시간" />
+      <item value="thdy" />
       <item value="동시성 문제" />
       <item value="경과시간" />
       <item value="실행시간" />
@@ -50,15 +54,11 @@
       <item value="PostP" />
       <item value="Post" />
       <item value="미리보기" />
-      <item value="작성자" />
-      <item value="wkrtj" />
-      <item value="내용" />
-      <item value="게시물" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="30" />
-        <entry key="KOREAN" value="56" />
+        <entry key="ENGLISH" value="31" />
+        <entry key="KOREAN" value="57" />
       </map>
     </option>
   </component>
