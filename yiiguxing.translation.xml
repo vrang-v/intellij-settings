@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="delegater" />
+      <item value="delegate" />
+      <item value="delet" />
+      <item value="d" />
+      <item value="검색 결과를 찾을 수 없다는 텍스트" />
+      <item value="검색 결과를 찾을 수 없다는 메세지" />
+      <item value="검색어" />
+      <item value="마지막으로 뒤로가기를 누른 시각" />
       <item value="contribution" />
       <item value="tasklet" />
       <item value="taske" />
@@ -46,24 +54,16 @@
       <item value="가격 변동" />
       <item value="ascending" />
       <item value="asce" />
-      <item value="정렬 방향" />
-      <item value="정렬 옵션" />
-      <item value="기주" />
-      <item value="기준" />
-      <item value="정렬 기준 문자여" />
-      <item value="정렬 기준 문자열" />
-      <item value="정렬 기준 " />
-      <item value="정렬 기준 이름" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="30" />
-        <entry key="KOREAN" value="54" />
+        <entry key="KOREAN" value="55" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633853213339" />
+    <option name="lastTrimTime" value="1634562672862" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
