@@ -1,17 +1,23 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="558" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
-      <item value="delegater" />
-      <item value="delegate" />
-      <item value="delet" />
-      <item value="d" />
-      <item value="검색 결과를 찾을 수 없다는 텍스트" />
-      <item value="검색 결과를 찾을 수 없다는 메세지" />
-      <item value="검색어" />
-      <item value="마지막으로 뒤로가기를 누른 시각" />
+      <item value="동시성 문제" />
+      <item value="경과시간" />
+      <item value="실행시간" />
+      <item value="sneaky" />
+      <item value="돛단배" />
+      <item value="돗단배" />
+      <item value="크루저" />
+      <item value="더티체킹" />
+      <item value="마감" />
+      <item value="인원 초과" />
+      <item value="enableable" />
+      <item value="enab" />
+      <item value="활성화 가능한 버튼" />
+      <item value="활성화 간으한" />
       <item value="contribution" />
       <item value="tasklet" />
       <item value="taske" />
@@ -48,22 +54,16 @@
       <item value="wkrtj" />
       <item value="내용" />
       <item value="게시물" />
-      <item value="진행 중이" />
-      <item value="진행 중인" />
-      <item value="투표 인원" />
-      <item value="가격 변동" />
-      <item value="ascending" />
-      <item value="asce" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="30" />
-        <entry key="KOREAN" value="55" />
+        <entry key="KOREAN" value="56" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634562672862" />
+    <option name="lastTrimTime" value="1635236009820" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
