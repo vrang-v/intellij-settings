@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="composition" />
       <item value="소요된 시간" />
       <item value="소요 시간 " />
       <item value="소요 시간" />
@@ -53,12 +54,11 @@
       <item value="스타를 눌렀는가" />
       <item value="PostP" />
       <item value="Post" />
-      <item value="미리보기" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="31" />
-        <entry key="KOREAN" value="57" />
+        <entry key="KOREAN" value="58" />
       </map>
     </option>
   </component>
