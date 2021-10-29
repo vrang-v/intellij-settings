@@ -1,9 +1,22 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="554" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 경고창을 띄웁니다." />
+      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 경고창을 띄웁니다.Observe that you are connected to the network. If it is not connected, a warning window is displayed." />
+      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 경고창을 띄웁니" />
+      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 경고를 " />
+      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 " />
+      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 메시" />
+      <item value="네트워크에 연결되어 있는 지 관찰합니다. " />
+      <item value="network. If there is no network connection, an error is raised." />
+      <item value="네트워크에 연결되어 있는지 관찰합니다. 만약 네트워크에 연결되어 있지 않다면 오류를 발생시킵니다." />
+      <item value="네트워크에 연결되어 있는지 관찰합니다. 만약 네트워크가" />
+      <item value="네트워크에 연결되어 있는지 관찰합니다. 만약 " />
+      <item value="모니터링" />
+      <item value="모니털이" />
       <item value="동시성 문제" />
       <item value="경과시간" />
       <item value="실행시간" />
@@ -41,24 +54,11 @@
       <item value="비밀번호 찾기 액티비티" />
       <item value="보안된 " />
       <item value="보안이 적용도" />
-      <item value="보안이 적용된" />
-      <item value="보안" />
-      <item value="secured vote" />
-      <item value="secured" />
-      <item value="스타를 줬는가" />
-      <item value="스타를 눌렀는가" />
-      <item value="PostP" />
-      <item value="Post" />
-      <item value="미리보기" />
-      <item value="작성자" />
-      <item value="wkrtj" />
-      <item value="내용" />
-      <item value="게시물" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="30" />
-        <entry key="KOREAN" value="56" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="KOREAN" value="59" />
       </map>
     </option>
   </component>
