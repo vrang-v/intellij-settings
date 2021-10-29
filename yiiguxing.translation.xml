@@ -1,9 +1,20 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="554" />
+    <option name="newTranslationDialogWidth" value="552" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Post 클래스를 Recyclerview로 나타내기 위한 어댑터입니다. " />
+      <item value="Post 클래스를 Recyclerview" />
+      <item value="Post 클래스를 RE" />
+      <item value="Post 클래스를 " />
+      <item value="Post 클래스를" />
+      <item value="Post" />
+      <item value="post " />
+      <item value="post" />
+      <item value="po" />
+      <item value="리사이클러" />
+      <item value="post를 " />
       <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 경고창을 띄웁니다." />
       <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 경고창을 띄웁니다.Observe that you are connected to the network. If it is not connected, a warning window is displayed." />
       <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 경고창을 띄웁니" />
@@ -43,22 +54,11 @@
       <item value="임시 삭제" />
       <item value="유효한" />
       <item value="유" />
-      <item value="valid" />
-      <item value="트렌ㄷ" />
-      <item value="트렌드" />
-      <item value="토론" />
-      <item value="토론방 " />
-      <item value="토론방" />
-      <item value="retrieval" />
-      <item value="retrie" />
-      <item value="비밀번호 찾기 액티비티" />
-      <item value="보안된 " />
-      <item value="보안이 적용도" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="33" />
-        <entry key="KOREAN" value="59" />
+        <entry key="ENGLISH" value="43" />
+        <entry key="KOREAN" value="69" />
       </map>
     </option>
   </component>
