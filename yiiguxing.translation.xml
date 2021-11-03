@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="enhancer" />
       <item value="상속" />
       <item value="invocation handler" />
       <item value="invocation" />
@@ -54,12 +55,11 @@
       <item value="retrie" />
       <item value="비밀번호 찾기 액티비티" />
       <item value="보안된 " />
-      <item value="보안이 적용도" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="32" />
-        <entry key="KOREAN" value="62" />
+        <entry key="KOREAN" value="63" />
       </map>
     </option>
   </component>
