@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="상속" />
       <item value="invocation handler" />
       <item value="invocation" />
       <item value="invoce" />
@@ -54,7 +55,6 @@
       <item value="비밀번호 찾기 액티비티" />
       <item value="보안된 " />
       <item value="보안이 적용도" />
-      <item value="보안이 적용된" />
     </histories>
     <option name="languageScores">
       <map>
