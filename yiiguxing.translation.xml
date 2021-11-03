@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="556" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="554" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="invocation handler" />
+      <item value="invocation" />
+      <item value="invoce" />
+      <item value="invo" />
+      <item value="invoke" />
       <item value="리플렉션" />
       <item value="ㄹ렉션" />
       <item value="composition" />
@@ -49,16 +55,11 @@
       <item value="보안된 " />
       <item value="보안이 적용도" />
       <item value="보안이 적용된" />
-      <item value="보안" />
-      <item value="secured vote" />
-      <item value="secured" />
-      <item value="스타를 줬는가" />
-      <item value="스타를 눌렀는가" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="31" />
-        <entry key="KOREAN" value="58" />
+        <entry key="ENGLISH" value="32" />
+        <entry key="KOREAN" value="62" />
       </map>
     </option>
   </component>
