@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="aspect" />
       <item value="상속" />
       <item value="method invocation" />
       <item value="invocation" />
@@ -54,12 +55,11 @@
       <item value="토론" />
       <item value="토론방 " />
       <item value="토론방" />
-      <item value="retrieval" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="32" />
-        <entry key="KOREAN" value="64" />
+        <entry key="KOREAN" value="65" />
       </map>
     </option>
   </component>
