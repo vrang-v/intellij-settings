@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="PointcutExpression" injector-id="java">
+      <display-name>AbstractExpressionPointcut.setExpression (org.springframework.aop.support)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setExpression").withParameters("java.lang.String").definedInClass("org.springframework.aop.support.AbstractExpressionPointcut"))]]></place>
+    </injection>
+  </component>
+</application>
