@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Creating a new Random object each time a random value is needed is inefficient and may produce numbers which are not random depending on the JDK. For better efficiency and randomness, create a single Random, then store, and reuse it.&#10;The Random() constructor tries to set the seed with a distinct value every time. However there is no guarantee that the seed will be random or even uniformly distributed. Some JDK will use the current time as seed, which makes the generated numbers not random at all.&#10;This rule finds cases where a new Random is created each time a method is invoked and assigned to a local random variable." />
+      <item value="시도 횟수" />
+      <item value="시도" />
+      <item value="시도회수" />
+      <item value="횟수" />
       <item value="within" />
       <item value="레일리" />
       <item value="하위 패키지" />
@@ -50,16 +55,11 @@
       <item value="돗단배" />
       <item value="크루저" />
       <item value="더티체킹" />
-      <item value="마감" />
-      <item value="인원 초과" />
-      <item value="enableable" />
-      <item value="enab" />
-      <item value="활성화 가능한 버튼" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="44" />
-        <entry key="KOREAN" value="78" />
+        <entry key="KOREAN" value="79" />
       </map>
     </option>
   </component>
