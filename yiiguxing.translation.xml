@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="within" />
       <item value="레일리" />
       <item value="하위 패키지" />
       <item value="하위" />
@@ -54,12 +55,11 @@
       <item value="enableable" />
       <item value="enab" />
       <item value="활성화 가능한 버튼" />
-      <item value="활성화 간으한" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="44" />
-        <entry key="KOREAN" value="77" />
+        <entry key="KOREAN" value="78" />
       </map>
     </option>
   </component>
