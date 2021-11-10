@@ -8,5 +8,9 @@
       <display-name>Around.value (org.aspectj.lang.annotation)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.aspectj.lang.annotation.Around")]]></place>
     </injection>
+    <injection language="PointcutExpression" injector-id="java">
+      <display-name>Before.value (org.aspectj.lang.annotation)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.aspectj.lang.annotation.Before")]]></place>
+    </injection>
   </component>
 </application>
