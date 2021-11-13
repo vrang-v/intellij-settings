@@ -62,7 +62,6 @@
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
   <TypeScriptCodeStyleSettings version="0">
-    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
   </TypeScriptCodeStyleSettings>
