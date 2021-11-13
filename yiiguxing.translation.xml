@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="punctuation" />
+      <item value="punctuat" />
       <item value="deny" />
       <item value="diny" />
       <item value="dena" />
@@ -53,13 +55,11 @@
       <item value="소요된 시간" />
       <item value="소요 시간 " />
       <item value="소요 시간" />
-      <item value="thdy" />
-      <item value="동시성 문제" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="47" />
-        <entry key="KOREAN" value="82" />
+        <entry key="ENGLISH" value="48" />
+        <entry key="KOREAN" value="83" />
       </map>
     </option>
   </component>
