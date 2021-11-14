@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="An async function always wraps the return value in a Promise. Using return await is therefore redundant." />
+      <item value="It is possible to use await on values which are not Promises, but it’s useless and misleading. The point of await is to pause execution until the Promise's asynchronous code has run to completion. With anything other than a Promise, there’s nothing to wait for.&#10;This rule raises an issue when an awaited value is guaranteed not to be a Promise." />
+      <item value="redundant" />
+      <item value="re" />
       <item value="punctuation" />
       <item value="punctuat" />
       <item value="deny" />
@@ -51,20 +55,16 @@
       <item value="invoke" />
       <item value="리플렉션" />
       <item value="ㄹ렉션" />
-      <item value="composition" />
-      <item value="소요된 시간" />
-      <item value="소요 시간 " />
-      <item value="소요 시간" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="48" />
-        <entry key="KOREAN" value="83" />
+        <entry key="KOREAN" value="86" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636442525957" />
+    <option name="lastTrimTime" value="1636912473855" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
