@@ -72,6 +72,9 @@
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <yaml>
     <option name="ALIGN_VALUES_PROPERTIES" value="1" />
   </yaml>
