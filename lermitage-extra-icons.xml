@@ -8,7 +8,6 @@
           <option name="description" value="Javascript" />
           <option name="modelType" value="FILE" />
           <option name="iconType" value="IMG" />
-          <option name="enabled" value="false" />
           <option name="conditions">
             <ModelCondition>
               <option name="end" value="true" />
