@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="수수료" />
+      <item value="tntn" />
       <item value="사각형" />
       <item value="facets" />
       <item value="An async function always wraps the return value in a Promise. Using return await is therefore redundant." />
@@ -53,13 +55,11 @@
       <item value="enhancer" />
       <item value="invocation handler" />
       <item value="invoce" />
-      <item value="invo" />
-      <item value="invoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="48" />
-        <entry key="KOREAN" value="87" />
+        <entry key="ENGLISH" value="49" />
+        <entry key="KOREAN" value="88" />
       </map>
     </option>
   </component>
