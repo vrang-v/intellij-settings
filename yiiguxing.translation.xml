@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="상단바 높이" />
+      <item value="상단바 세로" />
+      <item value="상단바 " />
       <item value="수수료" />
       <item value="tntn" />
       <item value="사각형" />
@@ -52,9 +55,6 @@
       <item value="invocation" />
       <item value="invoc" />
       <item value="in" />
-      <item value="enhancer" />
-      <item value="invocation handler" />
-      <item value="invoce" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636912473855" />
+    <option name="lastTrimTime" value="1637583492700" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
