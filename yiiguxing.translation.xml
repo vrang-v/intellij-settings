@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="구독 해지" />
+      <item value="구독 취소" />
+      <item value="실행되지 않는 구독" />
+      <item value="실행하지 않는 구독" />
+      <item value="작동하지 않는 구독" />
+      <item value="동작하지 않는 구독" />
+      <item value="진행되지 않는 구독" />
       <item value="ㅓ" />
       <item value="아무것도하지않는 구독" />
       <item value="싱글 구독" />
@@ -48,18 +55,11 @@
       <item value="MemberService " />
       <item value="MemberService" />
       <item value="MemberServiceImp" />
-      <item value="MemberService에 있는" />
-      <item value="MemberService에 있는 " />
-      <item value="Member" />
-      <item value="org.spring.advanced.aop 하위 패키지" />
-      <item value="org.spring.advanced.aop" />
-      <item value="org.spring.advanced." />
-      <item value="aspect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="49" />
-        <entry key="KOREAN" value="88" />
+        <entry key="ENGLISH" value="50" />
+        <entry key="KOREAN" value="89" />
       </map>
     </option>
   </component>
