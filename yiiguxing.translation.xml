@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Comparisons of dissimilar types will always return false. The comparison and all its dependent code can simply be removed. This includes:&#10;comparing an object with null&#10;comparing an object with an unrelated primitive (E.G. a string with an int)&#10;comparing unrelated classes&#10;comparing an unrelated class and interface&#10;comparing unrelated interface types&#10;comparing an array to a non-array&#10;comparing two arrays" />
+      <item value="Silly equality checks should not be made" />
+      <item value="Specifically in the case of arrays, since arrays don’t override Object.equals(), calling equals on two arrays is the same as comparing their addresses. This means that array1.equals(array2) is equivalent to array1==array2.&#10;However, some developers might expect Array.equals(Object obj) to do more than a simple memory address comparison, comparing for instance the size and content of the two arrays. Instead, the == operator or Arrays.equals(array1, array2) should always be used with arrays." />
       <item value="구독 해지" />
       <item value="구독 취소" />
       <item value="실행되지 않는 구독" />
@@ -52,14 +55,11 @@
       <item value="MemberService 표현식에서 MemberServiceImpl의 " />
       <item value="MemberService 표현식에서 " />
       <item value="MemberService 표현" />
-      <item value="MemberService " />
-      <item value="MemberService" />
-      <item value="MemberServiceImp" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="50" />
-        <entry key="KOREAN" value="89" />
+        <entry key="KOREAN" value="92" />
       </map>
     </option>
   </component>
