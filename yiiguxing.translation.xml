@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="ㅓ" />
+      <item value="아무것도하지않는 구독" />
       <item value="싱글 구독" />
       <item value="싱글 " />
       <item value="구독 함수" />
@@ -53,8 +55,6 @@
       <item value="org.spring.advanced.aop" />
       <item value="org.spring.advanced." />
       <item value="aspect" />
-      <item value="상속" />
-      <item value="method invocation" />
     </histories>
     <option name="languageScores">
       <map>
