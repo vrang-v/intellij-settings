@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="폰트" />
       <item value="When the value of a private field is always assigned to in a class' methods before being read, then it is not being used to store class information. Therefore, it should become a local variable in the relevant methods to prevent any misunderstanding." />
       <item value="고장난 구독" />
       <item value="고장난" />
@@ -54,7 +55,6 @@
       <item value="레일리" />
       <item value="하위 패키지" />
       <item value="하위" />
-      <item value="MemberService 표현식에서 MemberServiceImpl의 internal 메소드를 배치했을 때 거짓이 나오는 테스트" />
     </histories>
     <option name="languageScores">
       <map>
