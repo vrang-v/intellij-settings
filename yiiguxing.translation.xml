@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="고장난 구독" />
+      <item value="고장난" />
       <item value="보장되는 실행" />
       <item value="실행" />
       <item value="Comparisons of dissimilar types will always return false. The comparison and all its dependent code can simply be removed. This includes:&#10;comparing an object with null&#10;comparing an object with an unrelated primitive (E.G. a string with an int)&#10;comparing unrelated classes&#10;comparing an unrelated class and interface&#10;comparing unrelated interface types&#10;comparing an array to a non-array&#10;comparing two arrays" />
@@ -53,8 +55,6 @@
       <item value="하위" />
       <item value="MemberService 표현식에서 MemberServiceImpl의 internal 메소드를 배치했을 때 거짓이 나오는 테스트" />
       <item value="MemberService 표현식에서 MemberServiceImpl의 internal 메소드를 배치했을 때 " />
-      <item value="MemberService 표현식에서 MemberServiceImpl의 internal" />
-      <item value="MemberService 표현식에서 MemberServiceImpl의 " />
     </histories>
     <option name="languageScores">
       <map>
