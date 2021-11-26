@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="546" />
+    <option name="newTranslationDialogWidth" value="542" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="api 무작위 호출" />
+      <item value="api " />
+      <item value="비즈니스" />
       <item value="검색가능한" />
       <item value="s" />
       <item value="폰트" />
@@ -52,14 +55,11 @@
       <item value="시도 횟수" />
       <item value="시도" />
       <item value="시도회수" />
-      <item value="횟수" />
-      <item value="within" />
-      <item value="레일리" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="51" />
-        <entry key="KOREAN" value="94" />
+        <entry key="ENGLISH" value="55" />
+        <entry key="KOREAN" value="98" />
       </map>
     </option>
   </component>
