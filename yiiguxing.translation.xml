@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="동시에" />
+      <item value="ehdtl" />
+      <item value="중첩된" />
+      <item value="내가 쓴 게시글 " />
+      <item value="내가 작성한 댓글" />
+      <item value="누를 수 있는 영역" />
+      <item value="눌러지는 네모" />
+      <item value="눌러지는 " />
       <item value="이메일 검증여부 확인한다" />
       <item value="이메일 검증여부 확읺" />
       <item value="이메일 검증된 계정인가" />
@@ -47,19 +55,11 @@
       <item value="Silly equality checks should not be made" />
       <item value="Specifically in the case of arrays, since arrays don’t override Object.equals(), calling equals on two arrays is the same as comparing their addresses. This means that array1.equals(array2) is equivalent to array1==array2.&#10;However, some developers might expect Array.equals(Object obj) to do more than a simple memory address comparison, comparing for instance the size and content of the two arrays. Instead, the == operator or Arrays.equals(array1, array2) should always be used with arrays." />
       <item value="구독 해지" />
-      <item value="구독 취소" />
-      <item value="실행되지 않는 구독" />
-      <item value="실행하지 않는 구독" />
-      <item value="작동하지 않는 구독" />
-      <item value="동작하지 않는 구독" />
-      <item value="진행되지 않는 구독" />
-      <item value="ㅓ" />
-      <item value="아무것도하지않는 구독" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="66" />
-        <entry key="KOREAN" value="111" />
+        <entry key="ENGLISH" value="67" />
+        <entry key="KOREAN" value="112" />
       </map>
     </option>
   </component>
