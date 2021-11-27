@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="이메일 재전송까지 남은 시간 메세지" />
+      <item value="이메일 재전송 시간" />
       <item value="요청 제한" />
       <item value="마지막으로 이메일을 보내시간이 1분 이하라면" />
       <item value="마지막으로 이메일을 보내시간이 1분 미만이라면" />
@@ -53,8 +55,6 @@
       <item value="상단바 높이" />
       <item value="상단바 세로" />
       <item value="상단바 " />
-      <item value="수수료" />
-      <item value="tntn" />
     </histories>
     <option name="languageScores">
       <map>
