@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="테두리" />
       <item value="구분선" />
       <item value="줄 바꿈" />
       <item value="줄바꿈" />
@@ -54,7 +55,6 @@
       <item value="dena" />
       <item value="denai" />
       <item value="디나이" />
-      <item value="dini" />
     </histories>
     <option name="languageScores">
       <map>

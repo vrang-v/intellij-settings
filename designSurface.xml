@@ -48,6 +48,9 @@
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/vote_info_activity.xml" value="0.264" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/vote_item.xml" value="0.4" />
         <entry key="..\:/Users/Mingi/projects/IntelliJProjects/bitwit-app/app/src/main/res/layout/vote_item_constraint.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/pc/.gradle/caches/transforms-3/c7d0811c45923e3a739654d82480b6d9/transformed/appcompat-1.2.0/res/drawable/abc_btn_default_mtrl_shape.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/pc/AppData/Local/Android/Sdk/platforms/android-30/data/res/drawable/btn_default_material.xml" value="0.38177083333333334" />
+        <entry key="..\:/Users/pc/AppData/Local/Android/Sdk/platforms/android-30/data/res/drawable/btn_default_mtrl_shape.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable-v24/round_corner_black.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/drawable-v24/round_corner_grey.xml" value="0.38177083333333334" />
@@ -92,7 +95,7 @@
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout-v26/activity_google_login.xml" value="0.3645833333333333" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout-v26/vote_item.xml" value="0.365625" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/account_fragment.xml" value="0.365625" />
-        <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/activity_email_verifying.xml" value="0.365625" />
+        <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/activity_email_verifying.xml" value="0.33" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/activity_entry_point.xml" value="0.365625" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/activity_frame.xml" value="0.365625" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/activity_google_login.xml" value="0.365625" />
@@ -106,6 +109,7 @@
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/activity_sign_up_process.xml" value="0.33" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/activity_stock_info.xml" value="0.2441123188405797" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/activity_web_view.xml" value="0.365625" />
+        <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/button_round.xml" value="0.3645833333333333" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/comment_item.xml" value="0.365625" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/dialog_comment.xml" value="0.365625" />
         <entry key="..\:/Users/pc/Desktop/bitwit/bitwit-app/app/src/main/res/layout/dialog_set_nickname.xml" value="0.365625" />
