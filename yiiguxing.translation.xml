@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="542" />
+    <option name="newTranslationDialogWidth" value="540" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="요청 제한" />
+      <item value="마지막으로 이메일을 보내시간이 1분 이하라면" />
+      <item value="마지막으로 이메일을 보내시간이 1분 미만이라면" />
+      <item value="마지막으로 이메일을 보내시간이 1분 " />
+      <item value="마지막으로 이메일을 보내" />
+      <item value="1분" />
+      <item value="verify" />
       <item value="check email verified" />
       <item value="check email verif" />
       <item value="check email ve" />
@@ -48,18 +55,11 @@
       <item value="상단바 " />
       <item value="수수료" />
       <item value="tntn" />
-      <item value="사각형" />
-      <item value="facets" />
-      <item value="An async function always wraps the return value in a Promise. Using return await is therefore redundant." />
-      <item value="It is possible to use await on values which are not Promises, but it’s useless and misleading. The point of await is to pause execution until the Promise's asynchronous code has run to completion. With anything other than a Promise, there’s nothing to wait for.&#10;This rule raises an issue when an awaited value is guaranteed not to be a Promise." />
-      <item value="redundant" />
-      <item value="re" />
-      <item value="punctuation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="55" />
-        <entry key="KOREAN" value="99" />
+        <entry key="ENGLISH" value="66" />
+        <entry key="KOREAN" value="111" />
       </map>
     </option>
   </component>
