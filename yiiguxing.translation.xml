@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="check email verified" />
+      <item value="check email verif" />
+      <item value="check email ve" />
+      <item value="check em" />
+      <item value="check " />
+      <item value="이메일 인증이 되었는지 확인한다" />
       <item value="테두리" />
       <item value="구분선" />
       <item value="줄 바꿈" />
@@ -49,17 +55,11 @@
       <item value="redundant" />
       <item value="re" />
       <item value="punctuation" />
-      <item value="punctuat" />
-      <item value="deny" />
-      <item value="diny" />
-      <item value="dena" />
-      <item value="denai" />
-      <item value="디나이" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="55" />
-        <entry key="KOREAN" value="98" />
+        <entry key="KOREAN" value="99" />
       </map>
     </option>
   </component>
