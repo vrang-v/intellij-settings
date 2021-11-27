@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="이메일 검증여부 확인한다" />
+      <item value="이메일 검증여부 확읺" />
+      <item value="이메일 검증된 계정인가" />
+      <item value="이메일 " />
+      <item value="이메일 검증 응답" />
+      <item value="임이" />
       <item value="이메일 재전송까지 남은 시간 메세지" />
       <item value="이메일 재전송 시간" />
       <item value="요청 제한" />
@@ -49,12 +55,6 @@
       <item value="진행되지 않는 구독" />
       <item value="ㅓ" />
       <item value="아무것도하지않는 구독" />
-      <item value="싱글 구독" />
-      <item value="싱글 " />
-      <item value="구독 함수" />
-      <item value="상단바 높이" />
-      <item value="상단바 세로" />
-      <item value="상단바 " />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637583492700" />
+    <option name="lastTrimTime" value="1638015653260" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
