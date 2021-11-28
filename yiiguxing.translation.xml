@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="// Note: this class was written without inspecting the non-free org.json source code." />
       <item value="이것은 HTTP 요청의 비어있는 Response를 나타냅니다." />
       <item value="이것은 HTTP 요청의 비어있는 Response" />
       <item value="이것은 HTTP 요" />
@@ -54,12 +55,11 @@
       <item value="검색가능한" />
       <item value="s" />
       <item value="폰트" />
-      <item value="When the value of a private field is always assigned to in a class' methods before being read, then it is not being used to store class information. Therefore, it should become a local variable in the relevant methods to prevent any misunderstanding." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="68" />
-        <entry key="KOREAN" value="113" />
+        <entry key="KOREAN" value="114" />
       </map>
     </option>
   </component>
