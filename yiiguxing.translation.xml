@@ -1,69 +1,70 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="552" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="538" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
-      <item value="Post 클래스를 Recyclerview로 나타내기 위한 어댑터입니다. " />
-      <item value="Post 클래스를 Recyclerview" />
-      <item value="Post 클래스를 RE" />
-      <item value="Post 클래스를 " />
-      <item value="Post 클래스를" />
-      <item value="Post" />
-      <item value="post " />
-      <item value="post" />
-      <item value="po" />
-      <item value="리사이클러" />
-      <item value="post를 " />
-      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 경고창을 띄웁니다." />
-      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 경고창을 띄웁니다.Observe that you are connected to the network. If it is not connected, a warning window is displayed." />
-      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 경고창을 띄웁니" />
-      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 경고를 " />
-      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 " />
-      <item value="네트워크에 연결되어 있는 지 관찰합니다. 연결되어 있지 않다면 메시" />
-      <item value="네트워크에 연결되어 있는 지 관찰합니다. " />
-      <item value="network. If there is no network connection, an error is raised." />
-      <item value="네트워크에 연결되어 있는지 관찰합니다. 만약 네트워크에 연결되어 있지 않다면 오류를 발생시킵니다." />
-      <item value="네트워크에 연결되어 있는지 관찰합니다. 만약 네트워크가" />
-      <item value="네트워크에 연결되어 있는지 관찰합니다. 만약 " />
-      <item value="모니터링" />
-      <item value="모니털이" />
-      <item value="동시성 문제" />
-      <item value="경과시간" />
-      <item value="실행시간" />
-      <item value="sneaky" />
-      <item value="돛단배" />
-      <item value="돗단배" />
-      <item value="크루저" />
-      <item value="더티체킹" />
-      <item value="마감" />
-      <item value="인원 초과" />
-      <item value="enableable" />
-      <item value="enab" />
-      <item value="활성화 가능한 버튼" />
-      <item value="활성화 간으한" />
-      <item value="contribution" />
-      <item value="tasklet" />
-      <item value="taske" />
-      <item value="ㄷ" />
-      <item value="되" />
-      <item value="가장 많이 조회된 " />
-      <item value="nested" />
-      <item value="권한이 없습니다" />
-      <item value="구" />
-      <item value="임시 삭제" />
-      <item value="유효한" />
-      <item value="유" />
+      <item value="원인" />
+      <item value="원" />
+      <item value="dㅓㄴ" />
+      <item value="게시글을 좋아하는 사람 id" />
+      <item value="게시글을 좋아하는 사람" />
+      <item value="~을 좋아하는 사람" />
+      <item value="좋아하는 사람" />
+      <item value="좋아하는 " />
+      <item value="liker id" />
+      <item value="게시글의 좋아요를 누른 계정의 id" />
+      <item value="게시글의 좋아요를 누른 계정 id" />
+      <item value="ㄱ좋아요를 누른 계정 id" />
+      <item value="좋아요를 누른 계정 id" />
+      <item value="liker" />
+      <item value="InterruptedExceptions should never be ignored in the code, and simply logging the exception counts in this case as &quot;ignoring&quot;. The throwing of the InterruptedException clears the interrupted state of the Thread, so if the exception is not handled properly the information that the thread was interrupted will be lost. Instead, InterruptedExceptions should either be rethrown - immediately or after cleaning up the method’s state - or the thread should be re-interrupted by calling Thread.interrupt() even if this is supposed to be a single-threaded application. Any other course of action risks delaying thread shutdown and loses the information that the thread was interrupted - probably without finishing its task" />
+      <item value="// Note: this class was written without inspecting the non-free org.json source code." />
+      <item value="이것은 HTTP 요청의 비어있는 Response를 나타냅니다." />
+      <item value="이것은 HTTP 요청의 비어있는 Response" />
+      <item value="이것은 HTTP 요" />
+      <item value="이것은 HTTP " />
+      <item value="이것은 " />
+      <item value="특수목적" />
+      <item value="특수" />
+      <item value="자세히" />
+      <item value="동시에" />
+      <item value="ehdtl" />
+      <item value="중첩된" />
+      <item value="내가 쓴 게시글 " />
+      <item value="내가 작성한 댓글" />
+      <item value="누를 수 있는 영역" />
+      <item value="눌러지는 네모" />
+      <item value="눌러지는 " />
+      <item value="이메일 검증여부 확인한다" />
+      <item value="이메일 검증여부 확읺" />
+      <item value="이메일 검증된 계정인가" />
+      <item value="이메일 " />
+      <item value="이메일 검증 응답" />
+      <item value="임이" />
+      <item value="이메일 재전송까지 남은 시간 메세지" />
+      <item value="이메일 재전송 시간" />
+      <item value="요청 제한" />
+      <item value="마지막으로 이메일을 보내시간이 1분 이하라면" />
+      <item value="마지막으로 이메일을 보내시간이 1분 미만이라면" />
+      <item value="마지막으로 이메일을 보내시간이 1분 " />
+      <item value="마지막으로 이메일을 보내" />
+      <item value="1분" />
+      <item value="verify" />
+      <item value="check email verified" />
+      <item value="check email verif" />
+      <item value="check email ve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="43" />
-        <entry key="KOREAN" value="69" />
+        <entry key="ENGLISH" value="70" />
+        <entry key="KOREAN" value="119" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635236009820" />
+    <option name="lastTrimTime" value="1639041173538" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />

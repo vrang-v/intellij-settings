@@ -1,0 +1,16 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="PointcutExpression" injector-id="java">
+      <display-name>AbstractExpressionPointcut.setExpression (org.springframework.aop.support)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setExpression").withParameters("java.lang.String").definedInClass("org.springframework.aop.support.AbstractExpressionPointcut"))]]></place>
+    </injection>
+    <injection language="PointcutExpression" injector-id="java">
+      <display-name>Around.value (org.aspectj.lang.annotation)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.aspectj.lang.annotation.Around")]]></place>
+    </injection>
+    <injection language="PointcutExpression" injector-id="java">
+      <display-name>Before.value (org.aspectj.lang.annotation)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.aspectj.lang.annotation.Before")]]></place>
+    </injection>
+  </component>
+</application>
