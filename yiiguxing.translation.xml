@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="The name of the part. Required for all parameter types except okhttp3.MultipartBody.Part." />
       <item value="원인" />
       <item value="원" />
       <item value="dㅓㄴ" />
@@ -54,17 +55,16 @@
       <item value="verify" />
       <item value="check email verified" />
       <item value="check email verif" />
-      <item value="check email ve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="KOREAN" value="119" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639041173538" />
+    <option name="lastTrimTime" value="1639497738699" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
