@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="마침표" />
       <item value="The name of the part. Required for all parameter types except okhttp3.MultipartBody.Part." />
       <item value="원인" />
       <item value="원" />
@@ -54,7 +55,6 @@
       <item value="1분" />
       <item value="verify" />
       <item value="check email verified" />
-      <item value="check email verif" />
     </histories>
     <option name="languageScores">
       <map>
