@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="만약 " />
       <item value="retrieve" />
       <item value="ret" />
       <item value="r" />
@@ -54,7 +55,6 @@
       <item value="마지막으로 이메일을 보내시간이 1분 이하라면" />
       <item value="마지막으로 이메일을 보내시간이 1분 미만이라면" />
       <item value="마지막으로 이메일을 보내시간이 1분 " />
-      <item value="마지막으로 이메일을 보내" />
     </histories>
     <option name="languageScores">
       <map>
