@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="설정 파일" />
       <item value="만약 " />
       <item value="retrieve" />
       <item value="ret" />
@@ -54,12 +55,11 @@
       <item value="요청 제한" />
       <item value="마지막으로 이메일을 보내시간이 1분 이하라면" />
       <item value="마지막으로 이메일을 보내시간이 1분 미만이라면" />
-      <item value="마지막으로 이메일을 보내시간이 1분 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="71" />
-        <entry key="KOREAN" value="120" />
+        <entry key="ENGLISH" value="72" />
+        <entry key="KOREAN" value="121" />
       </map>
     </option>
   </component>
