@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="after" />
+      <item value="after at 3" />
+      <item value="after at " />
+      <item value="after at" />
+      <item value="after " />
+      <item value="before at 3" />
+      <item value="before at" />
+      <item value="3시보다 전에" />
+      <item value="~보다 전에" />
       <item value="파일 저장 서비스" />
       <item value="vkdl" />
       <item value="error: the following file has staged content different from both the&#10;file and the HEAD:&#10;" />
@@ -46,25 +55,16 @@
       <item value="내가 작성한 댓글" />
       <item value="누를 수 있는 영역" />
       <item value="눌러지는 네모" />
-      <item value="눌러지는 " />
-      <item value="이메일 검증여부 확인한다" />
-      <item value="이메일 검증여부 확읺" />
-      <item value="이메일 검증된 계정인가" />
-      <item value="이메일 " />
-      <item value="이메일 검증 응답" />
-      <item value="임이" />
-      <item value="이메일 재전송까지 남은 시간 메세지" />
-      <item value="이메일 재전송 시간" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="73" />
-        <entry key="KOREAN" value="123" />
+        <entry key="ENGLISH" value="83" />
+        <entry key="KOREAN" value="133" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639497738699" />
+    <option name="lastTrimTime" value="1640088988240" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
