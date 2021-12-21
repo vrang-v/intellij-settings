@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="더 보기" />
       <item value="after" />
       <item value="after at 3" />
       <item value="after at " />
@@ -54,7 +55,6 @@
       <item value="내가 쓴 게시글 " />
       <item value="내가 작성한 댓글" />
       <item value="누를 수 있는 영역" />
-      <item value="눌러지는 네모" />
     </histories>
     <option name="languageScores">
       <map>
