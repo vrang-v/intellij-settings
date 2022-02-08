@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="로그인 요청을 검즈앟ㄴ다" />
+      <item value="ㄹ" />
       <item value="absolute" />
       <item value="abso" />
       <item value="abso;" />
@@ -53,8 +55,6 @@
       <item value="이것은 HTTP 요청의 비어있는 Response" />
       <item value="이것은 HTTP 요" />
       <item value="이것은 HTTP " />
-      <item value="이것은 " />
-      <item value="특수목적" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643797723547" />
+    <option name="lastTrimTime" value="1644302966322" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
