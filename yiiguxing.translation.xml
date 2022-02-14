@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="thermostatst" />
       <item value="로그인 요청을 검즈앟ㄴ다" />
       <item value="ㄹ" />
       <item value="absolute" />
@@ -54,17 +55,16 @@
       <item value="이것은 HTTP 요청의 비어있는 Response를 나타냅니다." />
       <item value="이것은 HTTP 요청의 비어있는 Response" />
       <item value="이것은 HTTP 요" />
-      <item value="이것은 HTTP " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="84" />
-        <entry key="KOREAN" value="136" />
+        <entry key="KOREAN" value="137" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644302966322" />
+    <option name="lastTrimTime" value="1644837456770" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
