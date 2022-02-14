@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="alert for miscreant" />
+      <item value="alert for mis" />
+      <item value="miscreant" />
+      <item value="miscreatnt" />
+      <item value="criminal" />
+      <item value="v" />
+      <item value="cirimi" />
       <item value="invoice" />
       <item value="haggis" />
       <item value="thermostatst" />
@@ -48,18 +55,11 @@
       <item value="좋아하는 " />
       <item value="liker id" />
       <item value="게시글의 좋아요를 누른 계정의 id" />
-      <item value="게시글의 좋아요를 누른 계정 id" />
-      <item value="ㄱ좋아요를 누른 계정 id" />
-      <item value="좋아요를 누른 계정 id" />
-      <item value="liker" />
-      <item value="InterruptedExceptions should never be ignored in the code, and simply logging the exception counts in this case as &quot;ignoring&quot;. The throwing of the InterruptedException clears the interrupted state of the Thread, so if the exception is not handled properly the information that the thread was interrupted will be lost. Instead, InterruptedExceptions should either be rethrown - immediately or after cleaning up the method’s state - or the thread should be re-interrupted by calling Thread.interrupt() even if this is supposed to be a single-threaded application. Any other course of action risks delaying thread shutdown and loses the information that the thread was interrupted - probably without finishing its task" />
-      <item value="// Note: this class was written without inspecting the non-free org.json source code." />
-      <item value="이것은 HTTP 요청의 비어있는 Response를 나타냅니다." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="84" />
-        <entry key="KOREAN" value="139" />
+        <entry key="ENGLISH" value="87" />
+        <entry key="KOREAN" value="144" />
       </map>
     </option>
   </component>
