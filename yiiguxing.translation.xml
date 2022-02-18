@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="overdrawn" />
+      <item value="1개당 배송비" />
+      <item value="1개당 배송비요\\" />
+      <item value="할인액" />
       <item value="threshold" />
       <item value="alert for miscreant" />
       <item value="alert for mis" />
@@ -51,15 +55,11 @@
       <item value="dㅓㄴ" />
       <item value="게시글을 좋아하는 사람 id" />
       <item value="게시글을 좋아하는 사람" />
-      <item value="~을 좋아하는 사람" />
-      <item value="좋아하는 사람" />
-      <item value="좋아하는 " />
-      <item value="liker id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="88" />
-        <entry key="KOREAN" value="146" />
+        <entry key="ENGLISH" value="92" />
+        <entry key="KOREAN" value="151" />
       </map>
     </option>
   </component>
