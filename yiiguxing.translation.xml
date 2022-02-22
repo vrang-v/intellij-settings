@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="우선순위" />
       <item value="inheri" />
       <item value="overdrawn" />
       <item value="1개당 배송비" />
@@ -54,7 +55,6 @@
       <item value="원인" />
       <item value="원" />
       <item value="dㅓㄴ" />
-      <item value="게시글을 좋아하는 사람 id" />
     </histories>
     <option name="languageScores">
       <map>
