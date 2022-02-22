@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="inheri" />
       <item value="overdrawn" />
       <item value="1개당 배송비" />
       <item value="1개당 배송비요\\" />
@@ -54,17 +55,16 @@
       <item value="원" />
       <item value="dㅓㄴ" />
       <item value="게시글을 좋아하는 사람 id" />
-      <item value="게시글을 좋아하는 사람" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="92" />
-        <entry key="KOREAN" value="151" />
+        <entry key="KOREAN" value="152" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644837456770" />
+    <option name="lastTrimTime" value="1645515306641" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
