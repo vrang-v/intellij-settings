@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="meteorologist" />
+      <item value="기상술사" />
+      <item value="기상술자" />
+      <item value="artist" />
+      <item value="artisst" />
       <item value="우선순위" />
       <item value="inheri" />
       <item value="overdrawn" />
@@ -50,16 +55,11 @@
       <item value="retrieve" />
       <item value="ret" />
       <item value="r" />
-      <item value="마침표" />
-      <item value="The name of the part. Required for all parameter types except okhttp3.MultipartBody.Part." />
-      <item value="원인" />
-      <item value="원" />
-      <item value="dㅓㄴ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="92" />
-        <entry key="KOREAN" value="152" />
+        <entry key="KOREAN" value="154" />
       </map>
     </option>
   </component>
