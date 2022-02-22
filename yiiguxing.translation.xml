@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="bard" />
       <item value="profit" />
       <item value="voyage" />
       <item value="meteorologist" />
@@ -54,12 +55,11 @@
       <item value="error: the following file has staged content different from both the&#10;file and the HEAD:&#10;" />
       <item value="설정 파일" />
       <item value="만약 " />
-      <item value="retrieve" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="92" />
-        <entry key="KOREAN" value="156" />
+        <entry key="KOREAN" value="157" />
       </map>
     </option>
   </component>
