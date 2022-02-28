@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="전초전" />
+      <item value="wjs" />
       <item value="malformed url " />
       <item value="malformed " />
       <item value="malformed" />
@@ -53,18 +55,16 @@
       <item value="before at" />
       <item value="3시보다 전에" />
       <item value="~보다 전에" />
-      <item value="파일 저장 서비스" />
-      <item value="vkdl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="92" />
-        <entry key="KOREAN" value="158" />
+        <entry key="ENGLISH" value="93" />
+        <entry key="KOREAN" value="159" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645515306641" />
+    <option name="lastTrimTime" value="1646075606743" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
