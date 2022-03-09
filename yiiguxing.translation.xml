@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="scouter" />
       <item value="전초전" />
       <item value="wjs" />
       <item value="malformed url " />
@@ -54,17 +55,16 @@
       <item value="before at 3" />
       <item value="before at" />
       <item value="3시보다 전에" />
-      <item value="~보다 전에" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="93" />
-        <entry key="KOREAN" value="159" />
+        <entry key="KOREAN" value="160" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646075606743" />
+    <option name="lastTrimTime" value="1646843239819" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
