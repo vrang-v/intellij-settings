@@ -15,7 +15,7 @@
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="5.1.47" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.3.3" />
     </driver>
     <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver" />
     <driver id="45703a2e-779d-4d9f-ae76-ace79944df27" name="User Driver [2]" driver-class="java.sql.Driver" />
