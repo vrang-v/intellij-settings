@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="534" />
+    <option name="newTranslationDialogHeight" value="324" />
+    <option name="newTranslationDialogWidth" value="652" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="The Application Default Credentials are not available. They are available if running in Google Compute Engine. Otherwise, the environment variable GOOGLE_APPLICATION_CREDENTIALS must be defined pointing to a file defining the credentials. See https://developers.google.com/accounts/docs/application-default-credentials for more information." />
       <item value="scouter" />
       <item value="전초전" />
       <item value="wjs" />
@@ -54,12 +56,11 @@
       <item value="after " />
       <item value="before at 3" />
       <item value="before at" />
-      <item value="3시보다 전에" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="93" />
-        <entry key="KOREAN" value="160" />
+        <entry key="KOREAN" value="161" />
       </map>
     </option>
   </component>
