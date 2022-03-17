@@ -70,5 +70,6 @@
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
     <option name="primaryFontFamily" value="AppleSDGothicNeoM00" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
