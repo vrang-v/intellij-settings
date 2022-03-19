@@ -1,66 +1,22 @@
 <application>
   <component name="AppStorage">
+    <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="324" />
-    <option name="newTranslationDialogWidth" value="650" />
-    <option name="newTranslationDialogX" value="623" />
-    <option name="newTranslationDialogY" value="348" />
+    <option name="newTranslationDialogWidth" value="644" />
+    <option name="newTranslationDialogX" value="576" />
+    <option name="newTranslationDialogY" value="385" />
     <histories>
-      <item value="최신 가격으로 갱신한다 " />
-      <item value="최신 " />
-      <item value="최신" />
-      <item value="최신 가격으로 갱신한다" />
-      <item value="The Application Default Credentials are not available. They are available if running in Google Compute Engine. Otherwise, the environment variable GOOGLE_APPLICATION_CREDENTIALS must be defined pointing to a file defining the credentials. See https://developers.google.com/accounts/docs/application-default-credentials for more information." />
-      <item value="scouter" />
-      <item value="전초전" />
-      <item value="wjs" />
-      <item value="malformed url " />
-      <item value="malformed " />
-      <item value="malformed" />
-      <item value="bard" />
-      <item value="profit" />
-      <item value="voyage" />
-      <item value="meteorologist" />
-      <item value="기상술사" />
-      <item value="기상술자" />
-      <item value="artist" />
-      <item value="artisst" />
-      <item value="우선순위" />
-      <item value="inheri" />
-      <item value="overdrawn" />
-      <item value="1개당 배송비" />
-      <item value="1개당 배송비요\\" />
-      <item value="할인액" />
-      <item value="threshold" />
-      <item value="alert for miscreant" />
-      <item value="alert for mis" />
-      <item value="miscreant" />
-      <item value="miscreatnt" />
-      <item value="criminal" />
+      <item value="convert" />
+      <item value="검증된 계정으로 변경한다" />
+      <item value="검증된 계정으로 전환한다" />
+      <item value="verify" />
       <item value="v" />
-      <item value="cirimi" />
-      <item value="invoice" />
-      <item value="haggis" />
-      <item value="thermostatst" />
-      <item value="로그인 요청을 검즈앟ㄴ다" />
-      <item value="ㄹ" />
-      <item value="absolute" />
-      <item value="abso" />
-      <item value="abso;" />
-      <item value="generate upload file name" />
-      <item value="generate uplaod file name" />
-      <item value="generate upda" />
-      <item value="ㅎㄷ" />
-      <item value="이름이 없는 파일" />
-      <item value="더 보기" />
-      <item value="after" />
-      <item value="after at 3" />
-      <item value="after at " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="93" />
-        <entry key="KOREAN" value="161" />
+        <entry key="ENGLISH" value="118" />
+        <entry key="KOREAN" value="190" />
       </map>
     </option>
   </component>
@@ -70,6 +26,5 @@
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
     <option name="primaryFontFamily" value="AppleSDGothicNeoM00" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
