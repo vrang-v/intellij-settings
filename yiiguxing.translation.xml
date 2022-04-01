@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="576" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="mutable" />
       <item value="pending" />
       <item value="pe" />
       <item value="convert" />
@@ -18,7 +19,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="118" />
-        <entry key="KOREAN" value="191" />
+        <entry key="KOREAN" value="192" />
       </map>
     </option>
   </component>
