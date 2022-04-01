@@ -7,6 +7,8 @@
     <option name="newTranslationDialogX" value="576" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="pending" />
+      <item value="pe" />
       <item value="convert" />
       <item value="검증된 계정으로 변경한다" />
       <item value="검증된 계정으로 전환한다" />
@@ -16,7 +18,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="118" />
-        <entry key="KOREAN" value="190" />
+        <entry key="KOREAN" value="191" />
       </map>
     </option>
   </component>
