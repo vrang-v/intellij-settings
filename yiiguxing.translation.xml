@@ -3,20 +3,20 @@
     <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="310" />
-    <option name="newTranslationDialogWidth" value="636" />
-    <option name="newTranslationDialogX" value="713" />
-    <option name="newTranslationDialogY" value="363" />
+    <option name="newTranslationDialogWidth" value="630" />
+    <option name="newTranslationDialogX" value="684" />
+    <option name="newTranslationDialogY" value="411" />
     <histories>
+      <item value="새로 참가한" />
+      <item value="새로 참가한 투표" />
+      <item value="투표 후 첫 갱신 애니메이션" />
+      <item value="투표 후 첫 갱신" />
       <item value="페이지를 넘기다" />
       <item value="책장을 넘기다" />
       <item value="책을 넘기다" />
       <item value="스톡 가격 갱신 서비스" />
       <item value="스톡 갱신 서비스" />
       <item value="fetch" />
-      <item value="mutable" />
-      <item value="pending" />
-      <item value="pe" />
-      <item value="convert" />
     </histories>
     <option name="languageScores">
       <map>
