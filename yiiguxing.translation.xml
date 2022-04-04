@@ -2,11 +2,14 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="324" />
-    <option name="newTranslationDialogWidth" value="640" />
-    <option name="newTranslationDialogX" value="619" />
-    <option name="newTranslationDialogY" value="362" />
+    <option name="newTranslationDialogHeight" value="310" />
+    <option name="newTranslationDialogWidth" value="636" />
+    <option name="newTranslationDialogX" value="713" />
+    <option name="newTranslationDialogY" value="363" />
     <histories>
+      <item value="페이지를 넘기다" />
+      <item value="책장을 넘기다" />
+      <item value="책을 넘기다" />
       <item value="스톡 가격 갱신 서비스" />
       <item value="스톡 갱신 서비스" />
       <item value="fetch" />
@@ -14,9 +17,6 @@
       <item value="pending" />
       <item value="pe" />
       <item value="convert" />
-      <item value="검증된 계정으로 변경한다" />
-      <item value="검증된 계정으로 전환한다" />
-      <item value="verify" />
     </histories>
     <option name="languageScores">
       <map>
