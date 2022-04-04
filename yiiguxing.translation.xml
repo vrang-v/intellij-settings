@@ -3,25 +3,25 @@
     <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="310" />
-    <option name="newTranslationDialogWidth" value="630" />
-    <option name="newTranslationDialogX" value="684" />
-    <option name="newTranslationDialogY" value="411" />
+    <option name="newTranslationDialogWidth" value="626" />
+    <option name="newTranslationDialogX" value="699" />
+    <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="제외항목" />
+      <item value="포장하다 " />
+      <item value="포장하다" />
+      <item value="vhwkd" />
+      <item value="v" />
       <item value="새로 참가한" />
       <item value="새로 참가한 투표" />
       <item value="투표 후 첫 갱신 애니메이션" />
       <item value="투표 후 첫 갱신" />
       <item value="페이지를 넘기다" />
-      <item value="책장을 넘기다" />
-      <item value="책을 넘기다" />
-      <item value="스톡 가격 갱신 서비스" />
-      <item value="스톡 갱신 서비스" />
-      <item value="fetch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="118" />
-        <entry key="KOREAN" value="193" />
+        <entry key="ENGLISH" value="121" />
+        <entry key="KOREAN" value="196" />
       </map>
     </option>
   </component>
