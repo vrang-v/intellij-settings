@@ -1,70 +1,27 @@
 <application>
   <component name="AppStorage">
+    <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="538" />
-    <option name="newTranslationDialogX" value="623" />
-    <option name="newTranslationDialogY" value="348" />
+    <option name="newTranslationDialogHeight" value="324" />
+    <option name="newTranslationDialogWidth" value="644" />
+    <option name="newTranslationDialogX" value="576" />
+    <option name="newTranslationDialogY" value="385" />
     <histories>
-      <item value="더 보기" />
-      <item value="after" />
-      <item value="after at 3" />
-      <item value="after at " />
-      <item value="after at" />
-      <item value="after " />
-      <item value="before at 3" />
-      <item value="before at" />
-      <item value="3시보다 전에" />
-      <item value="~보다 전에" />
-      <item value="파일 저장 서비스" />
-      <item value="vkdl" />
-      <item value="error: the following file has staged content different from both the&#10;file and the HEAD:&#10;" />
-      <item value="설정 파일" />
-      <item value="만약 " />
-      <item value="retrieve" />
-      <item value="ret" />
-      <item value="r" />
-      <item value="마침표" />
-      <item value="The name of the part. Required for all parameter types except okhttp3.MultipartBody.Part." />
-      <item value="원인" />
-      <item value="원" />
-      <item value="dㅓㄴ" />
-      <item value="게시글을 좋아하는 사람 id" />
-      <item value="게시글을 좋아하는 사람" />
-      <item value="~을 좋아하는 사람" />
-      <item value="좋아하는 사람" />
-      <item value="좋아하는 " />
-      <item value="liker id" />
-      <item value="게시글의 좋아요를 누른 계정의 id" />
-      <item value="게시글의 좋아요를 누른 계정 id" />
-      <item value="ㄱ좋아요를 누른 계정 id" />
-      <item value="좋아요를 누른 계정 id" />
-      <item value="liker" />
-      <item value="InterruptedExceptions should never be ignored in the code, and simply logging the exception counts in this case as &quot;ignoring&quot;. The throwing of the InterruptedException clears the interrupted state of the Thread, so if the exception is not handled properly the information that the thread was interrupted will be lost. Instead, InterruptedExceptions should either be rethrown - immediately or after cleaning up the method’s state - or the thread should be re-interrupted by calling Thread.interrupt() even if this is supposed to be a single-threaded application. Any other course of action risks delaying thread shutdown and loses the information that the thread was interrupted - probably without finishing its task" />
-      <item value="// Note: this class was written without inspecting the non-free org.json source code." />
-      <item value="이것은 HTTP 요청의 비어있는 Response를 나타냅니다." />
-      <item value="이것은 HTTP 요청의 비어있는 Response" />
-      <item value="이것은 HTTP 요" />
-      <item value="이것은 HTTP " />
-      <item value="이것은 " />
-      <item value="특수목적" />
-      <item value="특수" />
-      <item value="자세히" />
-      <item value="동시에" />
-      <item value="ehdtl" />
-      <item value="중첩된" />
-      <item value="내가 쓴 게시글 " />
-      <item value="내가 작성한 댓글" />
-      <item value="누를 수 있는 영역" />
+      <item value="convert" />
+      <item value="검증된 계정으로 변경한다" />
+      <item value="검증된 계정으로 전환한다" />
+      <item value="verify" />
+      <item value="v" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="83" />
-        <entry key="KOREAN" value="133" />
+        <entry key="ENGLISH" value="118" />
+        <entry key="KOREAN" value="190" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640772952037" />
+    <option name="lastTrimTime" value="1647941383073" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />

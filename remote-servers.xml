@@ -1,0 +1,7 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Bitwit App Engine" type="gcp-app-engine">
+      <configuration />
+    </remote-server>
+  </component>
+</application>
