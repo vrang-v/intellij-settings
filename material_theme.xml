@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="UIFont" value="Amarillo" />
+    <option name="UIFont" value="AppleSDGothicNeoL00" />
     <option name="allowDataCollection" value="true" />
     <option name="fileStatusColorsEnabled" value="false" />
     <option name="isHighlightColorEnabled" value="true" />
@@ -18,7 +18,7 @@
     <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="295a198b:1756cd06d88:-8000" />
     <option name="version" value="7.3.0" />
-    <option name="uiFont" value="Amarillo" />
+    <option name="uiFont" value="AppleSDGothicNeoL00" />
     <option name="codeAdditionsEnabled" value="false" />
     <option name="stripedToolWindowsEnabled" value="true" />
   </component>
