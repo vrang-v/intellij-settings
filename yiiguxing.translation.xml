@@ -2,26 +2,31 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="324" />
-    <option name="newTranslationDialogWidth" value="644" />
-    <option name="newTranslationDialogX" value="576" />
-    <option name="newTranslationDialogY" value="385" />
+    <option name="newTranslationDialogHeight" value="310" />
+    <option name="newTranslationDialogWidth" value="624" />
+    <option name="newTranslationDialogX" value="720" />
+    <option name="newTranslationDialogY" value="389" />
     <histories>
-      <item value="convert" />
-      <item value="검증된 계정으로 변경한다" />
-      <item value="검증된 계정으로 전환한다" />
-      <item value="verify" />
-      <item value="v" />
+      <item value="fetch" />
+      <item value="업데이트 제외 항목" />
+      <item value="업데이트 제외 항복" />
+      <item value="업데이트 " />
+      <item value="업데이트 제외" />
+      <item value="제외" />
+      <item value="w" />
+      <item value="제외항목" />
+      <item value="포장하다 " />
+      <item value="포장하다" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="118" />
-        <entry key="KOREAN" value="190" />
+        <entry key="ENGLISH" value="122" />
+        <entry key="KOREAN" value="198" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647941383073" />
+    <option name="lastTrimTime" value="1649771748974" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
