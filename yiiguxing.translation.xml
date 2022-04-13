@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="389" />
     <histories>
+      <item value="compact" />
       <item value="statement" />
       <item value="fetch" />
       <item value="업데이트 제외 항목" />
@@ -16,12 +17,11 @@
       <item value="제외" />
       <item value="w" />
       <item value="제외항목" />
-      <item value="포장하다 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="122" />
-        <entry key="KOREAN" value="199" />
+        <entry key="ENGLISH" value="123" />
+        <entry key="KOREAN" value="201" />
       </map>
     </option>
   </component>
