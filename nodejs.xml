@@ -1,7 +1,0 @@
-<application>
-  <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
-    <local-interpreter path="$APPLICATION_CONFIG_DIR$/node/node-v14.15.0-win-x64/node.exe" />
-    <local-interpreter path="D:/nodejs/node.exe" excluded="true" />
-  </component>
-</application>
