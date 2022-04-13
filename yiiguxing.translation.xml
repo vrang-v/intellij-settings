@@ -3,10 +3,11 @@
     <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="310" />
-    <option name="newTranslationDialogWidth" value="624" />
-    <option name="newTranslationDialogX" value="720" />
-    <option name="newTranslationDialogY" value="389" />
+    <option name="newTranslationDialogWidth" value="622" />
+    <option name="newTranslationDialogX" value="634" />
+    <option name="newTranslationDialogY" value="358" />
     <histories>
+      <item value="찾은 멤버" />
       <item value="compact" />
       <item value="statement" />
       <item value="fetch" />
@@ -16,7 +17,6 @@
       <item value="업데이트 제외" />
       <item value="제외" />
       <item value="w" />
-      <item value="제외항목" />
     </histories>
     <option name="languageScores">
       <map>
