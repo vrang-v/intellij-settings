@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="돈을 증감시킨다" />
       <item value="음소거" />
       <item value="dmathr" />
       <item value="갱신하다" />
@@ -16,7 +17,6 @@
       <item value="업데이트 " />
       <item value="업데이트 제외" />
       <item value="제외" />
-      <item value="w" />
     </histories>
     <option name="languageScores">
       <map>
