@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="Nesting try/catch blocks severely impacts the readability of source code because it makes it too difficult to understand which block will catch which exception." />
       <item value="잔액 부족" />
       <item value="돈을 증감시킨다" />
       <item value="음소거" />
@@ -16,12 +17,11 @@
       <item value="업데이트 제외 항목" />
       <item value="업데이트 제외 항복" />
       <item value="업데이트 " />
-      <item value="업데이트 제외" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="124" />
-        <entry key="KOREAN" value="200" />
+        <entry key="KOREAN" value="201" />
       </map>
     </option>
   </component>
