@@ -3,10 +3,11 @@
     <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="310" />
-    <option name="newTranslationDialogWidth" value="622" />
+    <option name="newTranslationDialogWidth" value="620" />
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="잔액 부족" />
       <item value="돈을 증감시킨다" />
       <item value="음소거" />
       <item value="dmathr" />
@@ -16,12 +17,11 @@
       <item value="업데이트 제외 항복" />
       <item value="업데이트 " />
       <item value="업데이트 제외" />
-      <item value="제외" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="123" />
-        <entry key="KOREAN" value="199" />
+        <entry key="ENGLISH" value="124" />
+        <entry key="KOREAN" value="200" />
       </map>
     </option>
   </component>
