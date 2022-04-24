@@ -343,5 +343,6 @@
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
   </codeStyleSettings>
 </code_scheme>
