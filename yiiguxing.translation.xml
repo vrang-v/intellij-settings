@@ -7,6 +7,9 @@
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="update Acquire Fence" />
+      <item value="updateAcquire Fence" />
+      <item value="updateAcquireFence" />
       <item value="Nesting try/catch blocks severely impacts the readability of source code because it makes it too difficult to understand which block will catch which exception." />
       <item value="잔액 부족" />
       <item value="돈을 증감시킨다" />
@@ -14,19 +17,16 @@
       <item value="dmathr" />
       <item value="갱신하다" />
       <item value="fetch" />
-      <item value="업데이트 제외 항목" />
-      <item value="업데이트 제외 항복" />
-      <item value="업데이트 " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="124" />
-        <entry key="KOREAN" value="201" />
+        <entry key="KOREAN" value="202" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650217206541" />
+    <option name="lastTrimTime" value="1650791471001" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
