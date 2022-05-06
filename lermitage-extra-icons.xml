@@ -3,6 +3,7 @@
     <option name="disabledModelIds">
       <list>
         <option value="ext_js" />
+        <option value="ide_yaml" />
       </list>
     </option>
     <option name="ignoredPattern" value="" />
