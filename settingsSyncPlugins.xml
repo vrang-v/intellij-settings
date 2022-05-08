@@ -201,6 +201,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="dev.meanmail.plugin.nginx-intellij-plugin-pro">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="lermitage.intellij.extra.icons">
           <value>
             <PluginData>
