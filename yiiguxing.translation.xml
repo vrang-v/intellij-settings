@@ -7,6 +7,8 @@
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="압축한다" />
+      <item value="dkqcnr" />
       <item value="Push of the current branch &quot;master&quot; in repository &quot;backend&quot; was rejected. Remote changes need to be merged before pushing." />
       <item value="수정 " />
       <item value="수정" />
@@ -15,18 +17,16 @@
       <item value="update Acquire Fence" />
       <item value="updateAcquire Fence" />
       <item value="updateAcquireFence" />
-      <item value="Nesting try/catch blocks severely impacts the readability of source code because it makes it too difficult to understand which block will catch which exception." />
-      <item value="잔액 부족" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="125" />
-        <entry key="KOREAN" value="204" />
+        <entry key="ENGLISH" value="126" />
+        <entry key="KOREAN" value="205" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652006973300" />
+    <option name="lastTrimTime" value="1652446616010" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
