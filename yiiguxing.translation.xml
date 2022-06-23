@@ -7,6 +7,8 @@
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="다른 유저의 댓글 수정" />
+      <item value="다른 유저의 " />
       <item value="파일명" />
       <item value="vkdlfaud" />
       <item value="Your Copilot experience is not fully configured, complete your setup." />
@@ -15,8 +17,6 @@
       <item value="Service bitwit-server has neither an image nor a build context specified. At least one must be provided.&#10;" />
       <item value="압축한다" />
       <item value="dkqcnr" />
-      <item value="Push of the current branch &quot;master&quot; in repository &quot;backend&quot; was rejected. Remote changes need to be merged before pushing." />
-      <item value="수정 " />
     </histories>
     <option name="languageScores">
       <map>
