@@ -3,10 +3,11 @@
     <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="310" />
-    <option name="newTranslationDialogWidth" value="620" />
+    <option name="newTranslationDialogWidth" value="618" />
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="존재하지 않는 " />
       <item value="다른 유저의 댓글 수정" />
       <item value="다른 유저의 " />
       <item value="파일명" />
@@ -16,12 +17,11 @@
       <item value="op" />
       <item value="Service bitwit-server has neither an image nor a build context specified. At least one must be provided.&#10;" />
       <item value="압축한다" />
-      <item value="dkqcnr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="127" />
-        <entry key="KOREAN" value="209" />
+        <entry key="ENGLISH" value="128" />
+        <entry key="KOREAN" value="210" />
       </map>
     </option>
   </component>
