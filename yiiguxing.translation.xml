@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="If you are using MockMvc did you use RestDocumentationRequestBuilders to build the request?" />
       <item value="자동으로 설정되는 필드 무시한다" />
       <item value="자동으로 설정되는 필드 무시" />
       <item value="자동으로 설정되는 필듭" />
@@ -16,12 +17,11 @@
       <item value="if target class is assignable from source " />
       <item value="if target class is assignable from " />
       <item value="if target class is as" />
-      <item value="if target class is " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="128" />
-        <entry key="KOREAN" value="212" />
+        <entry key="KOREAN" value="213" />
       </map>
     </option>
   </component>
