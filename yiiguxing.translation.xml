@@ -7,16 +7,16 @@
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="자동으로 설정되는 필드 무시한다" />
+      <item value="자동으로 설정되는 필드 무시" />
+      <item value="자동으로 설정되는 필듭" />
+      <item value="자동으로 생성되는 필드 무시" />
+      <item value="자동으롯 " />
       <item value="if target class is assignable from source class" />
       <item value="if target class is assignable from source " />
       <item value="if target class is assignable from " />
       <item value="if target class is as" />
       <item value="if target class is " />
-      <item value="if target" />
-      <item value="target class is assignable from source" />
-      <item value="exception class is assignable from source" />
-      <item value="존재하지 않는 " />
-      <item value="다른 유저의 댓글 수정" />
     </histories>
     <option name="languageScores">
       <map>
@@ -26,7 +26,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655808104104" />
+    <option name="lastTrimTime" value="1656245719775" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
