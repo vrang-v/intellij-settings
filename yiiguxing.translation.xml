@@ -3,25 +3,25 @@
     <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="310" />
-    <option name="newTranslationDialogWidth" value="616" />
+    <option name="newTranslationDialogWidth" value="614" />
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="헤더에 JWT를 입력하세요" />
+      <item value="헤더에 JWT를 넣어주세요" />
+      <item value="JWT를" />
+      <item value="JWT를 " />
+      <item value="JWT를 입력" />
+      <item value="JWT를 입력하세요" />
       <item value="assume" />
       <item value="완전한 댓글 응답" />
       <item value="완전한 댓글 " />
       <item value="완전한 " />
-      <item value="dhk" />
-      <item value="If you are using MockMvc did you use RestDocumentationRequestBuilders to build the request?" />
-      <item value="자동으로 설정되는 필드 무시한다" />
-      <item value="자동으로 설정되는 필드 무시" />
-      <item value="자동으로 설정되는 필듭" />
-      <item value="자동으로 생성되는 필드 무시" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="129" />
-        <entry key="KOREAN" value="215" />
+        <entry key="ENGLISH" value="135" />
+        <entry key="KOREAN" value="221" />
       </map>
     </option>
   </component>
