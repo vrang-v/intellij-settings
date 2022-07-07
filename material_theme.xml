@@ -9,7 +9,7 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSize" value="13" />
     <option name="tabFontSize" value="13" />
-    <option name="settingsSelectedTab" value="5" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="79cb60" />
     <option name="highlightColor" value="96e593" />
@@ -20,7 +20,6 @@
     <option name="tabFont" value="AppleSDGothicNeoM00" />
     <option name="treeFont" value="AppleSDGothicNeoL00" />
     <option name="codeAdditionsEnabled" value="false" />
-    <option name="expUIEnabled" value="true" />
     <option name="stripedToolWindowsEnabled" value="true" />
   </component>
 </application>
