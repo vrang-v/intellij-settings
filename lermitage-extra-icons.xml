@@ -1,5 +1,11 @@
 <application>
   <component name="ExtraIconsSettings">
+    <option name="disabledModelIds">
+      <list>
+        <option value="ext_js" />
+        <option value="ide_yaml" />
+      </list>
+    </option>
     <option name="ignoredPattern" value="" />
     <option name="customModels">
       <list>
@@ -8,6 +14,7 @@
           <option name="description" value="Javascript" />
           <option name="modelType" value="FILE" />
           <option name="iconType" value="IMG" />
+          <option name="enabled" value="false" />
           <option name="conditions">
             <ModelCondition>
               <option name="end" value="true" />
