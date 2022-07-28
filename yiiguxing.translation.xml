@@ -7,6 +7,9 @@
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="valid time in millis" />
+      <item value="valid time in " />
+      <item value="유효시간" />
       <item value="헤더에 JWT를 입력하세요" />
       <item value="헤더에 JWT를 넣어주세요" />
       <item value="JWT를" />
@@ -14,19 +17,16 @@
       <item value="JWT를 입력" />
       <item value="JWT를 입력하세요" />
       <item value="assume" />
-      <item value="완전한 댓글 응답" />
-      <item value="완전한 댓글 " />
-      <item value="완전한 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="135" />
-        <entry key="KOREAN" value="221" />
+        <entry key="ENGLISH" value="136" />
+        <entry key="KOREAN" value="223" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656245719775" />
+    <option name="lastTrimTime" value="1657185856417" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
