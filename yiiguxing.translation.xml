@@ -7,26 +7,26 @@
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="vulnerabilities" />
+      <item value="vulnerab" />
+      <item value="vulner" />
+      <item value="vuln" />
       <item value="valid time in millis" />
       <item value="valid time in " />
       <item value="유효시간" />
       <item value="헤더에 JWT를 입력하세요" />
       <item value="헤더에 JWT를 넣어주세요" />
       <item value="JWT를" />
-      <item value="JWT를 " />
-      <item value="JWT를 입력" />
-      <item value="JWT를 입력하세요" />
-      <item value="assume" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="136" />
-        <entry key="KOREAN" value="223" />
+        <entry key="KOREAN" value="224" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657185856417" />
+    <option name="lastTrimTime" value="1658998485774" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
