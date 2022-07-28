@@ -9,7 +9,6 @@
     <entry key="go.run.processes.with.pty" value="false" />
     <entry key="async.project.view.collapse.tree.path.recursively" value="true" />
     <entry key="ide.experimental.ui" value="false" />
-    <entry key="ide.tree.collapse.recursively" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
