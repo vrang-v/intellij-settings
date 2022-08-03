@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="숫자를 생성하다" />
       <item value="Templates should only be responsible for mapping the state to the UI. Avoid placing tags with side-effects in your templates, such as &lt;script&gt;, as they will not be parsed." />
       <item value="vulnerabilities" />
       <item value="vulnerab" />
@@ -16,12 +17,11 @@
       <item value="valid time in " />
       <item value="유효시간" />
       <item value="헤더에 JWT를 입력하세요" />
-      <item value="헤더에 JWT를 넣어주세요" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="136" />
-        <entry key="KOREAN" value="225" />
+        <entry key="ENGLISH" value="137" />
+        <entry key="KOREAN" value="226" />
       </map>
     </option>
   </component>
