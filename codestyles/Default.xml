@@ -41,7 +41,7 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="VAR_DECLARATION_WRAP" value="5" />
-    <option name="ALIGN_IMPORTS" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
   </JSCodeStyleSettings>
   <JSON>
