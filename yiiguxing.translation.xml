@@ -7,6 +7,8 @@
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="가위바위보" />
+      <item value="가위바위보 게임" />
       <item value="반응속도 체크" />
       <item value="반응속도" />
       <item value="안녕" />
@@ -15,8 +17,6 @@
       <item value="Templates should only be responsible for mapping the state to the UI. Avoid placing tags with side-effects in your templates, such as &lt;script&gt;, as they will not be parsed." />
       <item value="vulnerabilities" />
       <item value="vulnerab" />
-      <item value="vulner" />
-      <item value="vuln" />
     </histories>
     <option name="languageScores">
       <map>
