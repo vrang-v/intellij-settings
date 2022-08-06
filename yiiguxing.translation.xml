@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="698" />
     <option name="newTranslationDialogY" value="388" />
     <histories>
+      <item value="warning: 'record' may become a restricted type name in a future release and may be unusable for type declarations or as the element type of an array" />
       <item value="&#10;Use a org.springframework.security.web.SecurityFilterChain Bean to configure HttpSecurity or a WebSecurityCustomizer Bean to configure WebSecurity" />
       <item value="가위바위보" />
       <item value="가위바위보 게임" />
@@ -16,12 +17,11 @@
       <item value="d" />
       <item value="숫자를 생성하다" />
       <item value="Templates should only be responsible for mapping the state to the UI. Avoid placing tags with side-effects in your templates, such as &lt;script&gt;, as they will not be parsed." />
-      <item value="vulnerabilities" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="137" />
-        <entry key="KOREAN" value="227" />
+        <entry key="KOREAN" value="228" />
       </map>
     </option>
   </component>
