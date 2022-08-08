@@ -3,10 +3,13 @@
     <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="310" />
-    <option name="newTranslationDialogWidth" value="608" />
+    <option name="newTranslationDialogWidth" value="604" />
     <option name="newTranslationDialogX" value="698" />
     <option name="newTranslationDialogY" value="388" />
     <histories>
+      <item value="Extend a class that overrides equals and add fields without overriding equals in the subclass, and you run the risk of non-equivalent instances of your subclass being seen as equal, because only the superclass fields will be considered in the equality test.&#10;This rule looks for classes that do all of the following:&#10;extend classes that override equals.&#10;do not themselves override equals.&#10;add fields." />
+      <item value="Fields in a Serializable class must themselves be either Serializable or transient even if the class is never explicitly serialized or deserialized. For instance, under load, most J2EE application frameworks flush objects to disk, and an allegedly Serializable object with non-transient, non-serializable data members could cause program crashes, and open the door to attackers. In general a Serializable class is expected to fulfil its contract and not have an unexpected behaviour when an instance is serialized.&#10;This rule raises an issue on non-Serializable fields, and on collection fields when they are not private (because they could be assigned non-Serializable values externally), and when they are assigned non-Serializable types within the class." />
+      <item value="Correctly updating a static field from a non-static method is tricky to get right and could easily lead to bugs if there are multiple class instances and/or multiple threads in play. Ideally, static fields are only updated from synchronized static methods.&#10;This rule raises an issue each time a static field is updated from a non-static method." />
       <item value="The following untracked working tree files would be overwritten by checkout:" />
       <item value="Warning: Permanently added 'ec2-18-233-166-67.compute-1.amazonaws.com,18.233.166.67' (ECDSA) to the list of known hosts.&#10;pc@ec2-18-233-166-67.compute-1.amazonaws.com: Permission denied (publickey,gssapi-keyex,gssapi-with-mic)." />
       <item value="The authenticity of host '18.233.166.67 (18.233.166.67)' can't be established.&#10;ECDSA key fingerprint is SHA256:3/CgTdP7OPousFJqbIuNbk7tXvEH7oi45G4Td1muWMQ.&#10;Are you sure you want to continue connecting" />
@@ -14,14 +17,11 @@
       <item value="warning: 'record' may become a restricted type name in a future release and may be unusable for type declarations or as the element type of an array" />
       <item value="&#10;Use a org.springframework.security.web.SecurityFilterChain Bean to configure HttpSecurity or a WebSecurityCustomizer Bean to configure WebSecurity" />
       <item value="가위바위보" />
-      <item value="가위바위보 게임" />
-      <item value="반응속도 체크" />
-      <item value="반응속도" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="137" />
-        <entry key="KOREAN" value="231" />
+        <entry key="ENGLISH" value="150" />
+        <entry key="KOREAN" value="249" />
       </map>
     </option>
   </component>
