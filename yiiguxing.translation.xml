@@ -26,9 +26,14 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659466504456" />
+    <option name="lastTrimTime" value="1659967525888" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="KOREAN" />
+      </google-translate>
+    </option>
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
     <option name="primaryFontFamily" value="AppleSDGothicNeoM00" />
   </component>
