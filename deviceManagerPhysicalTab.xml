@@ -8,9 +8,9 @@
             <value value="R39M200SM9F" />
           </Key>
         </key>
-        <name value="samsung SM-G973N" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
