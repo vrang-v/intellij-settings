@@ -29,5 +29,6 @@
       </list>
     </option>
     <option name="additionalUIScale" value="1.0" />
+    <option name="ignoreWarnings" value="false" />
   </component>
 </application>
