@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="698" />
     <option name="newTranslationDialogY" value="388" />
     <histories>
+      <item value="You are asking Spring Security to ignore Ant [pattern='/error']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead." />
       <item value="&#10;Failed to query IDE filename index. This feature won't work: Helm icons. If this is the first time you see this message, and if you really need these features, please restart your IDE. If it doesn't help, try to clear the file system cache and Local History (go to File, Invalidate Caches...).  To disable this notification, please go to File, Settings..., Extra Icons, and check Ignore plugin's warnings." />
       <item value="Extend a class that overrides equals and add fields without overriding equals in the subclass, and you run the risk of non-equivalent instances of your subclass being seen as equal, because only the superclass fields will be considered in the equality test.&#10;This rule looks for classes that do all of the following:&#10;extend classes that override equals.&#10;do not themselves override equals.&#10;add fields." />
       <item value="Fields in a Serializable class must themselves be either Serializable or transient even if the class is never explicitly serialized or deserialized. For instance, under load, most J2EE application frameworks flush objects to disk, and an allegedly Serializable object with non-transient, non-serializable data members could cause program crashes, and open the door to attackers. In general a Serializable class is expected to fulfil its contract and not have an unexpected behaviour when an instance is serialized.&#10;This rule raises an issue on non-Serializable fields, and on collection fields when they are not private (because they could be assigned non-Serializable values externally), and when they are assigned non-Serializable types within the class." />
@@ -16,17 +17,16 @@
       <item value="The authenticity of host '18.233.166.67 (18.233.166.67)' can't be established.&#10;ECDSA key fingerprint is SHA256:3/CgTdP7OPousFJqbIuNbk7tXvEH7oi45G4Td1muWMQ.&#10;Are you sure you want to continue connecting" />
       <item value="로또" />
       <item value="warning: 'record' may become a restricted type name in a future release and may be unusable for type declarations or as the element type of an array" />
-      <item value="&#10;Use a org.springframework.security.web.SecurityFilterChain Bean to configure HttpSecurity or a WebSecurityCustomizer Bean to configure WebSecurity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="150" />
-        <entry key="KOREAN" value="250" />
+        <entry key="KOREAN" value="251" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659967525888" />
+    <option name="lastTrimTime" value="1660649710979" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
