@@ -7,6 +7,8 @@
     <option name="newTranslationDialogX" value="698" />
     <option name="newTranslationDialogY" value="388" />
     <histories>
+      <item value="side by side" />
+      <item value="side by si" />
       <item value="You are asking Spring Security to ignore Ant [pattern='/error']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead." />
       <item value="&#10;Failed to query IDE filename index. This feature won't work: Helm icons. If this is the first time you see this message, and if you really need these features, please restart your IDE. If it doesn't help, try to clear the file system cache and Local History (go to File, Invalidate Caches...).  To disable this notification, please go to File, Settings..., Extra Icons, and check Ignore plugin's warnings." />
       <item value="Extend a class that overrides equals and add fields without overriding equals in the subclass, and you run the risk of non-equivalent instances of your subclass being seen as equal, because only the superclass fields will be considered in the equality test.&#10;This rule looks for classes that do all of the following:&#10;extend classes that override equals.&#10;do not themselves override equals.&#10;add fields." />
@@ -15,13 +17,11 @@
       <item value="The following untracked working tree files would be overwritten by checkout:" />
       <item value="Warning: Permanently added 'ec2-18-233-166-67.compute-1.amazonaws.com,18.233.166.67' (ECDSA) to the list of known hosts.&#10;pc@ec2-18-233-166-67.compute-1.amazonaws.com: Permission denied (publickey,gssapi-keyex,gssapi-with-mic)." />
       <item value="The authenticity of host '18.233.166.67 (18.233.166.67)' can't be established.&#10;ECDSA key fingerprint is SHA256:3/CgTdP7OPousFJqbIuNbk7tXvEH7oi45G4Td1muWMQ.&#10;Are you sure you want to continue connecting" />
-      <item value="로또" />
-      <item value="warning: 'record' may become a restricted type name in a future release and may be unusable for type declarations or as the element type of an array" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="150" />
-        <entry key="KOREAN" value="251" />
+        <entry key="KOREAN" value="252" />
       </map>
     </option>
   </component>
