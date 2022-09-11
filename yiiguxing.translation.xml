@@ -7,6 +7,9 @@
     <option name="newTranslationDialogX" value="698" />
     <option name="newTranslationDialogY" value="388" />
     <histories>
+      <item value="고요한" />
+      <item value="rh" />
+      <item value="잔잔한" />
       <item value="side by side" />
       <item value="side by si" />
       <item value="You are asking Spring Security to ignore Ant [pattern='/error']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead." />
@@ -14,26 +17,18 @@
       <item value="Extend a class that overrides equals and add fields without overriding equals in the subclass, and you run the risk of non-equivalent instances of your subclass being seen as equal, because only the superclass fields will be considered in the equality test.&#10;This rule looks for classes that do all of the following:&#10;extend classes that override equals.&#10;do not themselves override equals.&#10;add fields." />
       <item value="Fields in a Serializable class must themselves be either Serializable or transient even if the class is never explicitly serialized or deserialized. For instance, under load, most J2EE application frameworks flush objects to disk, and an allegedly Serializable object with non-transient, non-serializable data members could cause program crashes, and open the door to attackers. In general a Serializable class is expected to fulfil its contract and not have an unexpected behaviour when an instance is serialized.&#10;This rule raises an issue on non-Serializable fields, and on collection fields when they are not private (because they could be assigned non-Serializable values externally), and when they are assigned non-Serializable types within the class." />
       <item value="Correctly updating a static field from a non-static method is tricky to get right and could easily lead to bugs if there are multiple class instances and/or multiple threads in play. Ideally, static fields are only updated from synchronized static methods.&#10;This rule raises an issue each time a static field is updated from a non-static method." />
-      <item value="The following untracked working tree files would be overwritten by checkout:" />
-      <item value="Warning: Permanently added 'ec2-18-233-166-67.compute-1.amazonaws.com,18.233.166.67' (ECDSA) to the list of known hosts.&#10;pc@ec2-18-233-166-67.compute-1.amazonaws.com: Permission denied (publickey,gssapi-keyex,gssapi-with-mic)." />
-      <item value="The authenticity of host '18.233.166.67 (18.233.166.67)' can't be established.&#10;ECDSA key fingerprint is SHA256:3/CgTdP7OPousFJqbIuNbk7tXvEH7oi45G4Td1muWMQ.&#10;Are you sure you want to continue connecting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="150" />
-        <entry key="KOREAN" value="252" />
+        <entry key="ENGLISH" value="151" />
+        <entry key="KOREAN" value="253" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660649710979" />
+    <option name="lastTrimTime" value="1662895501150" />
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="KOREAN" />
-      </google-translate>
-    </option>
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
     <option name="primaryFontFamily" value="AppleSDGothicNeoM00" />
   </component>
