@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="698" />
     <option name="newTranslationDialogY" value="388" />
     <histories>
+      <item value="// when we query a list of items, it's possible that other entities related to the items will be queried too in the query as nested fields.&#10;    // But the queried properties of the items will always be the immediate fields" />
       <item value="사막에 세워진 겨울 왕국" />
       <item value="사막에 세워진 겨울왕국" />
       <item value="사막에 세워진 " />
@@ -16,12 +17,11 @@
       <item value="우ㅜㅈ" />
       <item value="외계에서" />
       <item value="외계에서 " />
-      <item value="중세시대 전쟁을 시작하는 아돌프 히틀러" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="231" />
-        <entry key="KOREAN" value="350" />
+        <entry key="KOREAN" value="352" />
       </map>
     </option>
   </component>
