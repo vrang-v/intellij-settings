@@ -3,32 +3,37 @@
     <option name="maxHistorySize" value="10" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="310" />
-    <option name="newTranslationDialogWidth" value="604" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="698" />
     <option name="newTranslationDialogY" value="388" />
     <histories>
-      <item value="고요한" />
-      <item value="rh" />
-      <item value="잔잔한" />
-      <item value="side by side" />
-      <item value="side by si" />
-      <item value="You are asking Spring Security to ignore Ant [pattern='/error']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead." />
-      <item value="&#10;Failed to query IDE filename index. This feature won't work: Helm icons. If this is the first time you see this message, and if you really need these features, please restart your IDE. If it doesn't help, try to clear the file system cache and Local History (go to File, Invalidate Caches...).  To disable this notification, please go to File, Settings..., Extra Icons, and check Ignore plugin's warnings." />
-      <item value="Extend a class that overrides equals and add fields without overriding equals in the subclass, and you run the risk of non-equivalent instances of your subclass being seen as equal, because only the superclass fields will be considered in the equality test.&#10;This rule looks for classes that do all of the following:&#10;extend classes that override equals.&#10;do not themselves override equals.&#10;add fields." />
-      <item value="Fields in a Serializable class must themselves be either Serializable or transient even if the class is never explicitly serialized or deserialized. For instance, under load, most J2EE application frameworks flush objects to disk, and an allegedly Serializable object with non-transient, non-serializable data members could cause program crashes, and open the door to attackers. In general a Serializable class is expected to fulfil its contract and not have an unexpected behaviour when an instance is serialized.&#10;This rule raises an issue on non-Serializable fields, and on collection fields when they are not private (because they could be assigned non-Serializable values externally), and when they are assigned non-Serializable types within the class." />
-      <item value="Correctly updating a static field from a non-static method is tricky to get right and could easily lead to bugs if there are multiple class instances and/or multiple threads in play. Ideally, static fields are only updated from synchronized static methods.&#10;This rule raises an issue each time a static field is updated from a non-static method." />
+      <item value="// when we query a list of items, it's possible that other entities related to the items will be queried too in the query as nested fields.&#10;    // But the queried properties of the items will always be the immediate fields" />
+      <item value="사막에 세워진 겨울 왕국" />
+      <item value="사막에 세워진 겨울왕국" />
+      <item value="사막에 세워진 " />
+      <item value="우주 엘리베이ㅌ" />
+      <item value="우주 엘리베이터" />
+      <item value="우주로 " />
+      <item value="우ㅜㅈ" />
+      <item value="외계에서" />
+      <item value="외계에서 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="151" />
-        <entry key="KOREAN" value="253" />
+        <entry key="ENGLISH" value="231" />
+        <entry key="KOREAN" value="352" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662895501150" />
+    <option name="lastTrimTime" value="1663081254758" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="KOREAN" />
+      </google-translate>
+    </option>
     <option name="phoneticFontFamily" value="AppleSDGothicNeoL00" />
     <option name="primaryFontFamily" value="AppleSDGothicNeoM00" />
   </component>
