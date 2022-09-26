@@ -10,6 +10,9 @@
     <entry key="async.project.view.collapse.tree.path.recursively" value="true" />
     <entry key="ide.tree.collapse.recursively" value="true" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="9ba0a3" />
+    <entry key="editor.focus.mode.color.dark" value="9ba0a3" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
